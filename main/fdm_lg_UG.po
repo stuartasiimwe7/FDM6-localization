@@ -4749,23 +4749,23 @@ msgstr "Sazaamu"
 
 msgctxt "Scheduler|"
 msgid "Sun"
-msgstr ""
+msgstr "Sun"
 
 msgctxt "Scheduler|"
 msgid "Mon"
-msgstr ""
+msgstr "Mon"
 
 msgctxt "Scheduler|"
 msgid "Tue"
-msgstr ""
+msgstr "Tue"
 
 msgctxt "Scheduler|"
 msgid "Wed"
-msgstr ""
+msgstr "Wed"
 
 msgctxt "Scheduler|"
 msgid "Thu"
-msgstr ""
+msgstr "Thu"
 
 msgctxt "Scheduler|"
 msgid "Fri"
