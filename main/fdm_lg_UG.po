@@ -522,7 +522,7 @@ msgstr "Pasiwaadi:"
 
 msgctxt "AuthDialog|"
 msgid "remember"
-msgstr "Jukira."
+msgstr "jukira"
 
 msgctxt "AuthDialog|"
 msgid "Cancel"
@@ -550,7 +550,7 @@ msgstr "Pasiwaadi:"
 
 msgctxt "AuthenticationDialog|"
 msgid "remember"
-msgstr "Jukira."
+msgstr "jukira"
 
 msgctxt "AuthenticationDialog|"
 msgid "Cancel"
@@ -626,11 +626,11 @@ msgstr "Olunaku 1"
 
 msgctxt "BaseBaseErrorLabel|"
 msgid "Server has returned a web page."
-msgstr "Server ekomezaawo web peegi"
+msgstr "Server ekomezaawo web peegi."
 
 msgctxt "BaseBaseErrorLabel|"
 msgid "Click to open it in the web browser."
-msgstr "Nyinga okugulawo mu brawuza"
+msgstr "Nyinga okugulawo mu brawuza."
 
 msgctxt "BaseStringListArea|"
 msgid "Please enter one item per line"
@@ -662,7 +662,7 @@ msgstr "Ssiiga"
 
 msgctxt "BatchVideoQuality|"
 msgid "Max. video quality:"
-msgstr "Obulungi bwa video obusukulumu"
+msgstr "Obulungi bwa video obusukulumu:"
 
 msgctxt "BitrateComboBox|"
 msgid "kbps"
@@ -4749,23 +4749,23 @@ msgstr "Sazaamu"
 
 msgctxt "Scheduler|"
 msgid "Sun"
-msgstr "Sun"
+msgstr ""
 
 msgctxt "Scheduler|"
 msgid "Mon"
-msgstr "Mon"
+msgstr ""
 
 msgctxt "Scheduler|"
 msgid "Tue"
-msgstr "Tue"
+msgstr ""
 
 msgctxt "Scheduler|"
 msgid "Wed"
-msgstr "Wed"
+msgstr ""
 
 msgctxt "Scheduler|"
 msgid "Thu"
-msgstr "Thu"
+msgstr ""
 
 msgctxt "Scheduler|"
 msgid "Fri"
@@ -4973,11 +4973,11 @@ msgstr ""
 
 msgctxt "SettingsPage|"
 msgid "Default settings"
-msgstr "setiingi ezagirako."
+msgstr "setiingi ezagirako"
 
 msgctxt "SettingsPage|"
 msgid "Restore default settings?"
-msgstr "Komyaawo setiingi ezagirako."
+msgstr "Komyaawo setiingi ezagirako?"
 
 msgctxt "ShutdownBanner|"
 msgid "Cancel"
@@ -5455,7 +5455,7 @@ msgstr ""
 
 msgctxt "UpdateDialog|"
 msgid "Error:"
-msgstr "Wali ekizibu."
+msgstr "Wali ekizibu:"
 
 msgctxt "UpdateDialog|"
 msgid "Retry"
