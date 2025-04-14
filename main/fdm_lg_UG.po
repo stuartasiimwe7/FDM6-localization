@@ -1008,7 +1008,7 @@ msgstr ""
 
 msgctxt "ButtonsBlock|"
 msgid "No write access to the selected directory"
-msgstr ""
+msgstr "Tolina buyinza eri folder jolonze"
 
 msgctxt "ButtonsBlock|"
 msgid "Not enough disk space"
@@ -1420,17 +1420,18 @@ msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Abort"
 msgstr ""
 
+#, fuzzy
 msgctxt "DiskSpace|"
 msgid "Size: %1 (Disk space: %2)"
-msgstr ""
+msgstr "Sayizi: %1 (Sipesi ya Disiki: %2)"
 
 msgctxt "DiskSpace|"
 msgid "Disk space: %1"
-msgstr ""
+msgstr "Sipesi ya disiki: %1"
 
 msgctxt "DiskSpace|"
 msgid "Size: %1"
-msgstr ""
+msgstr "Sayizi: %1"
 
 msgctxt "DockUploadSpeedSetting|"
 msgid "Show total upload speed in the Dock icon"
@@ -1883,7 +1884,7 @@ msgstr ""
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Play file while it is still downloading"
-msgstr ""
+msgstr "Zanya fayilo ng'ekya dawuniloodinga"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Add mirror"
@@ -1951,7 +1952,7 @@ msgstr ""
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Files"
-msgstr ""
+msgstr "Fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Sequential download"
@@ -2128,7 +2129,7 @@ msgstr ""
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Save to"
-msgstr ""
+msgstr "Savinga"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Open"
@@ -2268,7 +2269,7 @@ msgstr ""
 
 msgctxt "FileName|"
 msgid "File name"
-msgstr ""
+msgstr "Erinya lya fayilo"
 
 msgctxt "FileName|"
 msgid "%1 files (*.%2)"
@@ -2352,7 +2353,7 @@ msgstr ""
 
 msgctxt "FilesTree|"
 msgid "Progress"
-msgstr ""
+msgstr "Amageenda"
 
 msgctxt "FilesTree|"
 msgid "Priority"
@@ -2372,7 +2373,7 @@ msgstr ""
 
 msgctxt "FilesTree|"
 msgid "Files"
-msgstr ""
+msgstr "Fayiro"
 
 msgctxt "FilesTree|"
 msgid "Select all"
@@ -3292,7 +3293,7 @@ msgstr ""
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Save to"
-msgstr ""
+msgstr "Savinga"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Open"
@@ -3336,7 +3337,7 @@ msgstr "KALE"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Save to"
-msgstr ""
+msgstr "Savinga"
 
 msgctxt "Mp3ConverterPage|"
 msgid "The path contains invalid characters"
@@ -3360,7 +3361,7 @@ msgstr ""
 
 msgctxt "Mp4ConverterDialog|"
 msgid "Save to"
-msgstr ""
+msgstr "Savinga"
 
 msgctxt "Mp4ConverterDialog|"
 msgid "Open"
@@ -3388,7 +3389,7 @@ msgstr "KALE"
 
 msgctxt "Mp4ConverterPage|"
 msgid "Save to"
-msgstr ""
+msgstr "Savinga"
 
 msgctxt "Mp4ConverterPage|"
 msgid "The path contains invalid characters"
@@ -3622,11 +3623,12 @@ msgstr ""
 
 msgctxt "Page|"
 msgid "Files"
-msgstr ""
+msgstr "Fayiro"
 
+#, fuzzy
 msgctxt "Page|"
 msgid "Connections"
-msgstr ""
+msgstr "Zi connection"
 
 msgctxt "PickFileButton|"
 msgid "Browse..."
@@ -3634,7 +3636,7 @@ msgstr ""
 
 msgctxt "PlayAsap|"
 msgid "Play file while it is still downloading"
-msgstr ""
+msgstr "Zanya fayilo ng'ekya dawuniloodinga"
 
 msgctxt "PluginBannerDialog|"
 msgid "Enjoy using %1 add-on?"
@@ -4737,7 +4739,7 @@ msgstr ""
 
 msgctxt "SaveTo|"
 msgid "Save to"
-msgstr ""
+msgstr "Savinga"
 
 msgctxt "SaveTo|"
 msgid "Open"
@@ -4973,7 +4975,7 @@ msgstr ""
 
 msgctxt "SettingsPage|"
 msgid "Default settings"
-msgstr "setiingi ezagirako"
+msgstr "Setiingi ezagirako"
 
 msgctxt "SettingsPage|"
 msgid "Restore default settings?"
@@ -5395,7 +5397,7 @@ msgstr ""
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "New file"
-msgstr ""
+msgstr "Fayilo empya"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Download"
@@ -5403,39 +5405,39 @@ msgstr "Dawuniloodi"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Save to"
-msgstr ""
+msgstr "Savinga"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "File name"
-msgstr ""
+msgstr "Erinya lya fayilo"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Play file while it is still downloading"
-msgstr ""
+msgstr "Zanya fayilo ng'ekya dawuniloodinga"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "No write access to the selected directory"
-msgstr ""
+msgstr "Tolina buyinza eri folder jolonze"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1 (Disk space: %2)"
-msgstr ""
+msgstr "Sayizi: %1 (Sipesi ya Disiki: %2)"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Disk space: %1"
-msgstr ""
+msgstr "Sipesi ya disiki: %1"
 
 msgctxt "TuneAndAddDownloadPage|"
 msgid "Size: %1"
-msgstr ""
+msgstr "Sayizi: %1"
 
 msgctxt "UiUpdatedBanner|"
 msgid "The classic interface is turned on."
-msgstr ""
+msgstr "Endabika ya classic kati yeriko."
 
 msgctxt "UiUpdatedBanner|"
 msgid "The new interface is turned on."
-msgstr ""
+msgstr "Endabika empya kati yeriko."
 
 msgctxt "UiUpdatedBanner|"
 msgid "OK"
