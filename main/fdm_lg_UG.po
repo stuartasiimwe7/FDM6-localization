@@ -4787,7 +4787,7 @@ msgstr "Buli lunaku"
 
 msgctxt "Scheduler|"
 msgid "To:"
-msgstr ""
+msgstr "Okutuusa"
 
 msgctxt "SchedulerButton|"
 msgid "Scheduler"
