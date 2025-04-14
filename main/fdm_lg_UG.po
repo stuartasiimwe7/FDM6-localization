@@ -4751,39 +4751,39 @@ msgstr "Sazaamu"
 
 msgctxt "Scheduler|"
 msgid "Sun"
-msgstr ""
+msgstr "Sabiiti"
 
 msgctxt "Scheduler|"
 msgid "Mon"
-msgstr ""
+msgstr "Monday"
 
 msgctxt "Scheduler|"
 msgid "Tue"
-msgstr ""
+msgstr "Oly'okubiri"
 
 msgctxt "Scheduler|"
 msgid "Wed"
-msgstr ""
+msgstr "Olw'okusatu"
 
 msgctxt "Scheduler|"
 msgid "Thu"
-msgstr ""
+msgstr "Olw'okuna"
 
 msgctxt "Scheduler|"
 msgid "Fri"
-msgstr ""
+msgstr "Olw'okutaano"
 
 msgctxt "Scheduler|"
 msgid "Sat"
-msgstr ""
+msgstr "Olw'omukaaga"
 
 msgctxt "Scheduler|"
 msgid "From:"
-msgstr ""
+msgstr "Okuvva"
 
 msgctxt "Scheduler|"
 msgid "Everyday"
-msgstr ""
+msgstr "Buli lunaku"
 
 msgctxt "Scheduler|"
 msgid "To:"
