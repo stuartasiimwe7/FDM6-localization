@@ -4779,7 +4779,7 @@ msgstr "Olw'omukaaga"
 
 msgctxt "Scheduler|"
 msgid "From:"
-msgstr "Okuvva"
+msgstr "Okuvva:"
 
 msgctxt "Scheduler|"
 msgid "Everyday"
@@ -4787,7 +4787,7 @@ msgstr "Buli lunaku"
 
 msgctxt "Scheduler|"
 msgid "To:"
-msgstr "Okutuusa"
+msgstr "Okutuusa:"
 
 msgctxt "SchedulerButton|"
 msgid "Scheduler"
