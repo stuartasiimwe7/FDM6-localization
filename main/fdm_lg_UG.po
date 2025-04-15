@@ -21,7 +21,7 @@ msgstr "Ebikwataako"
 
 msgctxt "AboutDialog|"
 msgid "Version: %1 (%2)"
-msgstr "Ekika: %1 (%2)"
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "AboutDialog|"
 msgid "Build date: %1"
@@ -37,7 +37,7 @@ msgstr "okufuga okuva ewala"
 
 msgctxt "AboutDialog|"
 msgid "version %1"
-msgstr "ekika %1"
+msgstr "enkyuusa %1"
 
 msgctxt "AboutDialog|"
 msgid "OK"
@@ -45,7 +45,7 @@ msgstr "KALE"
 
 msgctxt "AboutDialog|"
 msgid "Version %1 (%2)"
-msgstr "Ekika %1 (%2)"
+msgstr "Enkyuusa %1 (%2)"
 
 msgctxt "AddDateToFileName|"
 msgid "Add dates to files names"
@@ -1042,9 +1042,10 @@ msgctxt "ChangeUrlDialog|"
 msgid "Enter new URL"
 msgstr ""
 
+#, fuzzy
 msgctxt "ChangeUrlDialog|"
 msgid "File location: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Invalid URL"
@@ -1074,9 +1075,10 @@ msgctxt "ChangeUrlPage|"
 msgid "Enter new URL"
 msgstr ""
 
+#, fuzzy
 msgctxt "ChangeUrlPage|"
 msgid "File location: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ChangeUrlPage|"
 msgid "Start download"
@@ -1098,9 +1100,10 @@ msgctxt "ConfirmDeleteExtraneousFilesDialog|"
 msgid "Cancel"
 msgstr "Sazaamu"
 
+#, fuzzy
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Connect to remote %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "(beta)"
@@ -1208,9 +1211,10 @@ msgctxt "CppQmlAppRcServer|"
 msgid "Failed to start."
 msgstr ""
 
+#, fuzzy
 msgctxt "CppQmlAppRcServer|"
 msgid "Error: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "CppQmlAppRcServer|"
 msgid "OK"
@@ -1228,9 +1232,10 @@ msgctxt "CrashReporter|"
 msgid "An internal error occurred.<br>%1 needs to be restarted for further use."
 msgstr ""
 
+#, fuzzy
 msgctxt "CrashReporter|"
 msgid "Restart %1 automatically"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "CrashReporter|"
 msgid "Failed to send the report.<br>Check your Internet connection."
@@ -1252,9 +1257,10 @@ msgctxt "CreateFolderDialog|"
 msgid "Cancel"
 msgstr "Sazaamu"
 
+#, fuzzy
 msgctxt "CreatePortableDialog|"
 msgid "Create portable version"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "CreatePortableDialog|"
 msgid ""
@@ -1288,9 +1294,10 @@ msgctxt "CreatePortableDialog|"
 msgid "OK"
 msgstr "KALE"
 
+#, fuzzy
 msgctxt "CreatePortableDialog|"
 msgid "Creating %1%"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "CreatePortableDialog|"
 msgid "An error occurred while creating a portable version: %1"
@@ -1510,9 +1517,10 @@ msgctxt "DownloadStatus_V2|"
 msgid "Completed"
 msgstr "Kiwedde"
 
+#, fuzzy
 msgctxt "DownloadWindow|"
 msgid "[%1%] - %2"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "DownloadWindow|"
 msgid "Web page:"
@@ -1550,9 +1558,10 @@ msgctxt "DownloadWindow|"
 msgid "Downloaded"
 msgstr ""
 
+#, fuzzy
 msgctxt "DownloadWindow|"
 msgid "%1% [%2]"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "DownloadWindow|"
 msgid "Speed"
@@ -1626,17 +1635,20 @@ msgctxt "DownloadsItemTools|"
 msgid "Disk is missing"
 msgstr ""
 
+#, fuzzy
 msgctxt "DownloadsList|"
 msgid "duplicates (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "DownloadsList|"
 msgid "invalid (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "DownloadsList|"
 msgid "unsupported (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "DownloadsList|"
 msgid "Skipped downloads"
@@ -1690,9 +1702,10 @@ msgctxt "DownloadsPage|"
 msgid "Download list is empty. Add new download URL."
 msgstr ""
 
+#, fuzzy
 msgctxt "DownloadsPage|"
 msgid "Connect to remote %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "DownloadsSettings|"
 msgid "Downloads settings"
@@ -2051,9 +2064,10 @@ msgctxt "DownloadsViewStatusItem|"
 msgid "Complete"
 msgstr ""
 
+#, fuzzy
 msgctxt "DownloadsViewTools|"
 msgid "Downloads: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "EditTagDialog|"
 msgid "Edit tag"
@@ -2139,9 +2153,10 @@ msgctxt "ExportDownloadsDialog|"
 msgid "Cancel"
 msgstr "Sazaamu"
 
+#, fuzzy
 msgctxt "ExportDownloadsDialog|"
 msgid "All files (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export only completed downloads"
@@ -2151,9 +2166,10 @@ msgctxt "ExportDownloadsDialog|"
 msgid "Export"
 msgstr ""
 
+#, fuzzy
 msgctxt "ExportDownloadsTypeCombobox|"
 msgid "%1 downloads files (%2)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ExportDownloadsTypeCombobox|"
 msgid "Default format"
@@ -2163,17 +2179,19 @@ msgctxt "ExportDownloadsTypeCombobox|"
 msgid "List of URLs"
 msgstr ""
 
+#, fuzzy
 msgctxt "ExportDownloadsTypeCombobox|"
 msgid "Text files (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ExportDownloadsTypeCombobox|"
 msgid "CSV file"
 msgstr ""
 
+#, fuzzy
 msgctxt "ExportDownloadsTypeCombobox|"
 msgid "CSV files (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ExportSettingsDialog|"
 msgid "Export"
@@ -2183,13 +2201,15 @@ msgctxt "ExportSettingsDialog|"
 msgid "Cancel"
 msgstr "Sazaamu"
 
+#, fuzzy
 msgctxt "ExportSettingsDialog|"
 msgid "%1 settings files (%2)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "ExportSettingsDialog|"
 msgid "All files (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Check file integrity"
@@ -2199,9 +2219,10 @@ msgctxt "FileIntegrityDialog|"
 msgid "Hash"
 msgstr ""
 
+#, fuzzy
 msgctxt "FileIntegrityDialog|"
 msgid "Calculating %1%"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Compare with"
@@ -2243,9 +2264,10 @@ msgctxt "FileIntegrityPage|"
 msgid "Hash"
 msgstr ""
 
+#, fuzzy
 msgctxt "FileIntegrityPage|"
 msgid "Calculating %1%"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "FileIntegrityPage|"
 msgid "Compare with"
@@ -2271,9 +2293,10 @@ msgctxt "FileName|"
 msgid "File name"
 msgstr "Erinya lya fayilo"
 
+#, fuzzy
 msgctxt "FileName|"
 msgid "%1 files (*.%2)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "FileName|"
 msgid "All files"
@@ -2331,9 +2354,10 @@ msgctxt "FilesExistsDialog|"
 msgid "Remember my choice for all downloads"
 msgstr ""
 
+#, fuzzy
 msgctxt "FilesExistsDialog|"
 msgid "Rename (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "FilesExistsDialog|"
 msgid "Overwrite"
@@ -2686,9 +2710,10 @@ msgctxt "GeneralTab|"
 msgid "Added at:"
 msgstr ""
 
+#, fuzzy
 msgctxt "GeneralTab|"
 msgid "%1 of %2"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "GeneralTab|"
 msgid "Domain:"
@@ -2758,25 +2783,30 @@ msgctxt "ImportDialog|"
 msgid "Cancel"
 msgstr "Sazaamu"
 
+#, fuzzy
 msgctxt "ImportDialog|"
 msgid "All files (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "ImportDialog|"
 msgid "Text files (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "ImportDialog|"
 msgid "%1 downloads files (%2)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "ImportDialog|"
 msgid "%1 settings files (%2)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "ImportExportFailedDialog|"
 msgid "Error: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "OK"
@@ -2846,9 +2876,10 @@ msgctxt "LeftDrawer|"
 msgid "Disconnect from remote %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "LeftDrawer|"
 msgid "Connect to remote %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "LeftDrawer|"
 msgid "About"
@@ -2991,13 +3022,15 @@ msgctxt "MainMenu|"
 msgid "Disconnect from remote %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "MainMenu|"
 msgid "Connect to remote %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "MainMenu|"
 msgid "Create portable version"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "MainMenu|"
 msgid "Join the Mosaic..."
@@ -3187,9 +3220,10 @@ msgctxt "MediaFileReadyToPlayDialog|"
 msgid "Ready to play"
 msgstr ""
 
+#, fuzzy
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "%1 is ready to play"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "Play"
@@ -3223,9 +3257,10 @@ msgctxt "MergeDownloadsDialog|"
 msgid "Skip"
 msgstr ""
 
+#, fuzzy
 msgctxt "MergeDownloadsDialog|"
 msgid "Skip all (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Download"
@@ -3263,13 +3298,15 @@ msgctxt "MovingFailedDialog|"
 msgid "Moving download failed"
 msgstr ""
 
+#, fuzzy
 msgctxt "MovingFailedDialog|"
 msgid "Error: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "MovingFailedDialog|"
 msgid "Unable to move: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "MovingFailedDialog|"
 msgid "Try again"
@@ -3583,9 +3620,10 @@ msgctxt "Notification|"
 msgid "Ready to play"
 msgstr ""
 
+#, fuzzy
 msgctxt "OsPermissionsDialog|"
 msgid "%1 is missing permissions"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "OsPermissionsDialog|"
 msgid "(required)"
@@ -3744,9 +3782,10 @@ msgctxt "PluginsPage|"
 msgid "The following required components are missing:"
 msgstr ""
 
+#, fuzzy
 msgctxt "PluginsPage|"
 msgid "%1 is required."
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "PluginsPage|"
 msgid "Would you like to install them?"
@@ -3818,9 +3857,10 @@ msgctxt "PluginsViewItem|"
 msgid "Updating..."
 msgstr "Okuda ku nkozesa empya..."
 
+#, fuzzy
 msgctxt "PluginsViewItem|"
 msgid "Version: %1"
-msgstr ""
+msgstr "enkyuusa %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
@@ -3907,11 +3947,12 @@ msgctxt "QObject|"
 msgid "Failed to initialize app state manager."
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid ""
 "\n"
 "Error: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Enter URL"
@@ -3929,9 +3970,10 @@ msgctxt "QObject|"
 msgid "%1 has failed to initialize. Please reinstall."
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Reason: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Contact Support"
@@ -3945,9 +3987,10 @@ msgctxt "QObject|"
 msgid "Show main window"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "About %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Quit"
@@ -3961,77 +4004,95 @@ msgctxt "QObject|"
 msgid "Check for updates..."
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 B"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 KB"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 MB"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 GB"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 TB"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 K"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 M"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 G"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 T"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 B/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 KB/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 MB/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 GB/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 TB/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 K/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 M/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 G/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 T/s"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Download complete"
@@ -4097,9 +4158,10 @@ msgctxt "QObject|"
 msgid "Unknown file I/O error"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "HTTP Error %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Bad Request"
@@ -4281,9 +4343,10 @@ msgctxt "QObject|"
 msgid "Gateway Timeout"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "HTTP Version Not Supported"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Variant Also Negotiates"
@@ -4333,9 +4396,10 @@ msgctxt "QObject|"
 msgid "Not found"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Incompatible version"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Security check failed"
@@ -4429,9 +4493,10 @@ msgctxt "QObject|"
 msgid "Failed to remove current version"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "hdiutil error %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Mount point does not exist"
@@ -4441,21 +4506,25 @@ msgctxt "QObject|"
 msgid "Signature check failure."
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Download with %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Download all with %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Download selected with %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Download video with %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Video"
@@ -4541,17 +4610,20 @@ msgctxt "QObject|"
 msgid "Files were modified"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 of unknown at %2"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 of %2 at %3"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 %2 or higher"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Launch Python code"
@@ -4573,13 +4645,15 @@ msgctxt "QObject|"
 msgid "Missing components"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 are required"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "%1 is required"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "QObject|"
 msgid "Failed to load"
@@ -4869,9 +4943,10 @@ msgctxt "SearchToolbar|"
 msgid "Search"
 msgstr ""
 
+#, fuzzy
 msgctxt "SelectModeTopBar|"
 msgid "Selected: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "SelectSortFieldDialog|"
 msgid "Sort"
@@ -5005,9 +5080,10 @@ msgctxt "ShutdownDialog|"
 msgid "Cancel"
 msgstr "Sazaamu"
 
+#, fuzzy
 msgctxt "ShutdownDialog|"
 msgid "OK (%1)"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "ShutdownDialog|"
 msgid "Attention! Your computer will be put to Sleep mode."
@@ -5057,9 +5133,10 @@ msgctxt "SslDialog|"
 msgid "SSL Certificate is not valid."
 msgstr ""
 
+#, fuzzy
 msgctxt "SslDialog|"
 msgid "%1 key fingerprints"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "SslDialog|"
 msgid "Certificate fingerprints"
@@ -5335,9 +5412,10 @@ msgctxt "TumComboBox|"
 msgid "unlimited"
 msgstr ""
 
+#, fuzzy
 msgctxt "TumComboBox|"
 msgid "Download: %1, Upload: %2"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "TumComboBox|"
 msgid "High"
@@ -5467,21 +5545,24 @@ msgctxt "UpdateDialog|"
 msgid "Cancel"
 msgstr "Sazaamu"
 
+#, fuzzy
 msgctxt "UpdateDialog|"
 msgid "New version is available"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "UpdateDialog|"
 msgid "What's new in %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "UpdateDialog|"
 msgid "Update"
 msgstr ""
 
+#, fuzzy
 msgctxt "UpdateDialog|"
 msgid "%1 is up to date"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "UpdateDialog|"
 msgid "OK"
@@ -5515,9 +5596,10 @@ msgctxt "UpdateDialog|"
 msgid "Error occurred during installation:"
 msgstr ""
 
+#, fuzzy
 msgctxt "UpdateDialog|"
 msgid "Relaunch %1 to update"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "UpdateDialog|"
 msgid "Relaunch"
@@ -5535,9 +5617,10 @@ msgctxt "VideoQuality|"
 msgid "Quality:"
 msgstr ""
 
+#, fuzzy
 msgctxt "VoteBlock|"
 msgid "Enjoy %1?"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "VoteBlock|"
 msgid "Not, really"
@@ -5571,13 +5654,15 @@ msgctxt "WaitingPage|"
 msgid "Loading"
 msgstr ""
 
+#, fuzzy
 msgctxt "WaitingPage|"
 msgid "Connection to %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "WaitingPage|"
 msgid "Error: %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "WaitingPage|"
 msgid "Retry"
@@ -5591,13 +5676,15 @@ msgctxt "WaitingPage|"
 msgid "Abort"
 msgstr ""
 
+#, fuzzy
 msgctxt "WhatsNewDialog|"
 msgid "New version is available"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
+#, fuzzy
 msgctxt "WhatsNewDialog|"
 msgid "What's new in %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "WhatsNewDialog|"
 msgid "Update"
@@ -5611,9 +5698,10 @@ msgctxt "main|"
 msgid "The report has been sent. Thank you for your cooperation!"
 msgstr ""
 
+#, fuzzy
 msgctxt "main|"
 msgid "Remote connection to %1"
-msgstr ""
+msgstr "Enkyuusa: %1 (%2)"
 
 msgctxt "main|"
 msgid "Add download"
