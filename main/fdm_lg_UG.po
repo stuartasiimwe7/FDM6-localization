@@ -991,23 +991,23 @@ msgstr "Loopa Ekizibu"
 
 msgctxt "BuildDownloadPage|"
 msgid "Downloading from this site is not allowed"
-msgstr ""
+msgstr "Okudaawuniloodinga okuva kweno sayiti tekukilizibwa"
 
 msgctxt "BuildDownloadTools|"
 msgid "The proxy %1 requires a username and password."
-msgstr ""
+msgstr "Proxy %1 yetaaga username ne password."
 
 msgctxt "BuildDownloadTools|"
 msgid "%1 is requesting your username and password."
-msgstr ""
+msgstr "%1 esaba username yo ne password."
 
 msgctxt "BuildDownloadTools|"
 msgid "Querying info. Please wait..."
-msgstr ""
+msgstr "Tulimukukebera. Guminkirizaako..."
 
 msgctxt "ButtonsBlock|"
 msgid "Please select download link"
-msgstr ""
+msgstr "Bambi loonda linki yo kudawuniloodinga"
 
 msgctxt "ButtonsBlock|"
 msgid "You can select no more than %1 links at a time"
