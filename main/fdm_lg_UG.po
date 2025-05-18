@@ -1787,7 +1787,7 @@ msgstr ""
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "Paused"
-msgstr "BIpozingidwa"
+msgstr "Bipozingidwa"
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "File is missing"
