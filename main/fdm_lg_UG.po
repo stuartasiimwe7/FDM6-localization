@@ -1791,15 +1791,15 @@ msgstr "Bipozingidwa"
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "File is missing"
-msgstr ""
+msgstr "Fayilo teliwo"
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "Disk is missing"
-msgstr ""
+msgstr "Disiki teliwo"
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "Upload paused"
-msgstr ""
+msgstr "Apuloodinga ebipozingidwa"
 
 msgctxt "DownloadsViewHeader_V2|"
 msgid "Name"
