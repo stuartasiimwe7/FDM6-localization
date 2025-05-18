@@ -1807,11 +1807,11 @@ msgstr "Erinya"
 
 msgctxt "DownloadsViewHeader_V2|"
 msgid "Size"
-msgstr ""
+msgstr "Obunene"
 
 msgctxt "DownloadsViewHeader_V2|"
 msgid "Status"
-msgstr "Status"
+msgstr "Embeera"
 
 msgctxt "DownloadsViewHeader_V2|"
 msgid "Download"
@@ -1819,15 +1819,15 @@ msgstr "Dawuniloodi"
 
 msgctxt "DownloadsViewHeader_V2|"
 msgid "Upload"
-msgstr ""
+msgstr "Apuloodinga"
 
 msgctxt "DownloadsViewHeader_V2|"
 msgid "Added"
-msgstr ""
+msgstr "Ebigatidwako"
 
 msgctxt "DownloadsViewItem|"
 msgid "Priority"
-msgstr ""
+msgstr "Ebyetagisa"
 
 msgctxt "DownloadsViewItem|"
 msgid "Upload paused"
