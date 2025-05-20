@@ -1859,7 +1859,7 @@ msgstr "Laga dawuniloodi"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Choose files..."
-msgstr ""
+msgstr "Londa fayilo"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "High"
@@ -2191,7 +2191,7 @@ msgstr "Sazaamu"
 
 msgctxt "ExportSettingsDialog|"
 msgid "%1 settings files (%2)"
-msgstr "%1 fariyo z'enteekateeka (%2)"
+msgstr "%1 fayilo z'enteekateeka (%2)"
 
 msgctxt "ExportSettingsDialog|"
 msgid "All files (%1)"
@@ -2776,7 +2776,7 @@ msgstr "%1 dawuniloodinga fayiro (%2)"
 
 msgctxt "ImportDialog|"
 msgid "%1 settings files (%2)"
-msgstr "%1 fariyo z'enteekateeka (%2)"
+msgstr "%1 fayilo z'enteekateeka (%2)"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Error: %1"
