@@ -1831,7 +1831,7 @@ msgstr "Ebyetagisa"
 
 msgctxt "DownloadsViewItem|"
 msgid "Upload paused"
-msgstr ""
+msgstr "Apuloodi ebipozingidwa"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Restart"
@@ -1851,11 +1851,11 @@ msgstr ""
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Save and complete"
-msgstr ""
+msgstr " Savinga omalilize"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show downloads"
-msgstr ""
+msgstr "Laga dawuniloodi"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Choose files..."
