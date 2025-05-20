@@ -1007,7 +1007,7 @@ msgstr "Tulimukukebera. Guminkirizaako..."
 
 msgctxt "ButtonsBlock|"
 msgid "Please select download link"
-msgstr "Bambi loonda linki yo kudawuniloodinga"
+msgstr "Nsaba olonde link y'okuwanula"
 
 msgctxt "ButtonsBlock|"
 msgid "You can select no more than %1 links at a time"
