@@ -793,7 +793,7 @@ msgid "Other supported browsers"
 msgstr "Alte browsere acceptate"
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Automatically catch downloads from browsers"
+msgid "Automatically capture downloads from browsers"
 msgstr "Capturați automat descărcări din browsere"
 
 msgctxt "BrowserIntegrationSettings|"
@@ -825,7 +825,7 @@ msgid "Are you sure this is a valid file extension?"
 msgstr "Sunteți sigur că aceasta este o extensie de fișier validă?"
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Don't catch downloads smaller than"
+msgid "Don't capture downloads smaller than"
 msgstr "Nu prinde descărcări mai mici decât"
 
 msgctxt "BrowserIntegrationSettings|"
@@ -839,6 +839,10 @@ msgstr "Folosiți browserul dacă anulați descărcarea prin %1"
 msgctxt "BrowserIntegrationSettings|"
 msgid "Don't intercept if INSERT key is pressed"
 msgstr "Nu interceptați dacă este apăsată tasta INSERT"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Capture files with extensions"
+msgstr ""
 
 msgctxt "BrowserIntroDialog|"
 msgid ""
@@ -1042,6 +1046,14 @@ msgstr "Anulează"
 msgctxt "ButtonsBlock|"
 msgid "Download"
 msgstr "Descarcă"
+
+msgctxt "ButtonsBlock|"
+msgid "The subfolder name must not be empty"
+msgstr ""
+
+msgctxt "ButtonsBlock|"
+msgid "The filename must not be empty"
+msgstr ""
 
 msgctxt "ChangeUrlDialog|"
 msgid "Change download URL"
@@ -1988,6 +2000,10 @@ msgctxt "DownloadsViewItemContextMenu|"
 msgid "Sequential download"
 msgstr "Descărcare secvenţială"
 
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Share file"
+msgstr "Partajați fișierul"
+
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Remove from list"
 msgstr "Șterge din listă"
@@ -2642,6 +2658,10 @@ msgstr "Verificați automat actualizările"
 msgctxt "GeneralSettings|"
 msgid "Install updates automatically"
 msgstr "Instalați automat actualizări"
+
+msgctxt "GeneralSettings|"
+msgid "Mark downloaded files"
+msgstr ""
 
 msgctxt "GeneralSettings2|"
 msgid "Check for updates automatically"
@@ -3710,20 +3730,24 @@ msgid "Add-ons"
 msgstr "Suplimente"
 
 msgctxt "PluginsPage|"
-msgid "Check for Updates"
+msgid "Check for updates"
 msgstr "Căutați actualizări"
 
 msgctxt "PluginsPage|"
-msgid "Install Add-on From File..."
+msgid "Install add-on from file..."
 msgstr "Instalați suplimentul din fișier..."
 
 msgctxt "PluginsPage|"
-msgid "Update Add-ons Automatically"
+msgid "Update add-ons automatically"
 msgstr "Actualizați automat suplimentele"
 
 msgctxt "PluginsPage|"
-msgid "Reset All Add-ons to Update Automatically"
+msgid "Reset all add-ons to update automatically"
 msgstr "Resetați toate suplimentele pentru a se actualiza automat"
+
+msgctxt "PluginsPage|"
+msgid "Allow add-ons to use web browser cookies"
+msgstr "Permiteți add-on-urilor să utilizeze cookie-urile browserului web"
 
 msgctxt "PluginsPage|"
 msgid "Updating installed add-ons..."
@@ -3842,11 +3866,11 @@ msgid "Would you like to install it?"
 msgstr "Doriți să-l instalați?"
 
 msgctxt "PluginsViewItem|"
-msgid "Allow Automatic Updates"
+msgid "Allow automatic updates"
 msgstr "Permite actualizări automate"
 
 msgctxt "PluginsViewItem|"
-msgid "Check for Updates"
+msgid "Check for updates"
 msgstr "Căutați actualizări"
 
 msgctxt "PluginsViewItem|"

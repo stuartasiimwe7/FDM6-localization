@@ -782,7 +782,7 @@ msgid "Other supported browsers"
 msgstr ""
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Automatically catch downloads from browsers"
+msgid "Automatically capture downloads from browsers"
 msgstr ""
 
 msgctxt "BrowserIntegrationSettings|"
@@ -814,7 +814,7 @@ msgid "Are you sure this is a valid file extension?"
 msgstr ""
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Don't catch downloads smaller than"
+msgid "Don't capture downloads smaller than"
 msgstr "Ne prestrezi prenosov, manjših od"
 
 msgctxt "BrowserIntegrationSettings|"
@@ -827,6 +827,10 @@ msgstr ""
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Don't intercept if INSERT key is pressed"
+msgstr ""
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Capture files with extensions"
 msgstr ""
 
 msgctxt "BrowserIntroDialog|"
@@ -1019,6 +1023,14 @@ msgstr "Prekliči"
 msgctxt "ButtonsBlock|"
 msgid "Download"
 msgstr "Prenesi"
+
+msgctxt "ButtonsBlock|"
+msgid "The subfolder name must not be empty"
+msgstr ""
+
+msgctxt "ButtonsBlock|"
+msgid "The filename must not be empty"
+msgstr ""
 
 msgctxt "ChangeUrlDialog|"
 msgid "Change download URL"
@@ -1947,6 +1959,10 @@ msgctxt "DownloadsViewItemContextMenu|"
 msgid "Sequential download"
 msgstr "Zaporedno prenašanje"
 
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Share file"
+msgstr ""
+
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Remove from list"
 msgstr "Odstrani s seznama"
@@ -2599,6 +2615,10 @@ msgstr "Samodejno preveri za posodobitve"
 msgctxt "GeneralSettings|"
 msgid "Install updates automatically"
 msgstr "Samodejno namesti posodobitve"
+
+msgctxt "GeneralSettings|"
+msgid "Mark downloaded files"
+msgstr ""
 
 msgctxt "GeneralSettings2|"
 msgid "Check for updates automatically"
@@ -3662,19 +3682,23 @@ msgid "Add-ons"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Check for Updates"
+msgid "Check for updates"
+msgstr "Preveri za posodobitve"
+
+msgctxt "PluginsPage|"
+msgid "Install add-on from file..."
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Install Add-on From File..."
+msgid "Update add-ons automatically"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Update Add-ons Automatically"
+msgid "Reset all add-ons to update automatically"
 msgstr ""
 
 msgctxt "PluginsPage|"
-msgid "Reset All Add-ons to Update Automatically"
+msgid "Allow add-ons to use web browser cookies"
 msgstr ""
 
 msgctxt "PluginsPage|"
@@ -3792,12 +3816,12 @@ msgid "Would you like to install it?"
 msgstr ""
 
 msgctxt "PluginsViewItem|"
-msgid "Allow Automatic Updates"
+msgid "Allow automatic updates"
 msgstr ""
 
 msgctxt "PluginsViewItem|"
-msgid "Check for Updates"
-msgstr ""
+msgid "Check for updates"
+msgstr "Preveri za posodobitve"
 
 msgctxt "PluginsViewItem|"
 msgid "Remove"

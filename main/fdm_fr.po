@@ -797,7 +797,7 @@ msgid "Other supported browsers"
 msgstr "Autres navigateurs supportés"
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Automatically catch downloads from browsers"
+msgid "Automatically capture downloads from browsers"
 msgstr "Capturer automatiquement les téléchargements depuis les navigateurs"
 
 msgctxt "BrowserIntegrationSettings|"
@@ -829,7 +829,7 @@ msgid "Are you sure this is a valid file extension?"
 msgstr "Êtes vous sûr(e) que cette extension de fichier est valide?"
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Don't catch downloads smaller than"
+msgid "Don't capture downloads smaller than"
 msgstr "Ne pas capturer les téléchargements plus petits que"
 
 msgctxt "BrowserIntegrationSettings|"
@@ -843,6 +843,10 @@ msgstr "Utiliser le navigateur si vous annulez le téléchargement via %1"
 msgctxt "BrowserIntegrationSettings|"
 msgid "Don't intercept if INSERT key is pressed"
 msgstr "Ne pas intercepter si la touche INSÉR est pressée"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Capture files with extensions"
+msgstr "Capturer les fichiers avec extensions"
 
 msgctxt "BrowserIntroDialog|"
 msgid ""
@@ -1047,6 +1051,14 @@ msgstr "Annuler"
 msgctxt "ButtonsBlock|"
 msgid "Download"
 msgstr "Télécharger"
+
+msgctxt "ButtonsBlock|"
+msgid "The subfolder name must not be empty"
+msgstr "Le sous-dossier ne doit pas être vide"
+
+msgctxt "ButtonsBlock|"
+msgid "The filename must not be empty"
+msgstr "Le nom de fichier ne doit pas être vide"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Change download URL"
@@ -2000,6 +2012,10 @@ msgctxt "DownloadsViewItemContextMenu|"
 msgid "Sequential download"
 msgstr "Téléchargement séquentiel"
 
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Share file"
+msgstr "Partager le fichier"
+
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Remove from list"
 msgstr "Enlever de la liste"
@@ -2657,6 +2673,10 @@ msgstr "Rechercher automatiquement les mises à jour"
 msgctxt "GeneralSettings|"
 msgid "Install updates automatically"
 msgstr "Installer automatiquement les mises à jour"
+
+msgctxt "GeneralSettings|"
+msgid "Mark downloaded files"
+msgstr "Marquer les fichiers téléchargés"
 
 msgctxt "GeneralSettings2|"
 msgid "Check for updates automatically"
@@ -3730,20 +3750,24 @@ msgid "Add-ons"
 msgstr "Compléments"
 
 msgctxt "PluginsPage|"
-msgid "Check for Updates"
+msgid "Check for updates"
 msgstr "Vérifier les Mises à jour"
 
 msgctxt "PluginsPage|"
-msgid "Install Add-on From File..."
+msgid "Install add-on from file..."
 msgstr "Installer le Complément Depuis un Fichier..."
 
 msgctxt "PluginsPage|"
-msgid "Update Add-ons Automatically"
+msgid "Update add-ons automatically"
 msgstr "Mettre à jour Automatiquement les Compléments"
 
 msgctxt "PluginsPage|"
-msgid "Reset All Add-ons to Update Automatically"
+msgid "Reset all add-ons to update automatically"
 msgstr "Réinitialiser Tous les Compléments pour Mise à jour Automatique"
+
+msgctxt "PluginsPage|"
+msgid "Allow add-ons to use web browser cookies"
+msgstr "Autoriser les compléments à utiliser les cookies de navigateur web"
 
 msgctxt "PluginsPage|"
 msgid "Updating installed add-ons..."
@@ -3864,11 +3888,11 @@ msgid "Would you like to install it?"
 msgstr "Voulez-vous l'installer?"
 
 msgctxt "PluginsViewItem|"
-msgid "Allow Automatic Updates"
+msgid "Allow automatic updates"
 msgstr "Autoriser les Mises à jour Automatiques"
 
 msgctxt "PluginsViewItem|"
-msgid "Check for Updates"
+msgid "Check for updates"
 msgstr "Vérifier les Mises à jour"
 
 msgctxt "PluginsViewItem|"

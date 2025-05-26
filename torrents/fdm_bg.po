@@ -77,6 +77,8 @@ msgid ""
 "Please use %2Default apps system settings%3 to make %1 the default torrent "
 "client"
 msgstr ""
+"Използвайте %2Default apps system settings%3 да зададете %1 като торент "
+"клиент по подразбиране"
 
 msgctxt "QObject|"
 msgid "Associate with magnet links"
@@ -142,6 +144,10 @@ msgstr "Активиране на списък с предварително д�
 msgctxt "Settings|"
 msgid "BitTorrent settings"
 msgstr "Настройки на BitTorrent"
+
+msgctxt "Settings|"
+msgid "Use UPnP / NAT-PMP port forwarding"
+msgstr ""
 
 msgctxt "SettingsPage|"
 msgid "Stop seeding at ratio"

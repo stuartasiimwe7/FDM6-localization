@@ -795,7 +795,7 @@ msgid "Other supported browsers"
 msgstr "Andere unterstützter Browser"
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Automatically catch downloads from browsers"
+msgid "Automatically capture downloads from browsers"
 msgstr "Browser-Downloads automatisch aufnehmen"
 
 msgctxt "BrowserIntegrationSettings|"
@@ -827,7 +827,7 @@ msgid "Are you sure this is a valid file extension?"
 msgstr "Ist dies eine gültige Dateiendung?"
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Don't catch downloads smaller than"
+msgid "Don't capture downloads smaller than"
 msgstr "Keine Downloads annehmen, die kleiner sind als"
 
 msgctxt "BrowserIntegrationSettings|"
@@ -841,6 +841,10 @@ msgstr "Browser nutzen, wenn %1-Download abgebrochen wurde"
 msgctxt "BrowserIntegrationSettings|"
 msgid "Don't intercept if INSERT key is pressed"
 msgstr "Nicht abfangen, wenn die EINFÜGEN-Taste gedrückt wird"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Capture files with extensions"
+msgstr ""
 
 msgctxt "BrowserIntroDialog|"
 msgid ""
@@ -1044,6 +1048,14 @@ msgstr "Abbrechen"
 msgctxt "ButtonsBlock|"
 msgid "Download"
 msgstr "Herunterladen"
+
+msgctxt "ButtonsBlock|"
+msgid "The subfolder name must not be empty"
+msgstr ""
+
+msgctxt "ButtonsBlock|"
+msgid "The filename must not be empty"
+msgstr ""
 
 msgctxt "ChangeUrlDialog|"
 msgid "Change download URL"
@@ -1990,6 +2002,10 @@ msgctxt "DownloadsViewItemContextMenu|"
 msgid "Sequential download"
 msgstr "Sequenzieller Download"
 
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Share file"
+msgstr ""
+
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Remove from list"
 msgstr "Von der Liste entfernen"
@@ -2645,6 +2661,10 @@ msgstr "Updates automatisch prüfen"
 msgctxt "GeneralSettings|"
 msgid "Install updates automatically"
 msgstr "Updates automatisch installieren"
+
+msgctxt "GeneralSettings|"
+msgid "Mark downloaded files"
+msgstr ""
 
 msgctxt "GeneralSettings2|"
 msgid "Check for updates automatically"
@@ -3718,20 +3738,24 @@ msgid "Add-ons"
 msgstr "Erweiterungen"
 
 msgctxt "PluginsPage|"
-msgid "Check for Updates"
+msgid "Check for updates"
 msgstr "Nach Updates suchen"
 
 msgctxt "PluginsPage|"
-msgid "Install Add-on From File..."
+msgid "Install add-on from file..."
 msgstr "Erweiterung aus Datei installieren…"
 
 msgctxt "PluginsPage|"
-msgid "Update Add-ons Automatically"
+msgid "Update add-ons automatically"
 msgstr "Erweiterungen automatisch aktualisieren"
 
 msgctxt "PluginsPage|"
-msgid "Reset All Add-ons to Update Automatically"
+msgid "Reset all add-ons to update automatically"
 msgstr "Alle Erweiterungen auf autom. Updates zurücksetzen"
+
+msgctxt "PluginsPage|"
+msgid "Allow add-ons to use web browser cookies"
+msgstr ""
 
 msgctxt "PluginsPage|"
 msgid "Updating installed add-ons..."
@@ -3852,11 +3876,11 @@ msgid "Would you like to install it?"
 msgstr "Möchten Sie sie installieren?"
 
 msgctxt "PluginsViewItem|"
-msgid "Allow Automatic Updates"
+msgid "Allow automatic updates"
 msgstr "Automatische Updates zulassen"
 
 msgctxt "PluginsViewItem|"
-msgid "Check for Updates"
+msgid "Check for updates"
 msgstr "Nach Updates suchen"
 
 msgctxt "PluginsViewItem|"
