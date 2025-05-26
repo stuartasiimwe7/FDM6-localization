@@ -613,7 +613,7 @@ msgstr "Edakika 15"
 
 msgctxt "BackupSlider|"
 msgid "1 hour"
-msgstr "Esaaw 1"
+msgstr "Esaawa 1"
 
 msgctxt "BackupSlider|"
 msgid "3 hours"
