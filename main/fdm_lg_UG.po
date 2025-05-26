@@ -3560,7 +3560,7 @@ msgstr "KALE"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "CANCEL"
-msgstr ""
+msgstr "Sazaamu"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "Invalid value"
