@@ -2383,7 +2383,7 @@ msgstr "Fayiro"
 
 msgctxt "FilesTree|"
 msgid "Select all"
-msgstr ""
+msgstr "Londa byona"
 
 msgctxt "FilesTree|"
 msgid "Select none"
