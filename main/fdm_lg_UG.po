@@ -2427,7 +2427,7 @@ msgstr "Okukyusa vidiyo mu mp4"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert to mp4"
-msgstr ""
+msgstr "Okukyusa mu mp4"
 
 msgctxt "FilesTreeHeader_V2|"
 msgid "Name"
