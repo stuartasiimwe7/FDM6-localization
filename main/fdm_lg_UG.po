@@ -1851,7 +1851,7 @@ msgstr ""
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Save and complete"
-msgstr " Savinga omalilize"
+msgstr "Sevinga ate omalilize"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show downloads"
@@ -1859,7 +1859,7 @@ msgstr "Laga dawuniloodi"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Choose files..."
-msgstr "Londa fayilo"
+msgstr "Londa fayilo..."
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "High"
@@ -2752,7 +2752,7 @@ msgstr ""
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "SHA-512"
-msgstr ""
+msgstr "SHA-512"
 
 msgctxt "ImportDialog|"
 msgid "Import"
