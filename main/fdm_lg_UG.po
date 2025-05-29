@@ -2387,7 +2387,7 @@ msgstr "Londa byona"
 
 msgctxt "FilesTree|"
 msgid "Select none"
-msgstr ""
+msgstr "Tobako ky'olonda"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "High priority"
