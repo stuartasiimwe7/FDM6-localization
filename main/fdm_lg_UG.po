@@ -2435,7 +2435,7 @@ msgstr "Erinya"
 
 msgctxt "FilesTreeHeader_V2|"
 msgid "Size"
-msgstr ""
+msgstr "Obunene"
 
 msgctxt "FilesTreeHeader_V2|"
 msgid "Status"
