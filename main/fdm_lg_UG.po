@@ -2447,7 +2447,7 @@ msgstr "Emalirizidwa"
 
 msgctxt "FilesTreeHeader_V2|"
 msgid "Priority"
-msgstr ""
+msgstr "Kyankizo nyo"
 
 msgctxt "FilesTreeHeader_V2|"
 msgid "Normal"
