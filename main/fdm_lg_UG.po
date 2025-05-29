@@ -2423,7 +2423,7 @@ msgstr ""
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert video to mp4"
-msgstr ""
+msgstr "Okukyusa vidiyo mu mp4"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert to mp4"
