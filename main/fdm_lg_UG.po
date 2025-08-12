@@ -1011,7 +1011,7 @@ msgstr "Nsaba olonde link y'okuwanula"
 
 msgctxt "ButtonsBlock|"
 msgid "You can select no more than %1 links at a time"
-msgstr ""
+msgstr "Toyinza kulonda link nga esukka %1 mu kaseera kekamu"
 
 msgctxt "ButtonsBlock|"
 msgid "No write access to the selected directory"
@@ -1079,7 +1079,7 @@ msgstr "KALE"
 
 msgctxt "ChangeUrlPage|"
 msgid "Enter new URL"
-msgstr ""
+msgstr "Yingiza endagiriro empya"
 
 msgctxt "ChangeUrlPage|"
 msgid "File location: %1"
@@ -1087,15 +1087,15 @@ msgstr "Fayiro esangibwa: %1"
 
 msgctxt "ChangeUrlPage|"
 msgid "Start download"
-msgstr ""
+msgstr "Tandika okudawunilodinga"
 
 msgctxt "ConfirmDeleteExtraneousFilesDialog|"
 msgid "Extraneous files are detected"
-msgstr ""
+msgstr "Fayilo ezitetagisa zizuulidwa"
 
 msgctxt "ConfirmDeleteExtraneousFilesDialog|"
 msgid "The following folder contains extraneous files. Do you still want to delete it?"
-msgstr ""
+msgstr "Kafolda akaddako kalimu failo ezitetaagisa. Okyagala okugisangulamu?"
 
 msgctxt "ConfirmDeleteExtraneousFilesDialog|"
 msgid "Delete anyway"
@@ -1115,15 +1115,15 @@ msgstr "(kugezesa)"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Here you can connect to %1 running on another device."
-msgstr ""
+msgstr "Wano osobola okwegatta ku %1 ekikola ku kompuuta endaala"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Automatically connect at startup"
-msgstr ""
+msgstr "Etaandike wamu ne komuputa bwetandiika"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Please enter %1, or <a href='#'>scan QR code</a>"
-msgstr ""
+msgstr "Yingiza %1, oba  <a href='#'>Sikaaninga QR code</a>"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid ""
