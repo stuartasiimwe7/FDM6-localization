@@ -13,7 +13,7 @@ msgstr ""
 "X-Language: ar_SA\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgctxt "AboutDialog|"
 msgid "About"
@@ -1019,19 +1019,19 @@ msgstr "Tolina buyinza eri folder jolonze"
 
 msgctxt "ButtonsBlock|"
 msgid "Not enough disk space"
-msgstr ""
+msgstr "Tewali kifo kimala ku disik"
 
 msgctxt "ButtonsBlock|"
 msgid "The path contains invalid characters"
-msgstr ""
+msgstr "Ekubo lirimu obubonero obutakkirizibwa"
 
 msgctxt "ButtonsBlock|"
 msgid "The subfolder name contains invalid characters"
-msgstr ""
+msgstr "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa"
 
 msgctxt "ButtonsBlock|"
 msgid "The filename contains invalid characters"
-msgstr ""
+msgstr "Erinnya lya fayilo lirimu obubonero obutakkirizibwa"
 
 msgctxt "ButtonsBlock|"
 msgid "Cancel"
@@ -1043,11 +1043,11 @@ msgstr "Dawuniloodi"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Change download URL"
-msgstr ""
+msgstr "Kyusa endagiriro y’okudauwuniloodinga"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Enter new URL"
-msgstr ""
+msgstr "Yingiza endagiriro empya"
 
 msgctxt "ChangeUrlDialog|"
 msgid "File location: %1"
@@ -1055,11 +1055,11 @@ msgstr "Fayiro esangibwa: %1"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Invalid URL"
-msgstr ""
+msgstr "Endagiriro tekkirizibwa"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Start download"
-msgstr ""
+msgstr "Tandika okudawunilodinga"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Cancel"
@@ -1071,7 +1071,7 @@ msgstr "KALE"
 
 msgctxt "ChangeUrlPage|"
 msgid "Change download URL"
-msgstr ""
+msgstr "\"Kyusa endagiriro y’okudawuniloodinga"
 
 msgctxt "ChangeUrlPage|"
 msgid "OK"
