@@ -1115,7 +1115,7 @@ msgstr "(kugezesa)"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Here you can connect to %1 running on another device."
-msgstr "Wano osobola okwegatta ku %1 ekikola ku kompuuta endaala"
+msgstr "Wano osobola okwegatta ku %1 ekikola ku kompuuta endaala."
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Automatically connect at startup"
@@ -1134,7 +1134,7 @@ msgstr ""
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Automatically connect at %1 startup"
-msgstr "Kwekuŋŋaana ku bwangu nga %1 etandika."
+msgstr "Kwekuŋŋaana ku bwangu nga %1 etandika"
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Cancel"
@@ -1194,7 +1194,7 @@ msgstr "KALE"
 
 msgctxt "ConvertFilesFailedDialog|"
 msgid "Convert failed"
-msgstr "Okukyusa kufaayiro kukaganye."
+msgstr "Okukyusa kufaayiro kukaganye"
 
 msgctxt "CopyLinkMenu|"
 msgid "Copy link"
@@ -1286,7 +1286,7 @@ msgid ""
 "folder on some removable drive."
 msgstr ""
 "Laga wano ekkubo ly’oyagala okuteekamu enkyukakyuka eno. Kiba kirungi ekifo kino "
-"bwekiba nga folda ku disiki esobola okuggyibwamu"
+"bwekiba nga folda ku disiki esobola okuggyibwamu."
 
 msgctxt "CreatePortableDialog|"
 msgid "Open"
@@ -1354,7 +1354,7 @@ msgstr "Tewali dawuniloodi ziriwo mukaseera kano"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Set sound"
-msgstr "eekawo eddoboozi"
+msgstr "Teekawo eddoboozi"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Remove"
@@ -1374,7 +1374,7 @@ msgstr "Sangula fayiro ezikwasiddwa ez’okusaba"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Remember my choice"
-msgstr "Jjukira ensalawo yange."
+msgstr "Jjukira ensalawo yange"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Delete files"
@@ -1402,7 +1402,7 @@ msgstr "Sangula fayiro ezilondeddwa?"
 
 msgctxt "DeleteDownloadsDialogSimple|"
 msgid "Delete selected downloads"
-msgstr "Sangula dawunilodi ezilondeddwa?"
+msgstr "Sangula dawunilodi ezilondeddwa"
 
 msgctxt "DeleteDownloadsDialogSimple|"
 msgid "Are you sure you want to delete the selected file(s)?"
@@ -1418,7 +1418,7 @@ msgstr "Sazaamu"
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Download deleting failed"
-msgstr "Okusangula kwa fayiro endawuloodinge kugaanye."
+msgstr "Okusangula kwa fayiro endawuloodinge kugaanye"
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Try again"
@@ -1430,7 +1430,7 @@ msgstr "Leeka"
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Ignore all"
-msgstr "Leeka byonna."
+msgstr "Leeka byonna"
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Abort"
@@ -1450,7 +1450,7 @@ msgstr "Sayizi: %1"
 
 msgctxt "DockUploadSpeedSetting|"
 msgid "Show total upload speed in the Dock icon"
-msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
+msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
 
 msgctxt "DownloadExpiredDialog|"
 msgid "Download Failure"
@@ -1469,7 +1469,7 @@ msgstr "Gezako okussaawo link empya y’okudawuniloodinga fayiro."
 msgctxt "DownloadExpiredDialog|"
 msgid "Go to the website with the original download source and copy the renewed link"
 msgstr ""
-"Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako."
+"Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako"
 
 msgctxt "DownloadExpiredDialog|"
 msgid "click here"
