@@ -1533,39 +1533,39 @@ msgstr "[%1%] - %2"
 
 msgctxt "DownloadWindow|"
 msgid "Web page:"
-msgstr ""
+msgstr "Omukkutu:"
 
 msgctxt "DownloadWindow|"
 msgid "Resource URL:"
-msgstr ""
+msgstr "Endagiriro ya Weebusayiti:"
 
 msgctxt "DownloadWindow|"
 msgid "Saved in"
-msgstr ""
+msgstr "Eyasangibwa mu"
 
 msgctxt "DownloadWindow|"
 msgid "File size"
-msgstr ""
+msgstr "Obunene bwa fayiro:"
 
 msgctxt "DownloadWindow|"
 msgid "Resume support"
-msgstr ""
+msgstr "Damu ofuune obuyambi"
 
 msgctxt "DownloadWindow|"
 msgid "Yes"
-msgstr ""
+msgstr "Yee"
 
 msgctxt "DownloadWindow|"
 msgid "No"
-msgstr ""
+msgstr "Nedda"
 
 msgctxt "DownloadWindow|"
 msgid "Unknown"
-msgstr ""
+msgstr "Tekimanyiddwa"
 
 msgctxt "DownloadWindow|"
 msgid "Downloaded"
-msgstr ""
+msgstr "Ebidawuniloodingibwa"
 
 msgctxt "DownloadWindow|"
 msgid "%1% [%2]"
@@ -1577,7 +1577,7 @@ msgstr "Sipeedi"
 
 msgctxt "DownloadWindow|"
 msgid "Time remaining"
-msgstr ""
+msgstr "Obudde obusigadde"
 
 msgctxt "DownloadWindow|"
 msgid "Open download when it is completed"
@@ -1783,10 +1783,9 @@ msgctxt "DownloadsViewHeader|"
 msgid "Status"
 msgstr "Status"
 
-#, fuzzy
 msgctxt "DownloadsViewHeader|"
 msgid "Speed"
-msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
+msgstr "Sipeedi"
 
 msgctxt "DownloadsViewHeader|"
 msgid "Size"
@@ -2507,7 +2506,7 @@ msgstr ""
 #, fuzzy
 msgctxt "GeneralSettings|"
 msgid "Downloads"
-msgstr "Sangula dawunilodi ezilondeddwa?"
+msgstr "Sangula dawunilodi ezilondeddwa"
 
 msgctxt "GeneralSettings|"
 msgid "Suggest folders based on file type"
@@ -2692,10 +2691,9 @@ msgctxt "GeneralTab|"
 msgid "File"
 msgstr "Fayiro y’eddoboozi"
 
-#, fuzzy
 msgctxt "GeneralTab|"
 msgid "Speed"
-msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
+msgstr "Sipeedi"
 
 msgctxt "GeneralTab|"
 msgid "Download speed:"
@@ -2704,7 +2702,7 @@ msgstr ""
 #, fuzzy
 msgctxt "GeneralTab|"
 msgid "Upload speed:"
-msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
+msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
 
 msgctxt "GeneralTab|"
 msgid "Added at:"
@@ -2749,7 +2747,7 @@ msgstr ""
 #, fuzzy
 msgctxt "GeneralTab_V2|"
 msgid "Upload speed:"
-msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
+msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
 
 msgctxt "GeneralTab_V2|"
 msgid "Web page"
@@ -2980,9 +2978,11 @@ msgctxt "MainMenu|"
 msgid "Add-ons..."
 msgstr ""
 
+#, fuzzy
 msgctxt "MainMenu|"
 msgid "Preferences..."
 msgstr ""
+"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
 
 msgctxt "MainMenu|"
 msgid "Contact support"
@@ -3427,9 +3427,11 @@ msgctxt "NativeMenuBar|"
 msgid "Check for Updates..."
 msgstr ""
 
+#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "Preferences..."
 msgstr ""
+"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
 
 msgctxt "NativeMenuBar|"
 msgid "Quit"
@@ -3452,7 +3454,7 @@ msgstr ""
 msgctxt "NativeMenuBar|"
 msgid "&Copy"
 msgstr ""
-"Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako."
+"Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako"
 
 msgctxt "NativeMenuBar|"
 msgid "&Paste"
@@ -3461,7 +3463,7 @@ msgstr ""
 #, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "Downloads"
-msgstr "Sangula dawunilodi ezilondeddwa?"
+msgstr "Sangula dawunilodi ezilondeddwa"
 
 msgctxt "NativeMenuBar|"
 msgid "Start selected"
@@ -3987,9 +3989,11 @@ msgctxt "QObject|"
 msgid "Quit"
 msgstr ""
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "Preferences..."
 msgstr ""
+"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
 
 msgctxt "QObject|"
 msgid "Check for updates..."
@@ -4941,9 +4945,11 @@ msgctxt "SettingsPage|"
 msgid ". Close anyway?"
 msgstr ""
 
+#, fuzzy
 msgctxt "SettingsPage|"
 msgid "Preferences"
 msgstr ""
+"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
 
 msgctxt "SettingsPage|"
 msgid "General"
@@ -5335,9 +5341,7 @@ msgstr ""
 #, fuzzy
 msgctxt "TroubleshootingSettings|"
 msgid "Failed"
-msgstr ""
-"Okuddamu okudawunillodinga fayiro tekusobose. Link esobola okuba nga eyiseeko. "
-"Okukozesa nate kukyagaanye."
+msgstr "Okusangula kwa fayiro endawuloodinge kugaanye"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Archive service data..."
