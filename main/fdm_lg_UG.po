@@ -1130,10 +1130,11 @@ msgid ""
 "Both %1 and QR code are located inside of Preferences page of %2 you're going to "
 "connect to."
 msgstr ""
+"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Automatically connect at %1 startup"
-msgstr ""
+msgstr "Kwekuŋŋaana ku bwangu nga %1 etandika."
 
 msgctxt "ConnectToRemoteAppDialog|"
 msgid "Cancel"
@@ -1193,7 +1194,7 @@ msgstr "KALE"
 
 msgctxt "ConvertFilesFailedDialog|"
 msgid "Convert failed"
-msgstr ""
+msgstr "Okukyusa kufaayiro kukaganye."
 
 msgctxt "CopyLinkMenu|"
 msgid "Copy link"
@@ -1393,19 +1394,19 @@ msgstr "KALE"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Delete this file?"
-msgstr ""
+msgstr "Sangula fayiro eno?"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Delete selected files?"
-msgstr ""
+msgstr "Sangula fayiro ezilondeddwa?"
 
 msgctxt "DeleteDownloadsDialogSimple|"
 msgid "Delete selected downloads"
-msgstr ""
+msgstr "Sangula dawunilodi ezilondeddwa?"
 
 msgctxt "DeleteDownloadsDialogSimple|"
 msgid "Are you sure you want to delete the selected file(s)?"
-msgstr ""
+msgstr "Oli mukakafu nti oyagala kusangula fayiro ezilondeddwa?"
 
 msgctxt "DeleteDownloadsDialogSimple|"
 msgid "OK"
@@ -1417,19 +1418,19 @@ msgstr "Sazaamu"
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Download deleting failed"
-msgstr ""
+msgstr "Okusangula kwa fayiro endawuloodinge kugaanye."
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Try again"
-msgstr ""
+msgstr "Ddamu nate"
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Ignore"
-msgstr ""
+msgstr "Leeka"
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Ignore all"
-msgstr ""
+msgstr "Leeka byonna."
 
 msgctxt "DeleteDownloadsFailedDialog|"
 msgid "Abort"
@@ -1449,31 +1450,34 @@ msgstr "Sayizi: %1"
 
 msgctxt "DockUploadSpeedSetting|"
 msgid "Show total upload speed in the Dock icon"
-msgstr ""
+msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
 
 msgctxt "DownloadExpiredDialog|"
 msgid "Download Failure"
-msgstr ""
+msgstr "Dawuniloodi egaanye"
 
 msgctxt "DownloadExpiredDialog|"
 msgid "Can't resume download. Download link likely expired. Resume attempts failed."
 msgstr ""
+"Okuddamu okudawunillodinga fayiro tekusobose. Link esobola okuba nga eyiseeko. "
+"Okukozesa nate kukyagaanye."
 
 msgctxt "DownloadExpiredDialog|"
 msgid "Please try to update the download link to resume."
-msgstr ""
+msgstr "Gezako okussaawo link empya y’okudawuniloodinga fayiro."
 
 msgctxt "DownloadExpiredDialog|"
 msgid "Go to the website with the original download source and copy the renewed link"
 msgstr ""
+"Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako."
 
 msgctxt "DownloadExpiredDialog|"
 msgid "click here"
-msgstr ""
+msgstr "nyiga wano"
 
 msgctxt "DownloadExpiredDialog|"
 msgid "Update download"
-msgstr ""
+msgstr "Kussaawo link empya y’okudawuniloodinga"
 
 msgctxt "DownloadExpiredDialog|"
 msgid "Close"
@@ -1513,7 +1517,7 @@ msgstr "Tusaba bikwatako"
 
 msgctxt "DownloadStatus_V2|"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt "DownloadStatus_V2|"
 msgid "Queued"
@@ -1569,7 +1573,7 @@ msgstr "%1% [%2]"
 
 msgctxt "DownloadWindow|"
 msgid "Speed"
-msgstr ""
+msgstr "Sipeedi"
 
 msgctxt "DownloadWindow|"
 msgid "Time remaining"
@@ -1779,9 +1783,10 @@ msgctxt "DownloadsViewHeader|"
 msgid "Status"
 msgstr "Status"
 
+#, fuzzy
 msgctxt "DownloadsViewHeader|"
 msgid "Speed"
-msgstr ""
+msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
 
 msgctxt "DownloadsViewHeader|"
 msgid "Size"
@@ -1893,7 +1898,7 @@ msgstr ""
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Remove from list"
-msgstr ""
+msgstr "Gyamu ku lukalala"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Play file while it is still downloading"
@@ -1973,7 +1978,7 @@ msgstr ""
 
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Remove from list"
-msgstr ""
+msgstr "Gyamu ku lukalala"
 
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Restart"
@@ -2021,7 +2026,7 @@ msgstr "Tusaba bikwatako"
 
 msgctxt "DownloadsViewItemStatus_V2|"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt "DownloadsViewItemStatus_V2|"
 msgid "Queued"
@@ -2033,7 +2038,7 @@ msgstr "Emalirizidwa"
 
 msgctxt "DownloadsViewItem_V2|"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt "DownloadsViewStatusItem|"
 msgid "Queued"
@@ -2111,9 +2116,12 @@ msgctxt "EnvTools|"
 msgid "Data roaming disabled"
 msgstr ""
 
+#, fuzzy
 msgctxt "EnvTools|"
 msgid "No Internet connection"
 msgstr ""
+"Tetusobode kusindika lipoota. <br> Kebera enkolagana ya yintaneeti yo nti eri ku "
+"mulamwa."
 
 msgctxt "EnvTools|"
 msgid "Mobile data use disabled"
@@ -2311,9 +2319,10 @@ msgctxt "FilePickerSortDialog|"
 msgid "By date"
 msgstr ""
 
+#, fuzzy
 msgctxt "FilePickerSortDialog|"
 msgid "By name"
-msgstr ""
+msgstr "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa"
 
 msgctxt "FilePickerSortDialog|"
 msgid "By size"
@@ -2495,9 +2504,10 @@ msgctxt "GeneralSettings|"
 msgid "Language"
 msgstr ""
 
+#, fuzzy
 msgctxt "GeneralSettings|"
 msgid "Downloads"
-msgstr ""
+msgstr "Sangula dawunilodi ezilondeddwa?"
 
 msgctxt "GeneralSettings|"
 msgid "Suggest folders based on file type"
@@ -2648,9 +2658,10 @@ msgctxt "GeneralTab|"
 msgid "Status"
 msgstr "Status"
 
+#, fuzzy
 msgctxt "GeneralTab|"
 msgid "completed"
-msgstr ""
+msgstr "Enkyukakyuka esobola okuggyibwawo etondeddwa bulungi."
 
 msgctxt "GeneralTab|"
 msgid "State"
@@ -2676,21 +2687,24 @@ msgctxt "GeneralTab|"
 msgid "Web page"
 msgstr ""
 
+#, fuzzy
 msgctxt "GeneralTab|"
 msgid "File"
-msgstr ""
+msgstr "Fayiro y’eddoboozi"
 
+#, fuzzy
 msgctxt "GeneralTab|"
 msgid "Speed"
-msgstr ""
+msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
 
 msgctxt "GeneralTab|"
 msgid "Download speed:"
 msgstr ""
 
+#, fuzzy
 msgctxt "GeneralTab|"
 msgid "Upload speed:"
-msgstr ""
+msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
 
 msgctxt "GeneralTab|"
 msgid "Added at:"
@@ -2732,17 +2746,19 @@ msgctxt "GeneralTab_V2|"
 msgid "Download speed:"
 msgstr ""
 
+#, fuzzy
 msgctxt "GeneralTab_V2|"
 msgid "Upload speed:"
-msgstr ""
+msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock."
 
 msgctxt "GeneralTab_V2|"
 msgid "Web page"
 msgstr ""
 
+#, fuzzy
 msgctxt "GeneralTab_V2|"
 msgid "File"
-msgstr ""
+msgstr "Fayiro y’eddoboozi"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "MD5"
@@ -3096,9 +3112,10 @@ msgctxt "MainToolbar|"
 msgid "Pause selected"
 msgstr ""
 
+#, fuzzy
 msgctxt "MainToolbar|"
 msgid "Delete selected"
-msgstr ""
+msgstr "Sangula fayiro ezilondeddwa?"
 
 msgctxt "MainToolbar|"
 msgid "Move to..."
@@ -3212,9 +3229,10 @@ msgctxt "MergeDownloadsDialog|"
 msgid "The download already exists"
 msgstr ""
 
+#, fuzzy
 msgctxt "MergeDownloadsDialog|"
 msgid "URL:"
-msgstr ""
+msgstr "Kyusa endagiriro y’okudauwuniloodinga"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Path:"
@@ -3280,9 +3298,10 @@ msgctxt "MovingFailedDialog|"
 msgid "Unable to move: %1"
 msgstr ""
 
+#, fuzzy
 msgctxt "MovingFailedDialog|"
 msgid "Try again"
-msgstr ""
+msgstr "Ddamu nate"
 
 msgctxt "MovingFailedDialog|"
 msgid "Cancel"
@@ -3326,7 +3345,7 @@ msgstr ""
 
 msgctxt "Mp3ConverterDialog|"
 msgid "The path contains invalid characters"
-msgstr ""
+msgstr "Ekubo lirimu obubonero obutakkirizibwa"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "OK"
@@ -3350,7 +3369,7 @@ msgstr "Savinga"
 
 msgctxt "Mp3ConverterPage|"
 msgid "The path contains invalid characters"
-msgstr ""
+msgstr "Ekubo lirimu obubonero obutakkirizibwa"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Bitrate (quality)"
@@ -3382,7 +3401,7 @@ msgstr "Sazaamu"
 
 msgctxt "Mp4ConverterDialog|"
 msgid "The path contains invalid characters"
-msgstr ""
+msgstr "Ekubo lirimu obubonero obutakkirizibwa"
 
 msgctxt "Mp4ConverterDialog|"
 msgid "OK"
@@ -3402,7 +3421,7 @@ msgstr "Savinga"
 
 msgctxt "Mp4ConverterPage|"
 msgid "The path contains invalid characters"
-msgstr ""
+msgstr "Ekubo lirimu obubonero obutakkirizibwa"
 
 msgctxt "NativeMenuBar|"
 msgid "Check for Updates..."
@@ -3416,9 +3435,10 @@ msgctxt "NativeMenuBar|"
 msgid "Quit"
 msgstr ""
 
+#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "&File"
-msgstr ""
+msgstr "Fayiro y’eddoboozi"
 
 msgctxt "NativeMenuBar|"
 msgid "Add &new download"
@@ -3428,17 +3448,20 @@ msgctxt "NativeMenuBar|"
 msgid "&Edit"
 msgstr ""
 
+#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "&Copy"
 msgstr ""
+"Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako."
 
 msgctxt "NativeMenuBar|"
 msgid "&Paste"
 msgstr ""
 
+#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "Downloads"
-msgstr ""
+msgstr "Sangula dawunilodi ezilondeddwa?"
 
 msgctxt "NativeMenuBar|"
 msgid "Start selected"
@@ -3452,9 +3475,10 @@ msgctxt "NativeMenuBar|"
 msgid "Restart selected"
 msgstr ""
 
+#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "Remove from List"
-msgstr ""
+msgstr "Gyamu ku lukalala"
 
 msgctxt "NativeMenuBar|"
 msgid "Help"
@@ -3874,7 +3898,7 @@ msgstr "Sazaamu"
 
 msgctxt "ProgressBar_V2|"
 msgid "n/a"
-msgstr ""
+msgstr "n/a"
 
 msgctxt ""
 "QGuiApplication|Translate this string to the string 'LTR' in left-to-right languages "
@@ -4475,9 +4499,10 @@ msgctxt "QObject|"
 msgid "Music"
 msgstr "Oluyimba"
 
+#, fuzzy
 msgctxt "QObject|"
 msgid "There is not enough disk space."
-msgstr ""
+msgstr "Tewali kifo kimala ku disik"
 
 msgctxt "QObject|"
 msgid ""
@@ -4891,9 +4916,10 @@ msgctxt "SelectSortFieldDialog|"
 msgid "By date"
 msgstr ""
 
+#, fuzzy
 msgctxt "SelectSortFieldDialog|"
 msgid "By name"
-msgstr ""
+msgstr "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa"
 
 msgctxt "SelectSortFieldDialog|"
 msgid "By size"
@@ -5306,9 +5332,12 @@ msgctxt "TroubleshootingSettings|"
 msgid "Zip files"
 msgstr ""
 
+#, fuzzy
 msgctxt "TroubleshootingSettings|"
 msgid "Failed"
 msgstr ""
+"Okuddamu okudawunillodinga fayiro tekusobose. Link esobola okuba nga eyiseeko. "
+"Okukozesa nate kukyagaanye."
 
 msgctxt "TroubleshootingSettings|"
 msgid "Archive service data..."
