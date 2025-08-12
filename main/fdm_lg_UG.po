@@ -1234,6 +1234,8 @@ msgstr "Egyo"
 msgctxt "CrashReporter|"
 msgid "An internal error occurred.<br>%1 needs to be restarted for further use."
 msgstr ""
+"\"Wabaddemu ensobi mu nkola. <br>%1 yeetaaga okudamu okutandikibwa nate okusobola "
+"okugikozesa."
 
 msgctxt "CrashReporter|"
 msgid "Restart %1 automatically"
@@ -1242,6 +1244,8 @@ msgstr "Ddamu %1 otandiike nera nga zikutumye"
 msgctxt "CrashReporter|"
 msgid "Failed to send the report.<br>Check your Internet connection."
 msgstr ""
+"Tetusobode kusindika lipoota. <br> Kebera enkolagana ya yintaneeti yo nti eri ku "
+"mulamwa."
 
 msgctxt "CrashReporter|"
 msgid "Error"
@@ -1273,13 +1277,15 @@ msgstr ""
 
 msgctxt "CreatePortableDialog|"
 msgid "It can be conveniently placed on a flash disk, for example."
-msgstr ""
+msgstr "Kisobola okuterekebwa bulungi ku flash disk, nga eky'okulabirako."
 
 msgctxt "CreatePortableDialog|"
 msgid ""
 "Specify here the path where you would like to create this version. It should be a "
 "folder on some removable drive."
 msgstr ""
+"Laga wano ekkubo ly’oyagala okuteekamu enkyukakyuka eno. Kiba kirungi ekifo kino "
+"bwekiba nga folda ku disiki esobola okuggyibwamu"
 
 msgctxt "CreatePortableDialog|"
 msgid "Open"
@@ -1291,7 +1297,7 @@ msgstr "Sazaamu"
 
 msgctxt "CreatePortableDialog|"
 msgid "Please specify the path."
-msgstr ""
+msgstr "Laga ekkubo."
 
 msgctxt "CreatePortableDialog|"
 msgid "OK"
@@ -1303,11 +1309,11 @@ msgstr "Okutoondawo %1%"
 
 msgctxt "CreatePortableDialog|"
 msgid "An error occurred while creating a portable version: %1"
-msgstr ""
+msgstr "Ensobi yabaddewo mu kutonda enkyukakyuka esobola okuggyibwawo: %1"
 
 msgctxt "CreatePortableDialog|"
 msgid "Creating a portable version was successfully completed."
-msgstr ""
+msgstr "Enkyukakyuka esobola okuggyibwawo etondeddwa bulungi."
 
 msgctxt "CreatePortableDialog|"
 msgid "Close"
@@ -1319,15 +1325,15 @@ msgstr "Kyuusa ebivunga"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Event"
-msgstr ""
+msgstr "Ekikujjuko"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Sound file"
-msgstr ""
+msgstr "Fayiro y’eddoboozi"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "No sound"
-msgstr ""
+msgstr "Tewali ddoboozi."
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Downloads added"
@@ -1347,7 +1353,7 @@ msgstr "Tewali dawuniloodi ziriwo mukaseera kano"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Set sound"
-msgstr ""
+msgstr "eekawo eddoboozi"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Remove"
@@ -1355,7 +1361,7 @@ msgstr "Jjamu"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Test"
-msgstr ""
+msgstr "Gezesa"
 
 msgctxt "CustomizeSoundsDialog|"
 msgid "Close"
@@ -1363,11 +1369,11 @@ msgstr "Galawo"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Delete selected downloads"
-msgstr ""
+msgstr "Sangula fayiro ezikwasiddwa ez’okusaba"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Remember my choice"
-msgstr ""
+msgstr "Jjukira ensalawo yange."
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Delete files"
@@ -1375,7 +1381,7 @@ msgstr "Sangula Fayilo"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Remove from list"
-msgstr ""
+msgstr "Gyamu ku lukalala"
 
 msgctxt "DeleteDownloadsDialog|"
 msgid "Cancel"
