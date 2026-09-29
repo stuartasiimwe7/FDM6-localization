@@ -118,7 +118,7 @@ msgstr ""
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of downloads only when %1 window is inactive"
-msgstr "Ntegeeza ku bye ndawuniloodinga singa 1% wiindo teli active"
+msgstr "Ntegeeza ku bye ndawuniloodinga singa %1 wiindo teli active"
 
 msgctxt "AdvancedSettings|"
 msgid "Customize sounds"
