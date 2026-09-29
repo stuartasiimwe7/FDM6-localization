@@ -10,7 +10,7 @@ Audited: main/fdm_lg_UG.po
 - PO entries: 1388
 - Genuinely untranslated non-header entries: 587
 - Fuzzy entries: 22
-- Remaining placeholder mismatches: 5 (all are fuzzy "Preferences" entries with clearly unrelated translations; left for human translation review)
+- Remaining placeholder mismatches: 4 (all are fuzzy "Preferences" entries with clearly unrelated translations; left for human translation review)
 
 A bare-text search for msgstr "" overcounts untranslated entries because multiline translations begin with msgstr "" and continue on quoted lines.
 
@@ -39,7 +39,6 @@ The following fuzzy or placeholder-invalid entries were deliberately not transla
 - [SelectSortFieldDialog|] "By name" -> "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa" [fuzzy]
 - [SettingsPage|] "Preferences" -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata." [fuzzy] [placeholder mismatch]
 - [TroubleshootingSettings|] "Failed" -> "Okusangula kwa fayiro endawuloodinge kugaanye" [fuzzy]
-- [AdvancedSettings|] "Notify me of downloads only when %1 window is inactive" -> "Ntegeeza ku bye ndawuniloodinga singa 1% wiindo teli active" [placeholder mismatch]
 
 ## Untranslated entries
 - [DownloadWindow|] "Open download when it is completed"
