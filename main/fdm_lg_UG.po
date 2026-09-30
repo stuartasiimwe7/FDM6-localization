@@ -2073,23 +2073,23 @@ msgstr "Dawuniloodi: %1"
 
 msgctxt "EditTagDialog|"
 msgid "Edit tag"
-msgstr ""
+msgstr "Longoosa tagi"
 
 msgctxt "EditTagDialog|"
 msgid "Tag"
-msgstr ""
+msgstr "Tagi"
 
 msgctxt "EditTagDialog|"
 msgid "Extensions (e.g. \"avi mp3\")"
-msgstr ""
+msgstr "Obugatte (okugeza \"avi mp3\")"
 
 msgctxt "EditTagDialog|"
 msgid "Extensions that are automatically assigned with this tag for new downloads"
-msgstr ""
+msgstr "Obugatte obuweebwa tagi eno mu ngeri ey'otoma ku dawuniloodi empya"
 
 msgctxt "EditTagDialog|"
 msgid "Default download folder"
-msgstr ""
+msgstr "Folda ya dawuniloodi eyategekebwa"
 
 msgctxt "EditTagDialog|"
 msgid "Open"
@@ -2101,7 +2101,7 @@ msgstr "Sazaamu"
 
 msgctxt "EditTagDialog|"
 msgid "Macros"
-msgstr ""
+msgstr "Makulo"
 
 msgctxt "EditTagDialog|"
 msgid "OK"
@@ -2109,11 +2109,11 @@ msgstr "KALE"
 
 msgctxt "EnvTools|"
 msgid "Low battery"
-msgstr ""
+msgstr "Bature eri wansi"
 
 msgctxt "EnvTools|"
 msgid "Data roaming disabled"
-msgstr ""
+msgstr "Data roaming eggaddwa"
 
 #, fuzzy
 msgctxt "EnvTools|"
@@ -2124,7 +2124,7 @@ msgstr ""
 
 msgctxt "EnvTools|"
 msgid "Mobile data use disabled"
-msgstr ""
+msgstr "Enkozesa ya data y'essimu eggaddwa"
 
 msgctxt "ExistingFileReactionCombobox|"
 msgid "Rename"
@@ -2140,11 +2140,11 @@ msgstr "Bbuuza buli kiseera"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export selected downloads"
-msgstr ""
+msgstr "Fulumya dawuniloodi ezirondeddwa"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export all downloads"
-msgstr ""
+msgstr "Fulumya dawuniloodi zonna"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Save to"
@@ -2212,7 +2212,7 @@ msgstr "Fayiro zona (%1)"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Check file integrity"
-msgstr ""
+msgstr "Kebera obutuufu bwa fayiro"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Hash"
@@ -2224,15 +2224,15 @@ msgstr "Kubiisamu %1%"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Compare with"
-msgstr ""
+msgstr "Geraageranya ne"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Verification OK"
-msgstr ""
+msgstr "Okukakasa kutuufu"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Verification failed"
-msgstr ""
+msgstr "Okukakasa kugaanye"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Close"
@@ -2240,7 +2240,7 @@ msgstr "Galawo"
 
 msgctxt "FileIntegrityPage|"
 msgid "Check file integrity"
-msgstr ""
+msgstr "Kebera obutuufu bwa fayiro"
 
 msgctxt "FileIntegrityPage|"
 msgid "MD5"
@@ -2268,23 +2268,23 @@ msgstr "Kubiisamu %1%"
 
 msgctxt "FileIntegrityPage|"
 msgid "Compare with"
-msgstr ""
+msgstr "Geraageranya ne"
 
 msgctxt "FileIntegrityPage|"
 msgid "Verification OK"
-msgstr ""
+msgstr "Okukakasa kutuufu"
 
 msgctxt "FileIntegrityPage|"
 msgid "Verification failed"
-msgstr ""
+msgstr "Okukakasa kugaanye"
 
 msgctxt "FileManagerSupportDialog|"
 msgid "No supported file managers found."
-msgstr ""
+msgstr "Tewali muddukanya fayiro akkirizibwa azuuliddwa."
 
 msgctxt "FileName|"
 msgid "Create subfolder"
-msgstr ""
+msgstr "Kola folda entono"
 
 msgctxt "FileName|"
 msgid "File name"
@@ -2300,11 +2300,11 @@ msgstr "Fayilo zona"
 
 msgctxt "FilePickerPage|"
 msgid "Select folder"
-msgstr ""
+msgstr "Londa folda"
 
 msgctxt "FilePickerPage|"
 msgid "Select file"
-msgstr ""
+msgstr "Londa fayiro"
 
 msgctxt "FilePickerPage|"
 msgid "OK"
@@ -2312,11 +2312,11 @@ msgstr "KALE"
 
 msgctxt "FilePickerPage|"
 msgid "Empty folder"
-msgstr ""
+msgstr "Folda njereere"
 
 msgctxt "FilePickerSortDialog|"
 msgid "By date"
-msgstr ""
+msgstr "Okusinziira ku lunaku"
 
 #, fuzzy
 msgctxt "FilePickerSortDialog|"
@@ -2325,7 +2325,7 @@ msgstr "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa"
 
 msgctxt "FilePickerSortDialog|"
 msgid "By size"
-msgstr ""
+msgstr "Okusinziira ku bunene"
 
 msgctxt "FilePickerSortDialog|"
 msgid "Sort"
@@ -2333,23 +2333,23 @@ msgstr "Loonda"
 
 msgctxt "FilePickerSortDialog|"
 msgid "Ascending"
-msgstr ""
+msgstr "Okuva wansi okudda waggulu"
 
 msgctxt "FilePickerSortDialog|"
 msgid "Descending"
-msgstr ""
+msgstr "Okuva waggulu okudda wansi"
 
 msgctxt "FileType|"
 msgid "File type:"
-msgstr ""
+msgstr "Ekika kya fayiro:"
 
 msgctxt "FilesExistsDialog|"
 msgid "Warning: file exists already"
-msgstr ""
+msgstr "Okulabula: fayiro eno gy'eri dda"
 
 msgctxt "FilesExistsDialog|"
 msgid "Remember my choice for all downloads"
-msgstr ""
+msgstr "Jjukira kye nnonze ku dawuniloodi zonna"
 
 msgctxt "FilesExistsDialog|"
 msgid "Rename (%1)"
@@ -2377,7 +2377,7 @@ msgstr "Amageenda"
 
 msgctxt "FilesTree|"
 msgid "Priority"
-msgstr ""
+msgstr "Obukulu"
 
 msgctxt "FilesTree|"
 msgid "Normal"
@@ -2405,19 +2405,19 @@ msgstr "Tobako ky'olonda"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "High priority"
-msgstr ""
+msgstr "Obukulu bwa waggulu"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Normal priority"
-msgstr ""
+msgstr "Obukulu obwa bulijjo"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Low priority"
-msgstr ""
+msgstr "Obukulu bwa wansi"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Skip"
-msgstr ""
+msgstr "Buuka"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Open"
@@ -2433,7 +2433,7 @@ msgstr ""
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert video to mp3"
-msgstr ""
+msgstr "Kyusa vidiyo okudda mu mp3"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert video to mp4"
@@ -2493,7 +2493,7 @@ msgstr "Wagulu"
 
 msgctxt "FixedDownloadFolderCombobox|"
 msgid "Macros"
-msgstr ""
+msgstr "Makulo"
 
 msgctxt "GeneralSettings|"
 msgid "General"
