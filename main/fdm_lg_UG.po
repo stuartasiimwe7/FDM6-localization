@@ -1581,19 +1581,19 @@ msgstr "Obudde obusigadde"
 
 msgctxt "DownloadWindow|"
 msgid "Open download when it is completed"
-msgstr ""
+msgstr "Gulawo dawuniloodi bw'emalirizibwa"
 
 msgctxt "DownloadWindow|"
 msgid "Close this window when the download is completed or stopped"
-msgstr ""
+msgstr "Galawo eddirisa lino dawuniloodi bw'emalirizibwa oba bw'eyimirizibwa"
 
 msgctxt "DownloadWindow|"
 msgid "Remember to always close by default"
-msgstr ""
+msgstr "Jjukira bulijjo okuggalawo nga bwe kyategekebwa"
 
 msgctxt "DownloadWindow|"
 msgid "Remember to never close by default"
-msgstr ""
+msgstr "Jjukira obutaggalawo nga bwe kyategekebwa"
 
 msgctxt "DownloadWindow|"
 msgid "Hide"
@@ -1601,7 +1601,7 @@ msgstr "Kweeka"
 
 msgctxt "DownloadWindow|"
 msgid "Show in folder"
-msgstr ""
+msgstr "Laga mu folda"
 
 msgctxt "DownloadWindow|"
 msgid "Open"
@@ -1609,7 +1609,7 @@ msgstr "Gulawo"
 
 msgctxt "DownloadWindow|"
 msgid "Stop"
-msgstr ""
+msgstr "Yimiriza"
 
 msgctxt "DownloadWindow|"
 msgid "Start"
@@ -1617,31 +1617,31 @@ msgstr "Tandiika"
 
 msgctxt "DownloadsItemTools|"
 msgid "Moving"
-msgstr ""
+msgstr "Kutambuza"
 
 msgctxt "DownloadsItemTools|"
 msgid "Checking for viruses"
-msgstr ""
+msgstr "Kebera vvayirasi"
 
 msgctxt "DownloadsItemTools|"
 msgid "Converting to mp3"
-msgstr ""
+msgstr "Kukyusa okudda mu mp3"
 
 msgctxt "DownloadsItemTools|"
 msgid "Converting to mp4"
-msgstr ""
+msgstr "Kukyusa okudda mu mp4"
 
 msgctxt "DownloadsItemTools|"
 msgid "Calculating hash"
-msgstr ""
+msgstr "Kubala hash"
 
 msgctxt "DownloadsItemTools|"
 msgid "File is missing"
-msgstr ""
+msgstr "Fayiro teriwo"
 
 msgctxt "DownloadsItemTools|"
 msgid "Disk is missing"
-msgstr ""
+msgstr "Disiki teriwo"
 
 msgctxt "DownloadsList|"
 msgid "duplicates (%1)"
@@ -1657,39 +1657,39 @@ msgstr "tekiwaniriridwa (%1)"
 
 msgctxt "DownloadsList|"
 msgid "Skipped downloads"
-msgstr ""
+msgstr "Dawuniloodi ezibuukiddwa"
 
 msgctxt "DownloadsList|"
 msgid "Download links (%1 selected)"
-msgstr ""
+msgstr "Enkolungo za dawuniloodi (%1 ezirondeddwa)"
 
 msgctxt "DownloadsList|"
 msgid "Select all"
-msgstr ""
+msgstr "Londa byonna"
 
 msgctxt "DownloadsList|"
 msgid "Select none"
-msgstr ""
+msgstr "Tolina ky'olonda"
 
 msgctxt "DownloadsPage|"
 msgid "Show all downloads"
-msgstr ""
+msgstr "Laga dawuniloodi zonna"
 
 msgctxt "DownloadsPage|"
 msgid "Download list is empty."
-msgstr ""
+msgstr "Olukalala lwa dawuniloodi teruliimu kintu."
 
 msgctxt "DownloadsPage|"
 msgid "Add new download URL."
-msgstr ""
+msgstr "Yongerako URL ya dawuniloodi empya."
 
 msgctxt "DownloadsPage|"
 msgid "No results found for"
-msgstr ""
+msgstr "Tewali bivudde mu kunoonya"
 
 msgctxt "DownloadsPage|"
 msgid "No results tagged \"%1\" found"
-msgstr ""
+msgstr "Tewali bivudde mu kunoonya ebiriko tagi \"%1\""
 
 msgctxt "DownloadsPage|"
 msgid "No active downloads"
@@ -1697,15 +1697,15 @@ msgstr "Tewali dawuniloodi ziriwo mukaseera kano"
 
 msgctxt "DownloadsPage|"
 msgid "No completed downloads"
-msgstr ""
+msgstr "Tewali dawuniloodi zimaze"
 
 msgctxt "DownloadsPage|"
 msgid "Show all"
-msgstr ""
+msgstr "Laga byonna"
 
 msgctxt "DownloadsPage|"
 msgid "Download list is empty. Add new download URL."
-msgstr ""
+msgstr "Olukalala lwa dawuniloodi teruliimu kintu. Yongerako URL ya dawuniloodi empya."
 
 msgctxt "DownloadsPage|"
 msgid "Connect to remote %1"
@@ -1713,7 +1713,7 @@ msgstr "Wegatte ku nguga eyewala %1"
 
 msgctxt "DownloadsSettings|"
 msgid "Downloads settings"
-msgstr ""
+msgstr "Enteekateeka za dawuniloodi"
 
 msgctxt "DownloadsSettings|"
 msgid "Start downloading without confirmation"
@@ -1721,59 +1721,59 @@ msgstr "Tandika okudawuniloodinga nga tosoose kwekakasa"
 
 msgctxt "DownloadsSettings|"
 msgid "Automatically remove deleted files from download list"
-msgstr ""
+msgstr "Ggyawo fayiro ezisanguddwa ku lukalala lwa dawuniloodi mu ngeri ey'otoma"
 
 msgctxt "DownloadsSettings|"
 msgid "Automatically remove completed downloads from download list"
-msgstr ""
+msgstr "Ggyawo dawuniloodi ezimaliriziddwa ku lukalala mu ngeri ey'otoma"
 
 msgctxt "DownloadsSettings|"
 msgid "Immediately"
-msgstr ""
+msgstr "Amangu ddala"
 
 msgctxt "DownloadsSettings|"
 msgid "In"
-msgstr ""
+msgstr "Mu"
 
 msgctxt "DownloadsSettings|"
 msgid "days"
-msgstr ""
+msgstr "ennaku"
 
 msgctxt "DownloadsSettings|"
 msgid "Automatically retry failed downloads"
-msgstr ""
+msgstr "Ddamu okugezaako dawuniloodi ezigaanye mu ngeri ey'otoma"
 
 msgctxt "DownloadsSettings|"
 msgid "Do not download web pages"
-msgstr ""
+msgstr "Todawunilooda mpapula za ku mutimbagano"
 
 msgctxt "DownloadsSettings|"
 msgid "Use server time for file creation"
-msgstr ""
+msgstr "Kozesa essaawa ya seva ng'okola fayiro"
 
 msgctxt "DownloadsSettings|"
 msgid "Default download folder"
-msgstr ""
+msgstr "Folda ya dawuniloodi eyategekebwa"
 
 msgctxt "DownloadsSettings|"
 msgid "Choose default download folder automatically"
-msgstr ""
+msgstr "Londa folda ya dawuniloodi eyategekebwa mu ngeri ey'otoma"
 
 msgctxt "DownloadsSettings|"
 msgid "Suggest folders based on file type"
-msgstr ""
+msgstr "Wa amagezi ku folda okusinziira ku kika kya fayiro"
 
 msgctxt "DownloadsSettings|"
 msgid "Suggest folders based on download URL"
-msgstr ""
+msgstr "Wa amagezi ku folda okusinziira ku URL ya dawuniloodi"
 
 msgctxt "DownloadsSettings|"
 msgid "Fixed default download folder"
-msgstr ""
+msgstr "Folda ya dawuniloodi eyategekebwa etakyuka"
 
 msgctxt "DownloadsTagMenu|"
 msgid "Untag"
-msgstr ""
+msgstr "Ggyako tagi"
 
 msgctxt "DownloadsViewHeader|"
 msgid "Name"
@@ -1789,11 +1789,11 @@ msgstr "Sipeedi"
 
 msgctxt "DownloadsViewHeader|"
 msgid "Size"
-msgstr ""
+msgstr "Obunene"
 
 msgctxt "DownloadsViewHeader|"
 msgid "Added"
-msgstr ""
+msgstr "Kyongerwako"
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "Paused"
@@ -1845,7 +1845,7 @@ msgstr "Apuloodi ebipozingidwa"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Restart"
-msgstr ""
+msgstr "Ddamu otandike"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Open"
@@ -1857,7 +1857,7 @@ msgstr "Loopa Ekizibu"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Enable auto retry for this kind of errors"
-msgstr ""
+msgstr "Kiriza okuddamu okugezaako mu ngeri ey'otoma ku kika kino eky'ensobi"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Save and complete"
@@ -1877,7 +1877,7 @@ msgstr "Wagulu"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Normal"
-msgstr ""
+msgstr "Kya bulijjo"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Low"
@@ -1885,15 +1885,15 @@ msgstr "Waansi"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Rename file"
-msgstr ""
+msgstr "Kyusa erinnya lya fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Move to..."
-msgstr ""
+msgstr "Tambuza mu..."
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Delete file"
-msgstr ""
+msgstr "Sangula fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Remove from list"
@@ -1909,7 +1909,7 @@ msgstr "Gatako Omukutu (endabirwaamu) Gyolimukujja"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Open download page"
-msgstr ""
+msgstr "Gulawo olupapula lwa dawuniloodi"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Copy link"
@@ -1917,11 +1917,11 @@ msgstr "Kkopa linki"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Check for update"
-msgstr ""
+msgstr "Kebera obupya"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Export selected downloads"
-msgstr ""
+msgstr "Fulumya dawuniloodi ezirondeddwa"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Add tag"
@@ -1929,27 +1929,27 @@ msgstr "Gatako Tag"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "File integrity"
-msgstr ""
+msgstr "Obutuufu bwa fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Schedule"
-msgstr ""
+msgstr "Teekawo enteekateeka"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Change URL"
-msgstr ""
+msgstr "Kyusa URL"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Convert to mp3"
-msgstr ""
+msgstr "Kyusa okudda mu mp3"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Convert to mp4"
-msgstr ""
+msgstr "Kyusa okudda mu mp4"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Perform virus check"
-msgstr ""
+msgstr "Kebera vvayirasi"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Abort"
@@ -1957,7 +1957,7 @@ msgstr "Sazaamu"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Set priority"
-msgstr ""
+msgstr "Teekawo obukulu"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show in folder"
@@ -1965,7 +1965,7 @@ msgstr ""
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show info"
-msgstr ""
+msgstr "Laga ebikwataako"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Files"
@@ -1973,7 +1973,7 @@ msgstr "Fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Sequential download"
-msgstr ""
+msgstr "Dawuniloodi egoberera ensengeka"
 
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Remove from list"
@@ -1989,15 +1989,15 @@ msgstr "Dawuniloodi ewedeyo"
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Checking files..."
-msgstr ""
+msgstr "Kebera fayiro..."
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Merging media streams..."
-msgstr ""
+msgstr "Gatta emikutu gya media..."
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Requesting info..."
-msgstr ""
+msgstr "Kusaba ebikwataako..."
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Queued"
@@ -2065,7 +2065,7 @@ msgstr "BIpozingidwa"
 
 msgctxt "DownloadsViewStatusItem|"
 msgid "Complete"
-msgstr ""
+msgstr "Kiwedde"
 
 msgctxt "DownloadsViewTools|"
 msgid "Downloads: %1"
