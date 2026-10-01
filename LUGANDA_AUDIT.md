@@ -1,160 +1,92 @@
 # Luganda (lg_UG) localization audit
 
-Audited: main/fdm_lg_UG.po
+Audited: `main/fdm_lg_UG.po` on `luganda-translation`
 
-## Mechanical fixes applied
-- Corrected PO metadata: X-Language: ar_SA -> X-Language: lg_UG.
-- Corrected the Qt placeholder in AdvancedSettings / "Notify me of downloads only when %1 window is inactive": 1% -> %1. No Luganda wording was otherwise changed.
+## Current status
 
-## Audit counts after mechanical fixes
 - PO entries: 1388
-- Genuinely untranslated non-header entries: 587
+- Genuinely untranslated non-header entries: 487
 - Fuzzy entries: 22
-- Remaining placeholder mismatches: 4 (all are fuzzy "Preferences" entries with clearly unrelated translations; left for human translation review)
+- Placeholder mismatches in translated entries: 4
+- Terminal punctuation mismatches in translated entries: 5
+- Duplicate context/msgid keys: 0
+- PO structural parse errors found: 0
+- Metadata: `Language: lg_UG` and `X-Language: lg_UG`
 
-A bare-text search for msgstr "" overcounts untranslated entries because multiline translations begin with msgstr "" and continue on quoted lines.
+A bare-text search for `msgstr ""` overcounts untranslated entries because multiline translations begin with `msgstr ""` and continue on quoted lines. Counts here use the decoded full `msgstr` value.
 
-## Entries requiring Luganda review
-The following fuzzy or placeholder-invalid entries were deliberately not translated automatically:
+## Changes since the previous audit branch
 
-- [EnvTools|] "No Internet connection" -> "Tetusobode kusindika lipoota. <br> Kebera enkolagana ya yintaneeti yo nti eri ku mulamwa." [fuzzy]
-- [FilePickerSortDialog|] "By name" -> "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa" [fuzzy]
-- [GeneralSettings|] "Downloads" -> "Sangula dawunilodi ezilondeddwa" [fuzzy]
-- [GeneralTab|] "completed" -> "Enkyukakyuka esobola okuggyibwawo etondeddwa bulungi." [fuzzy]
-- [GeneralTab|] "File" -> "Fayiro y’eddoboozi" [fuzzy]
-- [GeneralTab|] "Upload speed:" -> "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock" [fuzzy]
-- [GeneralTab_V2|] "Upload speed:" -> "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock" [fuzzy]
-- [GeneralTab_V2|] "File" -> "Fayiro y’eddoboozi" [fuzzy]
-- [MainMenu|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata." [fuzzy] [placeholder mismatch]
-- [MainToolbar|] "Delete selected" -> "Sangula fayiro ezilondeddwa?" [fuzzy]
-- [MergeDownloadsDialog|] "URL:" -> "Kyusa endagiriro y’okudauwuniloodinga" [fuzzy]
-- [MovingFailedDialog|] "Try again" -> "Ddamu nate" [fuzzy]
-- [NativeMenuBar|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata." [fuzzy] [placeholder mismatch]
-- [NativeMenuBar|] "&File" -> "Fayiro y’eddoboozi" [fuzzy]
-- [NativeMenuBar|] "&Copy" -> "Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako" [fuzzy]
-- [NativeMenuBar|] "Downloads" -> "Sangula dawunilodi ezilondeddwa" [fuzzy]
-- [NativeMenuBar|] "Remove from List" -> "Gyamu ku lukalala" [fuzzy]
-- [QObject|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata." [fuzzy] [placeholder mismatch]
-- [QObject|] "There is not enough disk space." -> "Tewali kifo kimala ku disik" [fuzzy]
-- [SelectSortFieldDialog|] "By name" -> "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa" [fuzzy]
-- [SettingsPage|] "Preferences" -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata." [fuzzy] [placeholder mismatch]
-- [TroubleshootingSettings|] "Failed" -> "Okusangula kwa fayiro endawuloodinge kugaanye" [fuzzy]
+`luganda-translation` is two commits ahead of `audit/lg-UG-submission-ready`. Those commits changed 102 previously empty translations in `main/fdm_lg_UG.po`.
 
-## Untranslated entries
-- [DownloadWindow|] "Open download when it is completed"
-- [DownloadWindow|] "Close this window when the download is completed or stopped"
-- [DownloadWindow|] "Remember to always close by default"
-- [DownloadWindow|] "Remember to never close by default"
-- [DownloadWindow|] "Show in folder"
-- [DownloadWindow|] "Stop"
-- [DownloadsItemTools|] "Moving"
-- [DownloadsItemTools|] "Checking for viruses"
-- [DownloadsItemTools|] "Converting to mp3"
-- [DownloadsItemTools|] "Converting to mp4"
-- [DownloadsItemTools|] "Calculating hash"
-- [DownloadsItemTools|] "File is missing"
-- [DownloadsItemTools|] "Disk is missing"
-- [DownloadsList|] "Skipped downloads"
-- [DownloadsList|] "Download links (%1 selected)"
-- [DownloadsList|] "Select all"
-- [DownloadsList|] "Select none"
-- [DownloadsPage|] "Show all downloads"
-- [DownloadsPage|] "Download list is empty."
-- [DownloadsPage|] "Add new download URL."
-- [DownloadsPage|] "No results found for"
-- [DownloadsPage|] "No results tagged \"%1\" found"
-- [DownloadsPage|] "No completed downloads"
-- [DownloadsPage|] "Show all"
-- [DownloadsPage|] "Download list is empty. Add new download URL."
-- [DownloadsSettings|] "Downloads settings"
-- [DownloadsSettings|] "Automatically remove deleted files from download list"
-- [DownloadsSettings|] "Automatically remove completed downloads from download list"
-- [DownloadsSettings|] "Immediately"
-- [DownloadsSettings|] "In"
-- [DownloadsSettings|] "days"
-- [DownloadsSettings|] "Automatically retry failed downloads"
-- [DownloadsSettings|] "Do not download web pages"
-- [DownloadsSettings|] "Use server time for file creation"
-- [DownloadsSettings|] "Default download folder"
-- [DownloadsSettings|] "Choose default download folder automatically"
-- [DownloadsSettings|] "Suggest folders based on file type"
-- [DownloadsSettings|] "Suggest folders based on download URL"
-- [DownloadsSettings|] "Fixed default download folder"
-- [DownloadsTagMenu|] "Untag"
-- [DownloadsViewHeader|] "Size"
-- [DownloadsViewHeader|] "Added"
-- [DownloadsViewItemContextMenu|] "Restart"
-- [DownloadsViewItemContextMenu|] "Enable auto retry for this kind of errors"
-- [DownloadsViewItemContextMenu|] "Normal"
-- [DownloadsViewItemContextMenu|] "Rename file"
-- [DownloadsViewItemContextMenu|] "Move to..."
-- [DownloadsViewItemContextMenu|] "Delete file"
-- [DownloadsViewItemContextMenu|] "Open download page"
-- [DownloadsViewItemContextMenu|] "Check for update"
-- [DownloadsViewItemContextMenu|] "Export selected downloads"
-- [DownloadsViewItemContextMenu|] "File integrity"
-- [DownloadsViewItemContextMenu|] "Schedule"
-- [DownloadsViewItemContextMenu|] "Change URL"
-- [DownloadsViewItemContextMenu|] "Convert to mp3"
-- [DownloadsViewItemContextMenu|] "Convert to mp4"
-- [DownloadsViewItemContextMenu|] "Perform virus check"
-- [DownloadsViewItemContextMenu|] "Set priority"
+Mechanical review of those 102 new translations found:
+- Placeholder mismatches: 0
+- Terminal punctuation mismatches: 0
+
+The new translations therefore reduce the genuine untranslated count from 587 to 487. They do not introduce new placeholder or terminal-punctuation defects.
+
+## Existing entries requiring review
+
+### Fuzzy entries (22)
+
+These predate the two latest translation commits and remain marked fuzzy.
+
+- [EnvTools|] "No Internet connection" -> "Tetusobode kusindika lipoota. <br> Kebera enkolagana ya yintaneeti yo nti eri ku mulamwa."
+- [FilePickerSortDialog|] "By name" -> "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa"
+- [GeneralSettings|] "Downloads" -> "Sangula dawunilodi ezilondeddwa"
+- [GeneralTab|] "completed" -> "Enkyukakyuka esobola okuggyibwawo etondeddwa bulungi."
+- [GeneralTab|] "File" -> "Fayiro y’eddoboozi"
+- [GeneralTab|] "Upload speed:" -> "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
+- [GeneralTab_V2|] "Upload speed:" -> "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
+- [GeneralTab_V2|] "File" -> "Fayiro y’eddoboozi"
+- [MainMenu|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+- [MainToolbar|] "Delete selected" -> "Sangula fayiro ezilondeddwa?"
+- [MergeDownloadsDialog|] "URL:" -> "Kyusa endagiriro y’okudauwuniloodinga"
+- [MovingFailedDialog|] "Try again" -> "Ddamu nate"
+- [NativeMenuBar|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+- [NativeMenuBar|] "&File" -> "Fayiro y’eddoboozi"
+- [NativeMenuBar|] "&Copy" -> "Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako"
+- [NativeMenuBar|] "Downloads" -> "Sangula dawunilodi ezilondeddwa"
+- [NativeMenuBar|] "Remove from List" -> "Gyamu ku lukalala"
+- [QObject|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+- [QObject|] "There is not enough disk space." -> "Tewali kifo kimala ku disik"
+- [SelectSortFieldDialog|] "By name" -> "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa"
+- [SettingsPage|] "Preferences" -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+- [TroubleshootingSettings|] "Failed" -> "Okusangula kwa fayiro endawuloodinge kugaanye"
+
+### Placeholder mismatches (4)
+
+These are translated entries whose placeholders do not match the source. All four are fuzzy Preferences entries with unrelated text and should be retranslated rather than mechanically patched.
+
+- [MainMenu|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+- [NativeMenuBar|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+- [QObject|] "Preferences..." -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+- [SettingsPage|] "Preferences" -> "Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+
+### Terminal punctuation mismatches (5)
+
+These are mechanical punctuation differences worth checking during linguistic cleanup. Several overlap fuzzy entries.
+
+- [AppDenyShutdownIfHasOpsWithNoResumeSupportSwitch|] "Downloads with no resume support (%1)." -> "Dawuniloodi ezitalina buyambi bwa kwezaamu (%1)"
+- [GeneralTab|] "Upload speed:" -> "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
+- [GeneralTab_V2|] "Upload speed:" -> "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
+- [MergeDownloadsDialog|] "URL:" -> "Kyusa endagiriro y’okudauwuniloodinga"
+- [QObject|] "There is not enough disk space." -> "Tewali kifo kimala ku disik"
+
+## Untranslated entries (487)
+
 - [DownloadsViewItemContextMenu|] "Show in folder"
-- [DownloadsViewItemContextMenu|] "Show info"
-- [DownloadsViewItemContextMenu|] "Sequential download"
 - [DownloadsViewItemContextMenu2|] "Restart"
-- [DownloadsViewItemFileInfo|] "Checking files..."
-- [DownloadsViewItemFileInfo|] "Merging media streams..."
-- [DownloadsViewItemFileInfo|] "Requesting info..."
-- [DownloadsViewStatusItem|] "Complete"
-- [EditTagDialog|] "Edit tag"
-- [EditTagDialog|] "Tag"
-- [EditTagDialog|] "Extensions (e.g. \"avi mp3\")"
-- [EditTagDialog|] "Extensions that are automatically assigned with this tag for new downloads"
-- [EditTagDialog|] "Default download folder"
-- [EditTagDialog|] "Macros"
-- [EnvTools|] "Low battery"
-- [EnvTools|] "Data roaming disabled"
-- [EnvTools|] "Mobile data use disabled"
-- [ExportDownloadsDialog|] "Export selected downloads"
-- [ExportDownloadsDialog|] "Export all downloads"
-- [FileIntegrityDialog|] "Check file integrity"
-- [FileIntegrityDialog|] "Compare with"
-- [FileIntegrityDialog|] "Verification OK"
-- [FileIntegrityDialog|] "Verification failed"
-- [FileIntegrityPage|] "Check file integrity"
 - [FileIntegrityPage|] "MD5"
 - [FileIntegrityPage|] "SHA-1"
 - [FileIntegrityPage|] "SHA-256"
 - [FileIntegrityPage|] "SHA-512"
-- [FileIntegrityPage|] "Compare with"
-- [FileIntegrityPage|] "Verification OK"
-- [FileIntegrityPage|] "Verification failed"
-- [FileManagerSupportDialog|] "No supported file managers found."
-- [FileName|] "Create subfolder"
-- [FilePickerPage|] "Select folder"
-- [FilePickerPage|] "Select file"
-- [FilePickerPage|] "Empty folder"
-- [FilePickerSortDialog|] "By date"
-- [FilePickerSortDialog|] "By size"
-- [FilePickerSortDialog|] "Ascending"
-- [FilePickerSortDialog|] "Descending"
-- [FileType|] "File type:"
-- [FilesExistsDialog|] "Warning: file exists already"
-- [FilesExistsDialog|] "Remember my choice for all downloads"
 - [FilesTree|] "Size"
-- [FilesTree|] "Priority"
 - [FilesTree|] "Normal"
-- [FilesTreeContextMenu|] "High priority"
-- [FilesTreeContextMenu|] "Normal priority"
-- [FilesTreeContextMenu|] "Low priority"
-- [FilesTreeContextMenu|] "Skip"
 - [FilesTreeContextMenu|] "Show in folder"
 - [FilesTreeContextMenu|] "File integrity"
-- [FilesTreeContextMenu|] "Convert video to mp3"
 - [FilesTreeHeader_V2|] "Normal"
 - [FilesTreeItem_V2|] "Normal"
-- [FixedDownloadFolderCombobox|] "Macros"
 - [GeneralSettings|] "Language"
 - [GeneralSettings|] "Suggest folders based on file type"
 - [GeneralSettings|] "Theme"
@@ -252,10 +184,12 @@ The following fuzzy or placeholder-invalid entries were deliberately not transla
 - [MainMenu|] "Quit"
 - [MainStatusBar|] "Snail mode frees bandwidth without stopping downloads."
 - [MainStatusBar|] "Snail mode"
+- [MainStatusBar|] "%n downloads selected."
 - [MainStatusBar|] "Total size:"
 - [MainStatusBar_V2|] "Snail mode frees bandwidth without stopping downloads."
 - [MainStatusBar_V2|] "Snail mode"
 - [MainStatusBar_V2|] "Set the traffic usage mode"
+- [MainStatusBar_V2|] "%n downloads selected."
 - [MainStatusBar_V2|] "Total size:"
 - [MainToolbar|] "Add new download..."
 - [MainToolbar|] "Start all"
@@ -628,3 +562,9 @@ The following fuzzy or placeholder-invalid entries were deliberately not transla
 - [TumModeBlock|] "Frees bandwidth without stopping downloads."
 - [TumModeDialog|] "Change traffic limits"
 - [TumSettingTextField|] "Can't be greater than %1"
+
+## Submission state
+
+The file is structurally clean: metadata is corrected, entries parse consistently, no duplicate context/msgid keys were found, and the 102 newest translations preserve placeholders and terminal punctuation.
+
+It is not yet linguistically complete. Before upstream submission, the remaining 487 untranslated entries and 22 fuzzy entries should be translated/reviewed, including the 4 placeholder-invalid fuzzy Preferences entries. Upstream availability is not assumed by this audit.
