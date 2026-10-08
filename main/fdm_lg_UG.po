@@ -2097,11 +2097,11 @@ msgstr "Taagi"
 
 msgctxt "EditTagDialog|"
 msgid "Extensions (e.g. \"avi mp3\")"
-msgstr "Ebigaziyizibwa (e.g. \"avi mp3\")"
+msgstr "Obugatte bwa fayiro (okugeza \"avi mp3\")"
 
 msgctxt "EditTagDialog|"
 msgid "Extensions that are automatically assigned with this tag for new downloads"
-msgstr "Extensions eziweebwa automatically ne tag eno okusobola okuwanula ebipya"
+msgstr "Obugatte bwa fayiro obuweebwa taagi eno mu ngeri ey'otoma ku biwanulwa ebipya"
 
 msgctxt "EditTagDialog|"
 msgid "Default download folder"
@@ -2297,7 +2297,7 @@ msgstr "Tewali baddukanya fayiro bawagirwa bazuuliddwa."
 
 msgctxt "FileName|"
 msgid "Create subfolder"
-msgstr "Tonda ekitabo ekitono"
+msgstr "Tonda etterekero erya wansi"
 
 msgctxt "FileName|"
 msgid "File name"
@@ -4181,7 +4181,7 @@ msgstr "Katabanguko"
 
 msgctxt "QObject|"
 msgid "Gone"
-msgstr "Agenze"
+msgstr "Tekikyaliwo"
 
 msgctxt "QObject|"
 msgid "Length Required"
@@ -4225,7 +4225,7 @@ msgstr "Enkola Okulemererwa / Yongera Obukkakkamu Bwo"
 
 msgctxt "QObject|"
 msgid "Unprocessable Entity"
-msgstr "Ekitongole ekitali kya kulongoosebwa"
+msgstr "Tekisobola kulongoosebwa"
 
 msgctxt "QObject|"
 msgid "Locked"
@@ -4297,7 +4297,7 @@ msgstr "Token eggwaako/tekyakola"
 
 msgctxt "QObject|"
 msgid "Client Closed Request"
-msgstr "Okusaba kwa Kasitoma Okuggaddwa"
+msgstr "Klayenti yaggadde okusaba"
 
 msgctxt "QObject|"
 msgid "Internal Server Error"
@@ -4477,7 +4477,7 @@ msgstr "Mount point tewali"
 
 msgctxt "QObject|"
 msgid "Signature check failure."
-msgstr "Okukebera emikono okulemererwa."
+msgstr "Okukakasa omukono kulemereddwa."
 
 msgctxt "QObject|"
 msgid "Download with %1"
