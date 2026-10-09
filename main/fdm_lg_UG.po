@@ -118,7 +118,7 @@ msgstr ""
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of downloads only when %1 window is inactive"
-msgstr "Ntegeeza ku bye ndawuniloodinga singa wiindo ya %1 tekola"
+msgstr "Ntegeeza ku bye ndawuniloodinga singa wiindo ya %1 teri mu nkola"
 
 msgctxt "AdvancedSettings|"
 msgid "Customize sounds"
@@ -1901,7 +1901,7 @@ msgstr "Kyuusa erinnya lya fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Move to..."
-msgstr "Senguka ku..."
+msgstr "Sengula ku..."
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Delete file"
@@ -2730,7 +2730,7 @@ msgstr "Domeeni:"
 
 msgctxt "GeneralTab|"
 msgid "Added:"
-msgstr "Yayongeddeko nti:"
+msgstr "Kigattiddwako:"
 
 msgctxt "GeneralTab|"
 msgid "Progress:"
@@ -2850,7 +2850,7 @@ msgstr "Toddamu kubuuza"
 
 msgctxt "InvalidSettingsMessageDialog|"
 msgid ". Close anyway?"
-msgstr ". Ggalawo anyway?"
+msgstr ". Ggalawo wadde kiri kityo?"
 
 msgctxt "LanguageDialog|"
 msgid "Language"
@@ -2990,7 +2990,7 @@ msgstr "Ebigattibwako..."
 
 msgctxt "MainMenu|"
 msgid "Preferences..."
-msgstr "Ebintu by'oyagala..."
+msgstr "Ensengeka..."
 
 msgctxt "MainMenu|"
 msgid "Contact support"
@@ -3014,7 +3014,7 @@ msgstr "Otulo"
 
 msgctxt "MainMenu|"
 msgid "Hibernate"
-msgstr "Osula mu kiseera ky’obutiti"
+msgstr "Teeka mu hibernation"
 
 msgctxt "MainMenu|"
 msgid "Shutdown"
@@ -3126,7 +3126,7 @@ msgstr "Sangula ebirondeddwa"
 
 msgctxt "MainToolbar|"
 msgid "Move to..."
-msgstr "Senguka ku..."
+msgstr "Sengula ku..."
 
 msgctxt "MainToolbar|"
 msgid "Move downloads up"
@@ -3218,7 +3218,7 @@ msgstr "Alina okuba namba esinga 0."
 
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "Ready to play"
-msgstr "Mwetegefu okuzannya"
+msgstr "Yetegefu okuzannyibwa"
 
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "%1 is ready to play"
@@ -3434,7 +3434,7 @@ msgstr "Kebera oba waliwo Ebipya..."
 
 msgctxt "NativeMenuBar|"
 msgid "Preferences..."
-msgstr "Ebintu by'oyagala..."
+msgstr "Ensengeka..."
 
 msgctxt "NativeMenuBar|"
 msgid "Quit"
@@ -3538,7 +3538,7 @@ msgstr "FTP:"
 
 msgctxt "NetworkSettings|"
 msgid "SOCKS5:"
-msgstr "SOCKS5: 1.1."
+msgstr "SOCKS5:"
 
 msgctxt "NetworkSettings|"
 msgid "Invalid proxy settings"
@@ -3614,7 +3614,7 @@ msgstr "Okumanyisibwa okw’enjawulo"
 
 msgctxt "Notification|"
 msgid "Ready to play"
-msgstr "Mwetegefu okuzannya"
+msgstr "Yetegefu okuzannyibwa"
 
 msgctxt "OsPermissionsDialog|"
 msgid "%1 is missing permissions"
@@ -3876,7 +3876,7 @@ msgstr "Ekisinga wansi"
 
 msgctxt "PreferredVideoQualityCombobox|"
 msgid "Highest"
-msgstr "Ekisinga obukulu"
+msgstr "Ekisinga waggulu"
 
 msgctxt "PrivacyDialog|"
 msgid "User agreement"
@@ -3886,7 +3886,7 @@ msgctxt "PrivacyDialog|"
 msgid ""
 "A bug report will be sent to the server and used to improve %1 performance. We do "
 "not collect your personal data and do not share data with third parties."
-msgstr "Lipoota y'obuzibu ejja kusindikibwa ku seva era ekozesebwa okulongoosa omulimu gwa %1. Tetukung’aanya bikwata ku muntu wo era tetugabana bikwata ku bantu ba kusatu."
+msgstr "Lipoota y'obuzibu ejja kusindikibwa ku seva era ekozesebwa okulongoosa omulimu gwa %1. Tetukung’aanya bikwata ku muntu wo era tetugabana data n'enjuyi ez'okusatu."
 
 msgctxt "PrivacyDialog|"
 msgid "I agree (do not show it again)"
@@ -3993,7 +3993,7 @@ msgstr "Fuluma"
 
 msgctxt "QObject|"
 msgid "Preferences..."
-msgstr "Ebintu by'oyagala..."
+msgstr "Ensengeka..."
 
 msgctxt "QObject|"
 msgid "Check for updates..."
@@ -4217,7 +4217,7 @@ msgstr "Nze ndi kiyungu kya caayi"
 
 msgctxt "QObject|"
 msgid "Authentication Timeout"
-msgstr "Ekiseera ky'okukakasa"
+msgstr "Ekiseera ky'okukakasa kiweddeko"
 
 msgctxt "QObject|"
 msgid "Method Failure / Enhance Your Calm"
@@ -4309,7 +4309,7 @@ msgstr "Tekiteekebwa mu nkola"
 
 msgctxt "QObject|"
 msgid "Bad Gateway"
-msgstr "Omulyango Omubi"
+msgstr "Gateway embi"
 
 msgctxt "QObject|"
 msgid "Service Unavailable"
@@ -4365,7 +4365,7 @@ msgstr "Parameter etali ntuufu"
 
 msgctxt "QObject|"
 msgid "Unsupported format"
-msgstr "Enkola etawagirwa"
+msgstr "Fomati etawagirwa"
 
 msgctxt "QObject|"
 msgid "Not found"
@@ -4521,7 +4521,7 @@ msgstr "Ensobi etta: eremereddwa okutikka database."
 msgctxt "QObject|"
 msgid ""
 "Would you like to erase it (this will clear your downloads list and all %1 data)?"
-msgstr "Wandyagadde okugisangulawo (kino kijja kulongoosa olukalala lwo olw'ebintu by'owanula ne data yonna eya %1)?"
+msgstr "Wandyagadde okugisangulawo (kino kijja kusangulawo olukalala lwo olw'ebintu by'owanula ne data yonna eya %1)?"
 
 msgctxt "QObject|"
 msgid "Failed."
@@ -4941,11 +4941,11 @@ msgstr "Ensengeka ezitali ntuufu"
 
 msgctxt "SettingsPage|"
 msgid ". Close anyway?"
-msgstr ". Ggalawo anyway?"
+msgstr ". Ggalawo wadde kiri kityo?"
 
 msgctxt "SettingsPage|"
 msgid "Preferences"
-msgstr "Ebintu by'oyagala"
+msgstr "Ensengeka"
 
 msgctxt "SettingsPage|"
 msgid "General"
