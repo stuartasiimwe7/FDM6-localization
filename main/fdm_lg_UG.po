@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
+"PO-Revision-Date: 2026-10-09 00:00+0900\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: lg_UG\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: ar_SA\n"
+"X-Language: lg_UG\n"
 "X-Source-Language: en\n"
 "X-Qt-Contexts: true\n"
 "X-Generator: Poedit 3.4.2\n"
@@ -118,7 +118,7 @@ msgstr ""
 
 msgctxt "AdvancedSettings|"
 msgid "Notify me of downloads only when %1 window is inactive"
-msgstr "Ntegeeza ku bye ndawuniloodinga singa 1% wiindo teli active"
+msgstr "Ntegeeza ku bye ndawuniloodinga singa wiindo ya %1 teri mu nkola"
 
 msgctxt "AdvancedSettings|"
 msgid "Customize sounds"
@@ -793,8 +793,8 @@ msgid "Other supported browsers"
 msgstr "Brawuza endala ezikirizibwa"
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Automatically catch downloads from browsers"
-msgstr "Okweyambisa okukwata obujjuvu okuva mu browser"
+msgid "Automatically capture downloads from browsers"
+msgstr "Kwata ebiwanulwa okuva mu brawuza mu ngeri ey'otoma"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Intercept downloads in your web browser"
@@ -825,8 +825,8 @@ msgid "Are you sure this is a valid file extension?"
 msgstr "Okkakasa nti obugatte bwa fayiro eno obutuufu?"
 
 msgctxt "BrowserIntegrationSettings|"
-msgid "Don't catch downloads smaller than"
-msgstr "Lekayoo dawuniloodi entono ddala eziri wanzi wa"
+msgid "Don't capture downloads smaller than"
+msgstr "Tokwata biwanulwa ebitono okusinga"
 
 msgctxt "BrowserIntegrationSettings|"
 msgid "Mbytes"
@@ -839,6 +839,10 @@ msgstr "Kozesa burawuza bwoba osaziizaamu byodawuniloodinga nga oyita ku %1"
 msgctxt "BrowserIntegrationSettings|"
 msgid "Don't intercept if INSERT key is pressed"
 msgstr "Totaataganya bwoba nga onyize INSERT"
+
+msgctxt "BrowserIntegrationSettings|"
+msgid "Capture files with extensions"
+msgstr "Kwata fayiro ezirina obugatte"
 
 msgctxt "BrowserIntroDialog|"
 msgid ""
@@ -1040,6 +1044,14 @@ msgstr "Sazaamu"
 msgctxt "ButtonsBlock|"
 msgid "Download"
 msgstr "Dawuniloodi"
+
+msgctxt "ButtonsBlock|"
+msgid "The subfolder name must not be empty"
+msgstr "Erinnya ly'etterekero erya wansi teririna kuba jjereere"
+
+msgctxt "ButtonsBlock|"
+msgid "The filename must not be empty"
+msgstr "Erinnya lya fayiro teririna kuba jjereere"
 
 msgctxt "ChangeUrlDialog|"
 msgid "Change download URL"
@@ -1581,19 +1593,19 @@ msgstr "Obudde obusigadde"
 
 msgctxt "DownloadWindow|"
 msgid "Open download when it is completed"
-msgstr ""
+msgstr "Ggulawo download nga ewedde"
 
 msgctxt "DownloadWindow|"
 msgid "Close this window when the download is completed or stopped"
-msgstr ""
+msgstr "Ggalawo eddirisa lino nga okuwanula kuwedde oba nga kuyimiriziddwa"
 
 msgctxt "DownloadWindow|"
 msgid "Remember to always close by default"
-msgstr ""
+msgstr "Jjukira bulijjo okuggalawo nga bwe kitegekeddwa"
 
 msgctxt "DownloadWindow|"
 msgid "Remember to never close by default"
-msgstr ""
+msgstr "Jjukira obutaggalawo nga bwe kitegekeddwa"
 
 msgctxt "DownloadWindow|"
 msgid "Hide"
@@ -1601,7 +1613,7 @@ msgstr "Kweeka"
 
 msgctxt "DownloadWindow|"
 msgid "Show in folder"
-msgstr ""
+msgstr "Laga mu tterekero"
 
 msgctxt "DownloadWindow|"
 msgid "Open"
@@ -1609,7 +1621,7 @@ msgstr "Gulawo"
 
 msgctxt "DownloadWindow|"
 msgid "Stop"
-msgstr ""
+msgstr "Yimiriza"
 
 msgctxt "DownloadWindow|"
 msgid "Start"
@@ -1617,31 +1629,31 @@ msgstr "Tandiika"
 
 msgctxt "DownloadsItemTools|"
 msgid "Moving"
-msgstr ""
+msgstr "Okusengula"
 
 msgctxt "DownloadsItemTools|"
 msgid "Checking for viruses"
-msgstr ""
+msgstr "Okukebera oba temuli akawuka"
 
 msgctxt "DownloadsItemTools|"
 msgid "Converting to mp3"
-msgstr ""
+msgstr "Okukyusa okudda mu mp3"
 
 msgctxt "DownloadsItemTools|"
 msgid "Converting to mp4"
-msgstr ""
+msgstr "Okukyusa okudda mu mp4"
 
 msgctxt "DownloadsItemTools|"
 msgid "Calculating hash"
-msgstr ""
+msgstr "Okubala hash"
 
 msgctxt "DownloadsItemTools|"
 msgid "File is missing"
-msgstr ""
+msgstr "Fayilo teliwo"
 
 msgctxt "DownloadsItemTools|"
 msgid "Disk is missing"
-msgstr ""
+msgstr "Disiki teliwo"
 
 msgctxt "DownloadsList|"
 msgid "duplicates (%1)"
@@ -1657,39 +1669,39 @@ msgstr "tekiwaniriridwa (%1)"
 
 msgctxt "DownloadsList|"
 msgid "Skipped downloads"
-msgstr ""
+msgstr "Ebiwanulwa ebyabuukibwa"
 
 msgctxt "DownloadsList|"
 msgid "Download links (%1 selected)"
-msgstr ""
+msgstr "Ebiyungo by'okuwanula (%1 birondeddwa)"
 
 msgctxt "DownloadsList|"
 msgid "Select all"
-msgstr ""
+msgstr "Londa byonna"
 
 msgctxt "DownloadsList|"
 msgid "Select none"
-msgstr ""
+msgstr "Tolonda kintu kyonna"
 
 msgctxt "DownloadsPage|"
 msgid "Show all downloads"
-msgstr ""
+msgstr "Laga byonna ebiwanuliddwa"
 
 msgctxt "DownloadsPage|"
 msgid "Download list is empty."
-msgstr ""
+msgstr "Olukalala lw'okuwanula luli bwereere."
 
 msgctxt "DownloadsPage|"
 msgid "Add new download URL."
-msgstr ""
+msgstr "Yongera ku URL empya ey’okuwanula."
 
 msgctxt "DownloadsPage|"
 msgid "No results found for"
-msgstr ""
+msgstr "Tewali bivuddemu bizuuliddwa ku"
 
 msgctxt "DownloadsPage|"
 msgid "No results tagged \"%1\" found"
-msgstr ""
+msgstr "Tewali bivuddemu biwandiikiddwako \"%1\" bizuuliddwa"
 
 msgctxt "DownloadsPage|"
 msgid "No active downloads"
@@ -1697,15 +1709,15 @@ msgstr "Tewali dawuniloodi ziriwo mukaseera kano"
 
 msgctxt "DownloadsPage|"
 msgid "No completed downloads"
-msgstr ""
+msgstr "Tewali kuwanula kuwedde"
 
 msgctxt "DownloadsPage|"
 msgid "Show all"
-msgstr ""
+msgstr "Laga byonna"
 
 msgctxt "DownloadsPage|"
 msgid "Download list is empty. Add new download URL."
-msgstr ""
+msgstr "Olukalala lw'okuwanula luli bwereere. Yongera ku URL empya ey’okuwanula."
 
 msgctxt "DownloadsPage|"
 msgid "Connect to remote %1"
@@ -1713,7 +1725,7 @@ msgstr "Wegatte ku nguga eyewala %1"
 
 msgctxt "DownloadsSettings|"
 msgid "Downloads settings"
-msgstr ""
+msgstr "Enteekateeka z’okuwanula"
 
 msgctxt "DownloadsSettings|"
 msgid "Start downloading without confirmation"
@@ -1721,59 +1733,59 @@ msgstr "Tandika okudawuniloodinga nga tosoose kwekakasa"
 
 msgctxt "DownloadsSettings|"
 msgid "Automatically remove deleted files from download list"
-msgstr ""
+msgstr "Ggyawo fayiro ezisanguddwa mu ngeri ey'otoma okuva ku lukalala lw'okuwanula"
 
 msgctxt "DownloadsSettings|"
 msgid "Automatically remove completed downloads from download list"
-msgstr ""
+msgstr "Ggyawo ebiwanulwa ebiwedde mu ngeri ey'otoma okuva ku lukalala lw'okuwanula"
 
 msgctxt "DownloadsSettings|"
 msgid "Immediately"
-msgstr ""
+msgstr "Mbagirawo"
 
 msgctxt "DownloadsSettings|"
 msgid "In"
-msgstr ""
+msgstr "Mu"
 
 msgctxt "DownloadsSettings|"
 msgid "days"
-msgstr ""
+msgstr "ennaku"
 
 msgctxt "DownloadsSettings|"
 msgid "Automatically retry failed downloads"
-msgstr ""
+msgstr "Ddamu okugezaako otomatiki okuwanula okulemereddwa"
 
 msgctxt "DownloadsSettings|"
 msgid "Do not download web pages"
-msgstr ""
+msgstr "Towanula mpapula za mukutu"
 
 msgctxt "DownloadsSettings|"
 msgid "Use server time for file creation"
-msgstr ""
+msgstr "Kozesa obudde bwa seva mu kutonda fayiro"
 
 msgctxt "DownloadsSettings|"
 msgid "Default download folder"
-msgstr ""
+msgstr "Etterekero ly'okuwanula erya bulijjo"
 
 msgctxt "DownloadsSettings|"
 msgid "Choose default download folder automatically"
-msgstr ""
+msgstr "Londa etterekero ly'okuwanula erya bulijjo mu ngeri ey'otoma"
 
 msgctxt "DownloadsSettings|"
 msgid "Suggest folders based on file type"
-msgstr ""
+msgstr "Teesa ku folda okusinziira ku kika kya fayiro"
 
 msgctxt "DownloadsSettings|"
 msgid "Suggest folders based on download URL"
-msgstr ""
+msgstr "Teesa ku folda okusinziira ku URL y'okuwanula"
 
 msgctxt "DownloadsSettings|"
 msgid "Fixed default download folder"
-msgstr ""
+msgstr "Etterekero ly'okuwanula erya bulijjo eriteekeddwawo"
 
 msgctxt "DownloadsTagMenu|"
 msgid "Untag"
-msgstr ""
+msgstr "Ggyako taagi"
 
 msgctxt "DownloadsViewHeader|"
 msgid "Name"
@@ -1789,11 +1801,11 @@ msgstr "Sipeedi"
 
 msgctxt "DownloadsViewHeader|"
 msgid "Size"
-msgstr ""
+msgstr "Obunene"
 
 msgctxt "DownloadsViewHeader|"
 msgid "Added"
-msgstr ""
+msgstr "Kigattiddwako"
 
 msgctxt "DownloadsViewHeaderColumnsWidthCalc|"
 msgid "Paused"
@@ -1845,7 +1857,7 @@ msgstr "Apuloodi ebipozingidwa"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Restart"
-msgstr ""
+msgstr "Ddamu okutandika"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Open"
@@ -1857,7 +1869,7 @@ msgstr "Loopa Ekizibu"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Enable auto retry for this kind of errors"
-msgstr ""
+msgstr "Ssobozesa auto retry ku nsobi ez'ekika kino"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Save and complete"
@@ -1877,7 +1889,7 @@ msgstr "Wagulu"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Normal"
-msgstr ""
+msgstr "Kya bulijjo"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Low"
@@ -1885,15 +1897,15 @@ msgstr "Waansi"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Rename file"
-msgstr ""
+msgstr "Kyuusa erinnya lya fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Move to..."
-msgstr ""
+msgstr "Sengula ku..."
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Delete file"
-msgstr ""
+msgstr "Sangula fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Remove from list"
@@ -1909,7 +1921,7 @@ msgstr "Gatako Omukutu (endabirwaamu) Gyolimukujja"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Open download page"
-msgstr ""
+msgstr "Ggulawo omuko gw’okuwanula"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Copy link"
@@ -1917,11 +1929,11 @@ msgstr "Kkopa linki"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Check for update"
-msgstr ""
+msgstr "Kebera oba waliwo ebipya"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Export selected downloads"
-msgstr ""
+msgstr "Fulumya ebiwanulwa ebirondeddwa"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Add tag"
@@ -1929,27 +1941,27 @@ msgstr "Gatako Tag"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "File integrity"
-msgstr ""
+msgstr "Obutuufu bwa fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Schedule"
-msgstr ""
+msgstr "Teekateeka"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Change URL"
-msgstr ""
+msgstr "Kyusa URL"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Convert to mp3"
-msgstr ""
+msgstr "Okukyusa mu mp3"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Convert to mp4"
-msgstr ""
+msgstr "Okukyusa mu mp4"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Perform virus check"
-msgstr ""
+msgstr "Kola okukebera akawuka"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Abort"
@@ -1957,15 +1969,15 @@ msgstr "Sazaamu"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Set priority"
-msgstr ""
+msgstr "Teekawo obukulu"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show in folder"
-msgstr ""
+msgstr "Laga mu tterekero"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Show info"
-msgstr ""
+msgstr "Laga info"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Files"
@@ -1973,7 +1985,11 @@ msgstr "Fayiro"
 
 msgctxt "DownloadsViewItemContextMenu|"
 msgid "Sequential download"
-msgstr ""
+msgstr "Okuwanula mu mutendera oguddirira"
+
+msgctxt "DownloadsViewItemContextMenu|"
+msgid "Share file"
+msgstr "Gabana fayiro"
 
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Remove from list"
@@ -1981,7 +1997,7 @@ msgstr "Gyamu ku lukalala"
 
 msgctxt "DownloadsViewItemContextMenu2|"
 msgid "Restart"
-msgstr ""
+msgstr "Ddamu okutandika"
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Download complete"
@@ -1989,15 +2005,15 @@ msgstr "Dawuniloodi ewedeyo"
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Checking files..."
-msgstr ""
+msgstr "Okukebera fayiro..."
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Merging media streams..."
-msgstr ""
+msgstr "Okugatta emikutu gy'amawulire..."
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Requesting info..."
-msgstr ""
+msgstr "Okusaba info..."
 
 msgctxt "DownloadsViewItemFileInfo|"
 msgid "Queued"
@@ -2065,7 +2081,7 @@ msgstr "BIpozingidwa"
 
 msgctxt "DownloadsViewStatusItem|"
 msgid "Complete"
-msgstr ""
+msgstr "Kiwedde"
 
 msgctxt "DownloadsViewTools|"
 msgid "Downloads: %1"
@@ -2073,23 +2089,23 @@ msgstr "Dawuniloodi: %1"
 
 msgctxt "EditTagDialog|"
 msgid "Edit tag"
-msgstr ""
+msgstr "Kyusa taagi"
 
 msgctxt "EditTagDialog|"
 msgid "Tag"
-msgstr ""
+msgstr "Taagi"
 
 msgctxt "EditTagDialog|"
 msgid "Extensions (e.g. \"avi mp3\")"
-msgstr ""
+msgstr "Obugatte bwa fayiro (okugeza \"avi mp3\")"
 
 msgctxt "EditTagDialog|"
 msgid "Extensions that are automatically assigned with this tag for new downloads"
-msgstr ""
+msgstr "Obugatte bwa fayiro obuweebwa taagi eno mu ngeri ey'otoma ku biwanulwa ebipya"
 
 msgctxt "EditTagDialog|"
 msgid "Default download folder"
-msgstr ""
+msgstr "Etterekero ly'okuwanula erya bulijjo"
 
 msgctxt "EditTagDialog|"
 msgid "Open"
@@ -2101,7 +2117,7 @@ msgstr "Sazaamu"
 
 msgctxt "EditTagDialog|"
 msgid "Macros"
-msgstr ""
+msgstr "Makuro"
 
 msgctxt "EditTagDialog|"
 msgid "OK"
@@ -2109,22 +2125,19 @@ msgstr "KALE"
 
 msgctxt "EnvTools|"
 msgid "Low battery"
-msgstr ""
+msgstr "Bbaatule eri wansi"
 
 msgctxt "EnvTools|"
 msgid "Data roaming disabled"
-msgstr ""
+msgstr "Okutambula kwa data kulemeseddwa"
 
-#, fuzzy
 msgctxt "EnvTools|"
 msgid "No Internet connection"
-msgstr ""
-"Tetusobode kusindika lipoota. <br> Kebera enkolagana ya yintaneeti yo nti eri ku "
-"mulamwa."
+msgstr "Tewali yintaneeti"
 
 msgctxt "EnvTools|"
 msgid "Mobile data use disabled"
-msgstr ""
+msgstr "Enkozesa ya data y'essimu elemeseddwa"
 
 msgctxt "ExistingFileReactionCombobox|"
 msgid "Rename"
@@ -2140,11 +2153,11 @@ msgstr "Bbuuza buli kiseera"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export selected downloads"
-msgstr ""
+msgstr "Fulumya ebiwanulwa ebirondeddwa"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Export all downloads"
-msgstr ""
+msgstr "Fulumya ebiwanulwa byonna"
 
 msgctxt "ExportDownloadsDialog|"
 msgid "Save to"
@@ -2212,7 +2225,7 @@ msgstr "Fayiro zona (%1)"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Check file integrity"
-msgstr ""
+msgstr "Kebera obulungi bwa fayiro"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Hash"
@@ -2224,15 +2237,15 @@ msgstr "Kubiisamu %1%"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Compare with"
-msgstr ""
+msgstr "Geraageranya ne..."
 
 msgctxt "FileIntegrityDialog|"
 msgid "Verification OK"
-msgstr ""
+msgstr "Okukakasa OK"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Verification failed"
-msgstr ""
+msgstr "Okukakasa kulemereddwa"
 
 msgctxt "FileIntegrityDialog|"
 msgid "Close"
@@ -2240,23 +2253,23 @@ msgstr "Galawo"
 
 msgctxt "FileIntegrityPage|"
 msgid "Check file integrity"
-msgstr ""
+msgstr "Kebera obulungi bwa fayiro"
 
 msgctxt "FileIntegrityPage|"
 msgid "MD5"
-msgstr ""
+msgstr "MD5"
 
 msgctxt "FileIntegrityPage|"
 msgid "SHA-1"
-msgstr ""
+msgstr "SHA-1"
 
 msgctxt "FileIntegrityPage|"
 msgid "SHA-256"
-msgstr ""
+msgstr "SHA-256"
 
 msgctxt "FileIntegrityPage|"
 msgid "SHA-512"
-msgstr ""
+msgstr "SHA-512"
 
 msgctxt "FileIntegrityPage|"
 msgid "Hash"
@@ -2268,23 +2281,23 @@ msgstr "Kubiisamu %1%"
 
 msgctxt "FileIntegrityPage|"
 msgid "Compare with"
-msgstr ""
+msgstr "Geraageranya ne..."
 
 msgctxt "FileIntegrityPage|"
 msgid "Verification OK"
-msgstr ""
+msgstr "Okukakasa OK"
 
 msgctxt "FileIntegrityPage|"
 msgid "Verification failed"
-msgstr ""
+msgstr "Okukakasa kulemereddwa"
 
 msgctxt "FileManagerSupportDialog|"
 msgid "No supported file managers found."
-msgstr ""
+msgstr "Tewali baddukanya fayiro bawagirwa bazuuliddwa."
 
 msgctxt "FileName|"
 msgid "Create subfolder"
-msgstr ""
+msgstr "Tonda etterekero erya wansi"
 
 msgctxt "FileName|"
 msgid "File name"
@@ -2300,11 +2313,11 @@ msgstr "Fayilo zona"
 
 msgctxt "FilePickerPage|"
 msgid "Select folder"
-msgstr ""
+msgstr "Londa folda"
 
 msgctxt "FilePickerPage|"
 msgid "Select file"
-msgstr ""
+msgstr "Londa fayiro"
 
 msgctxt "FilePickerPage|"
 msgid "OK"
@@ -2312,20 +2325,19 @@ msgstr "KALE"
 
 msgctxt "FilePickerPage|"
 msgid "Empty folder"
-msgstr ""
+msgstr "Etterekero teririna kintu"
 
 msgctxt "FilePickerSortDialog|"
 msgid "By date"
-msgstr ""
+msgstr "Okusinziira ku lunaku"
 
-#, fuzzy
 msgctxt "FilePickerSortDialog|"
 msgid "By name"
-msgstr "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa"
+msgstr "Mu linnya"
 
 msgctxt "FilePickerSortDialog|"
 msgid "By size"
-msgstr ""
+msgstr "Okusinziira ku bunene"
 
 msgctxt "FilePickerSortDialog|"
 msgid "Sort"
@@ -2333,23 +2345,23 @@ msgstr "Loonda"
 
 msgctxt "FilePickerSortDialog|"
 msgid "Ascending"
-msgstr ""
+msgstr "Okulinnya"
 
 msgctxt "FilePickerSortDialog|"
 msgid "Descending"
-msgstr ""
+msgstr "Okukka"
 
 msgctxt "FileType|"
 msgid "File type:"
-msgstr ""
+msgstr "Ekika kya fayiro:"
 
 msgctxt "FilesExistsDialog|"
 msgid "Warning: file exists already"
-msgstr ""
+msgstr "Okulabula: fayiro eriwo dda"
 
 msgctxt "FilesExistsDialog|"
 msgid "Remember my choice for all downloads"
-msgstr ""
+msgstr "Jjukira okulonda kwange ku downloads zonna"
 
 msgctxt "FilesExistsDialog|"
 msgid "Rename (%1)"
@@ -2369,7 +2381,7 @@ msgstr "Erinya"
 
 msgctxt "FilesTree|"
 msgid "Size"
-msgstr ""
+msgstr "Obunene"
 
 msgctxt "FilesTree|"
 msgid "Progress"
@@ -2377,11 +2389,11 @@ msgstr "Amageenda"
 
 msgctxt "FilesTree|"
 msgid "Priority"
-msgstr ""
+msgstr "Obukulu"
 
 msgctxt "FilesTree|"
 msgid "Normal"
-msgstr ""
+msgstr "Kya bulijjo"
 
 msgctxt "FilesTree|"
 msgid "High"
@@ -2397,27 +2409,27 @@ msgstr "Fayiro"
 
 msgctxt "FilesTree|"
 msgid "Select all"
-msgstr "Londa byona"
+msgstr "Londa byonna"
 
 msgctxt "FilesTree|"
 msgid "Select none"
-msgstr "Tobako ky'olonda"
+msgstr "Tolonda kintu kyonna"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "High priority"
-msgstr ""
+msgstr "Obukulu obwa waggulu"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Normal priority"
-msgstr ""
+msgstr "Obukulu obwa bulijjo"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Low priority"
-msgstr ""
+msgstr "Obukulu obwa wansi"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Skip"
-msgstr ""
+msgstr "Buuka"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Open"
@@ -2425,15 +2437,15 @@ msgstr "Gulawo"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Show in folder"
-msgstr ""
+msgstr "Laga mu tterekero"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "File integrity"
-msgstr ""
+msgstr "Obutuufu bwa fayiro"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert video to mp3"
-msgstr ""
+msgstr "Okukyusa vidiyo mu mp3"
 
 msgctxt "FilesTreeContextMenu|"
 msgid "Convert video to mp4"
@@ -2465,7 +2477,7 @@ msgstr "Kyankizo nyo"
 
 msgctxt "FilesTreeHeader_V2|"
 msgid "Normal"
-msgstr ""
+msgstr "Kya bulijjo"
 
 msgctxt "FilesTreeHeader_V2|"
 msgid "High"
@@ -2485,7 +2497,7 @@ msgstr "Waansi"
 
 msgctxt "FilesTreeItem_V2|"
 msgid "Normal"
-msgstr ""
+msgstr "Kya bulijjo"
 
 msgctxt "FilesTreeItem_V2|"
 msgid "High"
@@ -2493,7 +2505,7 @@ msgstr "Wagulu"
 
 msgctxt "FixedDownloadFolderCombobox|"
 msgid "Macros"
-msgstr ""
+msgstr "Makuro"
 
 msgctxt "GeneralSettings|"
 msgid "General"
@@ -2501,20 +2513,19 @@ msgstr "Ebyabuligyo"
 
 msgctxt "GeneralSettings|"
 msgid "Language"
-msgstr ""
+msgstr "Olulimi"
 
-#, fuzzy
 msgctxt "GeneralSettings|"
 msgid "Downloads"
-msgstr "Sangula dawunilodi ezilondeddwa"
+msgstr "Ebiwanulwa"
 
 msgctxt "GeneralSettings|"
 msgid "Suggest folders based on file type"
-msgstr ""
+msgstr "Teesa ku folda okusinziira ku kika kya fayiro"
 
 msgctxt "GeneralSettings|"
 msgid "Theme"
-msgstr ""
+msgstr "Omulamwa"
 
 msgctxt "GeneralSettings|"
 msgid "A light theme will be used, if the system theme is unknown."
@@ -2523,23 +2534,23 @@ msgstr ""
 
 msgctxt "GeneralSettings|"
 msgid "UI style"
-msgstr ""
+msgstr "Omusono gwa UI"
 
 msgctxt "GeneralSettings|"
 msgid "New (beta)"
-msgstr ""
+msgstr "Ebipya (beta) ."
 
 msgctxt "GeneralSettings|"
 msgid "Classic"
-msgstr ""
+msgstr "Ey'edda"
 
 msgctxt "GeneralSettings|"
 msgid "Your language is not listed or the translation isn't complete?"
-msgstr ""
+msgstr "Olulimi lwo teruli ku lukalala oba okuvvuunula tekujjuvu?"
 
 msgctxt "GeneralSettings|"
 msgid "Let's fix it!"
-msgstr ""
+msgstr "Tukitereeze!"
 
 msgctxt "GeneralSettings|"
 msgid "Options"
@@ -2551,19 +2562,19 @@ msgstr "Tandiika nga osiizaako Kompuuta (mubukendeevu)"
 
 msgctxt "GeneralSettings|"
 msgid "Default download folder"
-msgstr ""
+msgstr "Etterekero ly'okuwanula erya bulijjo"
 
 msgctxt "GeneralSettings|"
 msgid "Choose default download folder automatically"
-msgstr ""
+msgstr "Londa etterekero ly'okuwanula erya bulijjo mu ngeri ey'otoma"
 
 msgctxt "GeneralSettings|"
 msgid "Suggest folders based on download URL"
-msgstr ""
+msgstr "Teesa ku folda okusinziira ku URL y'okuwanula"
 
 msgctxt "GeneralSettings|"
 msgid "Fixed default download folder"
-msgstr ""
+msgstr "Etterekero ly'okuwanula erya bulijjo eriteekeddwawo"
 
 msgctxt "GeneralSettings|"
 msgid "Open"
@@ -2575,51 +2586,51 @@ msgstr "Sazaamu"
 
 msgctxt "GeneralSettings|"
 msgid "Macros"
-msgstr ""
+msgstr "Makuro"
 
 msgctxt "GeneralSettings|"
 msgid "Compact view of downloads list"
-msgstr ""
+msgstr "Endabika ennyimpi ey'olukalala lw'ebiwanulwa"
 
 msgctxt "GeneralSettings|"
 msgid "Enable standalone downloads windows"
-msgstr ""
+msgstr "Ssobozesa amadirisa g'okuwanula okwetongodde"
 
 msgctxt "GeneralSettings|"
 msgid "Automatically remove deleted files from download list"
-msgstr ""
+msgstr "Ggyawo fayiro ezisanguddwa mu ngeri ey'otoma okuva ku lukalala lw'okuwanula"
 
 msgctxt "GeneralSettings|"
 msgid "Automatically remove completed downloads from download list"
-msgstr ""
+msgstr "Ggyawo ebiwanulwa ebiwedde mu ngeri ey'otoma okuva ku lukalala lw'okuwanula"
 
 msgctxt "GeneralSettings|"
 msgid "Immediately"
-msgstr ""
+msgstr "Mbagirawo"
 
 msgctxt "GeneralSettings|"
 msgid "In"
-msgstr ""
+msgstr "Mu"
 
 msgctxt "GeneralSettings|"
 msgid "days"
-msgstr ""
+msgstr "ennaku"
 
 msgctxt "GeneralSettings|"
 msgid "Automatically retry failed downloads"
-msgstr ""
+msgstr "Ddamu okugezaako otomatiki okuwanula okulemereddwa"
 
 msgctxt "GeneralSettings|"
 msgid "Do not download web pages"
-msgstr ""
+msgstr "Towanula mpapula za mukutu"
 
 msgctxt "GeneralSettings|"
 msgid "Use server time for file creation"
-msgstr ""
+msgstr "Kozesa obudde bwa seva mu kutonda fayiro"
 
 msgctxt "GeneralSettings|"
 msgid "Maximum urls count in batch download"
-msgstr ""
+msgstr "Omuwendo gwa URL ogusinga obunene mu kuwanula okw'awamu"
 
 msgctxt "GeneralSettings|"
 msgid "Update"
@@ -2627,52 +2638,55 @@ msgstr "Obupya"
 
 msgctxt "GeneralSettings|"
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "Kebera ebipya mu ngeri ey'otoma"
 
 msgctxt "GeneralSettings|"
 msgid "Install updates automatically"
-msgstr ""
+msgstr "Teeka ebipya mu ngeri ey’otoma"
+
+msgctxt "GeneralSettings|"
+msgid "Mark downloaded files"
+msgstr "Teeka akabonero ku fayiro eziwanuliddwa"
 
 msgctxt "GeneralSettings2|"
 msgid "Check for updates automatically"
-msgstr ""
+msgstr "Kebera ebipya mu ngeri ey'otoma"
 
 msgctxt "GeneralSettings2|"
 msgid "Install updates automatically"
-msgstr ""
+msgstr "Teeka ebipya mu ngeri ey’otoma"
 
 msgctxt "GeneralSettings2|"
 msgid "Use mobile network"
-msgstr ""
+msgstr "Kozesa omukutu gw’essimu"
 
 msgctxt "GeneralSettings2|"
 msgid "Allow data roaming"
-msgstr ""
+msgstr "Kiriza okutambula kwa data"
 
 msgctxt "GeneralSettings2|"
 msgid "Using mobile data while roaming may result in additional charges."
-msgstr ""
+msgstr "Okukozesa data y’essimu ng’otambulatambula kiyinza okuvaamu ssente endala."
 
 msgctxt "GeneralTab|"
 msgid "Status"
 msgstr "Status"
 
-#, fuzzy
 msgctxt "GeneralTab|"
 msgid "completed"
-msgstr "Enkyukakyuka esobola okuggyibwawo etondeddwa bulungi."
+msgstr "kiwedde"
 
 msgctxt "GeneralTab|"
 msgid "State"
-msgstr ""
+msgstr "Embeera"
 
 msgctxt "GeneralTab|"
 msgid "Total size:"
-msgstr ""
+msgstr "Sayizi yonna awamu:"
 
 msgctxt "GeneralTab|"
 msgid "Downloaded:"
-msgstr ""
+msgstr "Yawanuliddwa:"
 
 msgctxt "GeneralTab|"
 msgid "Uploaded"
@@ -2680,16 +2694,15 @@ msgstr "Ebili apuloodedi"
 
 msgctxt "GeneralTab|"
 msgid "ratio"
-msgstr ""
+msgstr "omugerageranyo"
 
 msgctxt "GeneralTab|"
 msgid "Web page"
-msgstr ""
+msgstr "Omuko gwa yintaneeti"
 
-#, fuzzy
 msgctxt "GeneralTab|"
 msgid "File"
-msgstr "Fayiro y’eddoboozi"
+msgstr "Fayilo"
 
 msgctxt "GeneralTab|"
 msgid "Speed"
@@ -2697,16 +2710,15 @@ msgstr "Sipeedi"
 
 msgctxt "GeneralTab|"
 msgid "Download speed:"
-msgstr ""
+msgstr "Sipiidi y’okuwanula:"
 
-#, fuzzy
 msgctxt "GeneralTab|"
 msgid "Upload speed:"
-msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
+msgstr "Sipiidi y'okuteeka ku mukutu:"
 
 msgctxt "GeneralTab|"
 msgid "Added at:"
-msgstr ""
+msgstr "Yayongeddeko ku:"
 
 msgctxt "GeneralTab|"
 msgid "%1 of %2"
@@ -2714,19 +2726,19 @@ msgstr "%1 of %2"
 
 msgctxt "GeneralTab|"
 msgid "Domain:"
-msgstr ""
+msgstr "Domeeni:"
 
 msgctxt "GeneralTab|"
 msgid "Added:"
-msgstr ""
+msgstr "Kigattiddwako:"
 
 msgctxt "GeneralTab|"
 msgid "Progress:"
-msgstr ""
+msgstr "Okukulakulana:"
 
 msgctxt "GeneralTab_V2|"
 msgid "Downloaded:"
-msgstr ""
+msgstr "Yawanuliddwa:"
 
 msgctxt "GeneralTab_V2|"
 msgid "Uploaded"
@@ -2734,41 +2746,39 @@ msgstr "Ebili apuloodedi"
 
 msgctxt "GeneralTab_V2|"
 msgid "ratio"
-msgstr ""
+msgstr "omugerageranyo"
 
 msgctxt "GeneralTab_V2|"
 msgid "Added at:"
-msgstr ""
+msgstr "Yayongeddeko ku:"
 
 msgctxt "GeneralTab_V2|"
 msgid "Download speed:"
-msgstr ""
+msgstr "Sipiidi y’okuwanula:"
 
-#, fuzzy
 msgctxt "GeneralTab_V2|"
 msgid "Upload speed:"
-msgstr "Laga omuwendo gwa sipeedi yo'kwapuloodinga mu kikonzi kya Dock"
+msgstr "Sipiidi y'okuteeka ku mukutu:"
 
 msgctxt "GeneralTab_V2|"
 msgid "Web page"
-msgstr ""
+msgstr "Omuko gwa yintaneeti"
 
-#, fuzzy
 msgctxt "GeneralTab_V2|"
 msgid "File"
-msgstr "Fayiro y’eddoboozi"
+msgstr "Fayilo"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "MD5"
-msgstr ""
+msgstr "MD5"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "SHA-1"
-msgstr ""
+msgstr "SHA-1"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "SHA-256"
-msgstr ""
+msgstr "SHA-256"
 
 msgctxt "HashAlgorithmCombobox|"
 msgid "SHA-512"
@@ -2776,7 +2786,7 @@ msgstr "SHA-512"
 
 msgctxt "ImportDialog|"
 msgid "Import"
-msgstr ""
+msgstr "Okuyingiza"
 
 msgctxt "ImportDialog|"
 msgid "Cancel"
@@ -2808,67 +2818,67 @@ msgstr "KALE"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Failure to paste URLs from the file"
-msgstr ""
+msgstr "Okulemererwa okuteeka URLs okuva mu fayiro"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Unable to import the list of URLs from the file: %1"
-msgstr ""
+msgstr "Tekisoboka kuyingiza lukalala lwa URL okuva mu fayiro: %1"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Failure to export"
-msgstr ""
+msgstr "Okufulumya kulemereddwa"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Unable to export to the file: %1"
-msgstr ""
+msgstr "Tekisoboka kufulumya mu fayiro: %1"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Failure to import"
-msgstr ""
+msgstr "Okuyingiza kulemereddwa"
 
 msgctxt "ImportExportFailedDialog|"
 msgid "Unable to import from the file: %1"
-msgstr ""
+msgstr "Tekisoboka kuyingiza okuva mu fayiro: %1"
 
 msgctxt "IntegrationBanner|"
 msgid "Set as Default"
-msgstr ""
+msgstr "Teeka nga eya bulijjo"
 
 msgctxt "IntegrationBanner|"
 msgid "Don't ask again"
-msgstr ""
+msgstr "Toddamu kubuuza"
 
 msgctxt "InvalidSettingsMessageDialog|"
 msgid ". Close anyway?"
-msgstr ""
+msgstr ". Ggalawo wadde kiri kityo?"
 
 msgctxt "LanguageDialog|"
 msgid "Language"
-msgstr ""
+msgstr "Olulimi"
 
 msgctxt "LeftDrawer|"
 msgid "remote control"
-msgstr ""
+msgstr "okufuga okuva ewala"
 
 msgctxt "LeftDrawer|"
 msgid "Browser"
-msgstr ""
+msgstr "Browser"
 
 msgctxt "LeftDrawer|"
 msgid "Settings"
-msgstr ""
+msgstr "Ensengeka"
 
 msgctxt "LeftDrawer|"
 msgid "Contact support"
-msgstr ""
+msgstr "Tuukirira obuyambi"
 
 msgctxt "LeftDrawer|"
 msgid "Submit a bug report"
-msgstr ""
+msgstr "Waayo lipoota y'obuzibu"
 
 msgctxt "LeftDrawer|"
 msgid "Disconnect from remote %1"
-msgstr ""
+msgstr "Ggyako okuva ku %1 ewala"
 
 msgctxt "LeftDrawer|"
 msgid "Connect to remote %1"
@@ -2880,15 +2890,15 @@ msgstr "Ebikwataako"
 
 msgctxt "LeftDrawer|"
 msgid "Quit"
-msgstr ""
+msgstr "Fuluma"
 
 msgctxt "LeftDrawer|"
 msgid "Add new download"
-msgstr ""
+msgstr "Yongera ku download empya"
 
 msgctxt "ListEditor|"
 msgid "Add"
-msgstr ""
+msgstr "Ggatta"
 
 msgctxt "ListEditor|"
 msgid "Hide"
@@ -2896,31 +2906,31 @@ msgstr "Kweeka"
 
 msgctxt "MacrosMenu|"
 msgid "%content_type% - content type (e.g. \"Music\")"
-msgstr ""
+msgstr "%content_type% - ekika ky'ebirimu (e.g. \"Music\")"
 
 msgctxt "MacrosMenu|"
 msgid "%server% - name of the server (e.g. \"%1\")"
-msgstr ""
+msgstr "%server% - erinnya lya seva (e.g. \"%1\")"
 
 msgctxt "MacrosMenu|"
 msgid "%path_on_server% - path to the downloading file on the server"
-msgstr ""
+msgstr "%path_on_server% - ekkubo erigenda mu fayiro ewanula ku seva"
 
 msgctxt "MacrosMenu|"
 msgid "%year% - current year"
-msgstr ""
+msgstr "%year% - omwaka guno"
 
 msgctxt "MacrosMenu|"
 msgid "%month% - current month (number from 1 to 12)"
-msgstr ""
+msgstr "%month% - omwezi oguliwo (omuwendo okuva ku 1 okutuuka ku 12)"
 
 msgctxt "MacrosMenu|"
 msgid "%day% - current day"
-msgstr ""
+msgstr "%day% - olunaku oluliwo kati"
 
 msgctxt "MacrosMenu|"
 msgid "%date% - equivalent to %year%-%month%-%day%"
-msgstr ""
+msgstr "%date% - yenkana %year%-%month%-%day%"
 
 msgctxt "MainFiltersBar|"
 msgid "All"
@@ -2944,77 +2954,75 @@ msgstr "Ebitanaba Kugwa"
 
 msgctxt "MainFiltersBar|"
 msgid "OK to remove tag?"
-msgstr ""
+msgstr "OK okuggyawo tag?"
 
 msgctxt "MainMenu|"
 msgid "Paste urls from clipboard"
-msgstr ""
+msgstr "Teeka urls okuva ku clipboard"
 
 msgctxt "MainMenu|"
 msgid "Paste urls from file"
-msgstr ""
+msgstr "Teeka url okuva mu fayiro"
 
 msgctxt "MainMenu|"
 msgid "Export/Import"
-msgstr ""
+msgstr "Fulumya/Yingiza"
 
 msgctxt "MainMenu|"
 msgid "Export all downloads"
-msgstr ""
+msgstr "Fulumya ebiwanulwa byonna"
 
 msgctxt "MainMenu|"
 msgid "Import downloads"
-msgstr ""
+msgstr "Yingiza ebiwanuddwa"
 
 msgctxt "MainMenu|"
 msgid "Export settings"
-msgstr ""
+msgstr "Fulumya enteekateeka"
 
 msgctxt "MainMenu|"
 msgid "Import settings"
-msgstr ""
+msgstr "Yingiza enteekateeka"
 
 msgctxt "MainMenu|"
 msgid "Add-ons..."
-msgstr ""
+msgstr "Ebigattibwako..."
 
-#, fuzzy
 msgctxt "MainMenu|"
 msgid "Preferences..."
-msgstr ""
-"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+msgstr "Ensengeka..."
 
 msgctxt "MainMenu|"
 msgid "Contact support"
-msgstr ""
+msgstr "Tuukirira obuyambi"
 
 msgctxt "MainMenu|"
 msgid "Auto shutdown"
-msgstr ""
+msgstr "Auto okuggalawo"
 
 msgctxt "MainMenu|"
 msgid "Check for updates..."
-msgstr ""
+msgstr "Kebera omanye ebipya..."
 
 msgctxt "MainMenu|"
 msgid "Submit a bug report"
-msgstr ""
+msgstr "Waayo lipoota y'obuzibu"
 
 msgctxt "MainMenu|"
 msgid "Sleep"
-msgstr ""
+msgstr "Otulo"
 
 msgctxt "MainMenu|"
 msgid "Hibernate"
-msgstr ""
+msgstr "Teeka mu hibernation"
 
 msgctxt "MainMenu|"
 msgid "Shutdown"
-msgstr ""
+msgstr "Okuggalawo"
 
 msgctxt "MainMenu|"
 msgid "Disconnect from remote %1"
-msgstr ""
+msgstr "Ggyako okuva ku %1 ewala"
 
 msgctxt "MainMenu|"
 msgid "Connect to remote %1"
@@ -3026,7 +3034,7 @@ msgstr "Tondawo ekyuusa ensamu samu"
 
 msgctxt "MainMenu|"
 msgid "Join the Mosaic..."
-msgstr ""
+msgstr "Weegatte ku Mosaic..."
 
 msgctxt "MainMenu|"
 msgid "About"
@@ -3034,25 +3042,25 @@ msgstr "Ebikwataako"
 
 msgctxt "MainMenu|"
 msgid "Quit"
-msgstr ""
+msgstr "Fuluma"
 
 msgctxt "MainStatusBar|"
 msgid "Snail mode frees bandwidth without stopping downloads."
-msgstr ""
+msgstr "Enkola empola esumulula bandwidth nga teyimiriza kuwanula."
 
 msgctxt "MainStatusBar|"
 msgid "Snail mode"
-msgstr ""
+msgstr "Enkola empola"
 
 msgctxt "MainStatusBar|"
 msgid "%n downloads selected."
 msgid_plural "%n downloads selected."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%n ekiwanulwa kirondeddwa."
+msgstr[1] "%n ebiwanulwa birondeddwa."
 
 msgctxt "MainStatusBar|"
 msgid "Total size:"
-msgstr ""
+msgstr "Sayizi yonna awamu:"
 
 msgctxt "MainStatusBar_V2|"
 msgid "Low"
@@ -3072,74 +3080,73 @@ msgstr "Tekuli komo"
 
 msgctxt "MainStatusBar_V2|"
 msgid "Snail mode frees bandwidth without stopping downloads."
-msgstr ""
+msgstr "Enkola empola esumulula bandwidth nga teyimiriza kuwanula."
 
 msgctxt "MainStatusBar_V2|"
 msgid "Snail mode"
-msgstr ""
+msgstr "Enkola empola"
 
 msgctxt "MainStatusBar_V2|"
 msgid "Set the traffic usage mode"
-msgstr ""
+msgstr "Teekawo engeri y'okukozesa omukutu"
 
 msgctxt "MainStatusBar_V2|"
 msgid "%n downloads selected."
 msgid_plural "%n downloads selected."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%n ekiwanulwa kirondeddwa."
+msgstr[1] "%n ebiwanulwa birondeddwa."
 
 msgctxt "MainStatusBar_V2|"
 msgid "Total size:"
-msgstr ""
+msgstr "Sayizi yonna awamu:"
 
 msgctxt "MainToolbar|"
 msgid "Add new download..."
-msgstr ""
+msgstr "Yongera ku download empya..."
 
 msgctxt "MainToolbar|"
 msgid "Start all"
-msgstr ""
+msgstr "Tandika byonna"
 
 msgctxt "MainToolbar|"
 msgid "Start selected"
-msgstr ""
+msgstr "Tandika ebirondeddwa"
 
 msgctxt "MainToolbar|"
 msgid "Pause all"
-msgstr ""
+msgstr "Yimirirako byonna"
 
 msgctxt "MainToolbar|"
 msgid "Pause selected"
-msgstr ""
+msgstr "Yimirirako ebirondeddwa"
 
-#, fuzzy
 msgctxt "MainToolbar|"
 msgid "Delete selected"
-msgstr "Sangula fayiro ezilondeddwa?"
+msgstr "Sangula ebirondeddwa"
 
 msgctxt "MainToolbar|"
 msgid "Move to..."
-msgstr ""
+msgstr "Sengula ku..."
 
 msgctxt "MainToolbar|"
 msgid "Move downloads up"
-msgstr ""
+msgstr "Tambuza ebiwanulwa waggulu"
 
 msgctxt "MainToolbar|"
 msgid "Move downloads down"
-msgstr ""
+msgstr "Tambuza ebiwanuddwa wansi"
 
 msgctxt "MainToolbar|"
 msgid "Main menu"
-msgstr ""
+msgstr "Menyu enkulu"
 
 msgctxt "MainToolbar|"
 msgid "Switch to user-defined sorting of the download list?"
-msgstr ""
+msgstr "Kyusa ku kusunsula okutegeezeddwa omukozesa okw'olukalala lw'okuwanula?"
 
 msgctxt "MainToolbar|"
 msgid "remote control"
-msgstr ""
+msgstr "okufuga okuva ewala"
 
 msgctxt "MainToolbar_V2|"
 msgid "Select"
@@ -3179,7 +3186,7 @@ msgstr "Menu ne Entekateeka"
 
 msgctxt "MainToolbar_V2|"
 msgid "Switch to user-defined sorting of the download list?"
-msgstr ""
+msgstr "Kyusa ku kusunsula okutegeezeddwa omukozesa okw'olukalala lw'okuwanula?"
 
 msgctxt "MaxURatioComboBox|"
 msgid "Unlimited"
@@ -3187,11 +3194,11 @@ msgstr "Tekuli komo"
 
 msgctxt "MaxURatioComboBox|"
 msgid "Custom..."
-msgstr ""
+msgstr "Enteekateeka ey'enjawulo..."
 
 msgctxt "MaxURatioComboBox|"
 msgid "Custom value"
-msgstr ""
+msgstr "Omuwendo ogw'enjawulo"
 
 msgctxt "MaxURatioComboBox|"
 msgid "OK"
@@ -3199,19 +3206,19 @@ msgstr "KALE"
 
 msgctxt "MaxURatioComboBox|"
 msgid "CANCEL"
-msgstr ""
+msgstr "Sazaamu"
 
 msgctxt "MaxURatioComboBox|"
 msgid "Invalid value"
-msgstr ""
+msgstr "Omuwendo ogutali mutuufu"
 
 msgctxt "MaxURatioComboBox|"
 msgid "Must be a number greater than 0."
-msgstr ""
+msgstr "Alina okuba namba esinga 0."
 
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "Ready to play"
-msgstr ""
+msgstr "Yetegefu okuzannyibwa"
 
 msgctxt "MediaFileReadyToPlayDialog|"
 msgid "%1 is ready to play"
@@ -3227,12 +3234,11 @@ msgstr "Sazaamu"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "The download already exists"
-msgstr ""
+msgstr "Okuwanula kwaliwo dda"
 
-#, fuzzy
 msgctxt "MergeDownloadsDialog|"
 msgid "URL:"
-msgstr "Kyusa endagiriro y’okudauwuniloodinga"
+msgstr "URL:"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Path:"
@@ -3240,15 +3246,15 @@ msgstr "Ekubo:"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Size:"
-msgstr ""
+msgstr "Obunene:"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Added at:"
-msgstr ""
+msgstr "Yayongeddeko ku:"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Skip"
-msgstr ""
+msgstr "Buuka"
 
 msgctxt "MergeDownloadsDialog|"
 msgid "Skip all (%1)"
@@ -3260,35 +3266,35 @@ msgstr "Dawuniloodi"
 
 msgctxt "MobileDataUsageDialog|"
 msgid "Mobile data usage"
-msgstr ""
+msgstr "Enkozesa ya data ku ssimu"
 
 msgctxt "MobileDataUsageDialog|"
 msgid "Waiting for Wi-Fi to start download."
-msgstr ""
+msgstr "Okulinda Wi-Fi okutandika okuwanula."
 
 msgctxt "MobileDataUsageDialog|"
 msgid "Would you like to enable usage of mobile data? *"
-msgstr ""
+msgstr "Wandyagadde okusobozesa enkozesa ya data ku ssimu? * ."
 
 msgctxt "MobileDataUsageDialog|"
 msgid "Don't ask again"
-msgstr ""
+msgstr "Toddamu kubuuza"
 
 msgctxt "MobileDataUsageDialog|"
 msgid "Yes"
-msgstr ""
+msgstr "Yee"
 
 msgctxt "MobileDataUsageDialog|"
 msgid "No"
-msgstr ""
+msgstr "Nedda"
 
 msgctxt "MobileDataUsageDialog|"
 msgid "* additional charges may apply"
-msgstr ""
+msgstr "* ssente endala ziyinza okusasulwa"
 
 msgctxt "MovingFailedDialog|"
 msgid "Moving download failed"
-msgstr ""
+msgstr "Okusengula ekiwanulwa kulemereddwa"
 
 msgctxt "MovingFailedDialog|"
 msgid "Error: %1"
@@ -3296,9 +3302,8 @@ msgstr "Ekisobyo: %1"
 
 msgctxt "MovingFailedDialog|"
 msgid "Unable to move: %1"
-msgstr ""
+msgstr "Tekisoboka kusengula: %1"
 
-#, fuzzy
 msgctxt "MovingFailedDialog|"
 msgid "Try again"
 msgstr "Ddamu nate"
@@ -3309,7 +3314,7 @@ msgstr "Sazaamu"
 
 msgctxt "MovingFolderDialog|"
 msgid "Move"
-msgstr ""
+msgstr "Sengula"
 
 msgctxt "MovingFolderDialog|"
 msgid "Cancel"
@@ -3317,7 +3322,7 @@ msgstr "Sazaamu"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Convert to mp3 with adjustable bitrate"
-msgstr ""
+msgstr "Kyuusa mu mp3 nga olina bitrate etereezebwa"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Save to"
@@ -3333,15 +3338,15 @@ msgstr "Sazaamu"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Bitrate (quality)"
-msgstr ""
+msgstr "Bitrate (omutindo) ."
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Constant bitrate of value"
-msgstr ""
+msgstr "Bitrate ya bulijjo ey’omuwendo"
 
 msgctxt "Mp3ConverterDialog|"
 msgid "Variable bitrate (VBR)"
-msgstr ""
+msgstr "Ebipimo bya bitrate ebikyukakyuka (VBR) ."
 
 msgctxt "Mp3ConverterDialog|"
 msgid "The path contains invalid characters"
@@ -3353,11 +3358,11 @@ msgstr "KALE"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Convert to mp3"
-msgstr ""
+msgstr "Okukyusa mu mp3"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Convert to mp3 with adjustable bitrate"
-msgstr ""
+msgstr "Kyuusa mu mp3 nga olina bitrate etereezebwa"
 
 msgctxt "Mp3ConverterPage|"
 msgid "OK"
@@ -3373,19 +3378,19 @@ msgstr "Ekubo lirimu obubonero obutakkirizibwa"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Bitrate (quality)"
-msgstr ""
+msgstr "Bitrate (omutindo) ."
 
 msgctxt "Mp3ConverterPage|"
 msgid "Constant bitrate of value"
-msgstr ""
+msgstr "Bitrate ya bulijjo ey’omuwendo"
 
 msgctxt "Mp3ConverterPage|"
 msgid "Variable bitrate (VBR)"
-msgstr ""
+msgstr "Ebipimo bya bitrate ebikyukakyuka (VBR) ."
 
 msgctxt "Mp4ConverterDialog|"
 msgid "Convert to mp4"
-msgstr ""
+msgstr "Okukyusa mu mp4"
 
 msgctxt "Mp4ConverterDialog|"
 msgid "Save to"
@@ -3409,7 +3414,7 @@ msgstr "KALE"
 
 msgctxt "Mp4ConverterPage|"
 msgid "Convert to mp4"
-msgstr ""
+msgstr "Okukyusa mu mp4"
 
 msgctxt "Mp4ConverterPage|"
 msgid "OK"
@@ -3425,98 +3430,91 @@ msgstr "Ekubo lirimu obubonero obutakkirizibwa"
 
 msgctxt "NativeMenuBar|"
 msgid "Check for Updates..."
-msgstr ""
+msgstr "Kebera oba waliwo Ebipya..."
 
-#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "Preferences..."
-msgstr ""
-"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+msgstr "Ensengeka..."
 
 msgctxt "NativeMenuBar|"
 msgid "Quit"
-msgstr ""
+msgstr "Fuluma"
 
-#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "&File"
-msgstr "Fayiro y’eddoboozi"
+msgstr "&Fayilo"
 
 msgctxt "NativeMenuBar|"
 msgid "Add &new download"
-msgstr ""
+msgstr "Yongera &okuwanula ekipya"
 
 msgctxt "NativeMenuBar|"
 msgid "&Edit"
-msgstr ""
+msgstr "&Kyusa"
 
-#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "&Copy"
-msgstr ""
-"Genda ku mukutu ogwavaako fayiro mu kusooka, olwo okoppe link empya eyongeddwako"
+msgstr "&Kkopa"
 
 msgctxt "NativeMenuBar|"
 msgid "&Paste"
-msgstr ""
+msgstr "&Ssiiga"
 
-#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "Downloads"
-msgstr "Sangula dawunilodi ezilondeddwa"
+msgstr "Ebiwanulwa"
 
 msgctxt "NativeMenuBar|"
 msgid "Start selected"
-msgstr ""
+msgstr "Tandika ebirondeddwa"
 
 msgctxt "NativeMenuBar|"
 msgid "Pause selected"
-msgstr ""
+msgstr "Yimirirako ebirondeddwa"
 
 msgctxt "NativeMenuBar|"
 msgid "Restart selected"
-msgstr ""
+msgstr "Ddamu otandike ebirondeddwa"
 
-#, fuzzy
 msgctxt "NativeMenuBar|"
 msgid "Remove from List"
-msgstr "Gyamu ku lukalala"
+msgstr "Ggyawo ku List"
 
 msgctxt "NativeMenuBar|"
 msgid "Help"
-msgstr ""
+msgstr "Obuyambi"
 
 msgctxt "NativeMenuBar|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Tuukirira Obuwagizi"
 
 msgctxt "NetworkSettings|"
 msgid "Network"
-msgstr ""
+msgstr "Omukutu"
 
 msgctxt "NetworkSettings|"
 msgid "Proxy"
-msgstr ""
+msgstr "Pulokisi"
 
 msgctxt "NetworkSettings|"
 msgid "System proxy"
-msgstr ""
+msgstr "Pulokisi ya sisitemu"
 
 msgctxt "NetworkSettings|"
 msgid "No proxy"
-msgstr ""
+msgstr "Tewali pulokisi"
 
 msgctxt "NetworkSettings|"
 msgid "Configure manually:"
-msgstr ""
+msgstr "Tegeka mu ngalo:"
 
 msgctxt "NetworkSettings|"
 msgid "Configure manually"
-msgstr ""
+msgstr "Tegeka mu ngalo"
 
 msgctxt "NetworkSettings|"
 msgid "Address"
-msgstr ""
+msgstr "Endagiriro"
 
 msgctxt "NetworkSettings|"
 msgid "Port"
@@ -3524,47 +3522,47 @@ msgstr "Port"
 
 msgctxt "NetworkSettings|"
 msgid "HTTP:"
-msgstr ""
+msgstr "HTTP:"
 
 msgctxt "NetworkSettings|"
 msgid ":"
-msgstr ""
+msgstr ":"
 
 msgctxt "NetworkSettings|"
 msgid "HTTPS:"
-msgstr ""
+msgstr "HTTPS:"
 
 msgctxt "NetworkSettings|"
 msgid "FTP:"
-msgstr ""
+msgstr "FTP:"
 
 msgctxt "NetworkSettings|"
 msgid "SOCKS5:"
-msgstr ""
+msgstr "SOCKS5:"
 
 msgctxt "NetworkSettings|"
 msgid "Invalid proxy settings"
-msgstr ""
+msgstr "Ensengeka za proxy ezitali ntuufu"
 
 msgctxt "NetworkSettings|"
 msgid "Proxy settings"
-msgstr ""
+msgstr "Ensengeka za proxy"
 
 msgctxt "NetworkSettings|"
 msgid "HTTP"
-msgstr ""
+msgstr "HTTP"
 
 msgctxt "NetworkSettings|"
 msgid "HTTPS"
-msgstr ""
+msgstr "HTTPS"
 
 msgctxt "NetworkSettings|"
 msgid "FTP"
-msgstr ""
+msgstr "FTP"
 
 msgctxt "NetworkSettings|"
 msgid "SOCKS5"
-msgstr ""
+msgstr "SOCKS5"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "Unlimited"
@@ -3572,19 +3570,19 @@ msgstr "Tekuli komo"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "Custom..."
-msgstr ""
+msgstr "Enteekateeka ey'enjawulo..."
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "KB/s"
-msgstr ""
+msgstr "KB/s"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "Please enter numbers only"
-msgstr ""
+msgstr "Nsaba oyingize ennamba zokka"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "Custom value"
-msgstr ""
+msgstr "Omuwendo ogw'enjawulo"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "OK"
@@ -3596,53 +3594,53 @@ msgstr "Sazaamu"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "Invalid value"
-msgstr ""
+msgstr "Omuwendo ogutali mutuufu"
 
 msgctxt "NetworkSpeedLimitComboBox|"
 msgid "Must be a number greater than 0."
-msgstr ""
+msgstr "Alina okuba namba esinga 0."
 
 msgctxt "NoResumeSupportBlock|"
 msgid "This download may not support resuming."
-msgstr ""
+msgstr "Okuwanula kuno kuyinza obutawagira kuddamu kutandika."
 
 msgctxt "NoResumeSupportBlock|"
 msgid "Prevent sleep mode when downloading files that don't support resuming"
-msgstr ""
+msgstr "Ziyiza embeera y'okwebaka ng'owanula fayiro ezitawagira kuddamu"
 
 msgctxt "Notification|"
 msgid "Miscellaneous notifications"
-msgstr ""
+msgstr "Okumanyisibwa okw’enjawulo"
 
 msgctxt "Notification|"
 msgid "Ready to play"
-msgstr ""
+msgstr "Yetegefu okuzannyibwa"
 
 msgctxt "OsPermissionsDialog|"
 msgid "%1 is missing permissions"
-msgstr ""
+msgstr "%1 ebula olukusa"
 
 msgctxt "OsPermissionsDialog|"
 msgid "(required)"
-msgstr ""
+msgstr "(etaagisa)"
 
 msgctxt "OsPermissionsDialog|"
 msgid ""
 "You can grant these permissions using the Application details screen within your "
 "system's settings."
-msgstr ""
+msgstr "Osobola okuwa olukusa luno ng'okozesa olutimbe lw'ebikwata ku nkola munda mu nteekateeka z'enkola yo."
 
 msgctxt "OsPermissionsDialog|"
 msgid "Don't show again"
-msgstr ""
+msgstr "Toddamu kulaga"
 
 msgctxt "OsPermissionsDialog|"
 msgid "Grant permissions"
-msgstr ""
+msgstr "Okuwa olukusa"
 
 msgctxt "OsPermissionsDialog|"
 msgid "Quit"
-msgstr ""
+msgstr "Fuluma"
 
 msgctxt "OsPermissionsDialog|"
 msgid "Close"
@@ -3650,11 +3648,11 @@ msgstr "Galawo"
 
 msgctxt "Page|"
 msgid "Info"
-msgstr ""
+msgstr "Ebikwata ku kino"
 
 msgctxt "Page|"
 msgid "Details"
-msgstr ""
+msgstr "Ebisingawo"
 
 msgctxt "Page|"
 msgid "Files"
@@ -3666,7 +3664,7 @@ msgstr "Zi konekisoni"
 
 msgctxt "PickFileButton|"
 msgid "Browse..."
-msgstr ""
+msgstr "Noonya..."
 
 msgctxt "PlayAsap|"
 msgid "Play file while it is still downloading"
@@ -3674,21 +3672,21 @@ msgstr "Zanya fayilo ng'ekya dawuniloodinga"
 
 msgctxt "PluginBannerDialog|"
 msgid "Enjoy using %1 add-on?"
-msgstr ""
+msgstr "Nyumirwa okukozesa %1 add-on?"
 
 msgctxt "PluginBannerDialog|"
 msgid "We would like to ask you to help this add-on to reach its potential users."
-msgstr ""
+msgstr "Twagala okukusaba okuyambako eky’okugattako kino okutuuka ku bantu abayinza okukikozesa."
 
 msgctxt "PluginBannerDialog|"
 msgid ""
 "Please use your favorite social networks and forums to let the other people know "
 "about %1 and %2."
-msgstr ""
+msgstr "Nsaba okozese emikutu gy'empuliziganya n'emikutu gy'oyagala okumanyisa abantu abalala ebikwata ku %1 ne %2."
 
 msgctxt "PluginBannerDialog|"
 msgid "Remind me later"
-msgstr ""
+msgstr "Nzijukiza oluvannyuma"
 
 msgctxt "PluginBannerDialog|"
 msgid "OK"
@@ -3696,51 +3694,55 @@ msgstr "KALE"
 
 msgctxt "PluginsDepsInstallerView|"
 msgid "Installed."
-msgstr ""
+msgstr "Kiteekeddwamu."
 
 msgctxt "PluginsPage|"
 msgid "Recently installed dependency"
-msgstr ""
+msgstr "Gye buvuddeko okuteekebwako dependency"
 
 msgctxt "PluginsPage|"
 msgid "Add-ons"
-msgstr ""
+msgstr "Ebigattibwako"
 
 msgctxt "PluginsPage|"
-msgid "Check for Updates"
-msgstr ""
+msgid "Check for updates"
+msgstr "Kebera oba waliwo ebipya"
 
 msgctxt "PluginsPage|"
-msgid "Install Add-on From File..."
-msgstr ""
+msgid "Install add-on from file..."
+msgstr "Teeka add-on okuva mu fayiro..."
 
 msgctxt "PluginsPage|"
-msgid "Update Add-ons Automatically"
-msgstr ""
+msgid "Update add-ons automatically"
+msgstr "Longoosa ebigattibwako mu ngeri ey'otoma"
 
 msgctxt "PluginsPage|"
-msgid "Reset All Add-ons to Update Automatically"
-msgstr ""
+msgid "Reset all add-ons to update automatically"
+msgstr "Ddamu okuteekawo byonna eby'okwongerako okutereeza mu ngeri ey'otoma"
+
+msgctxt "PluginsPage|"
+msgid "Allow add-ons to use web browser cookies"
+msgstr "Kiriza ebigattibwako okukozesa kukisi za brawuza"
 
 msgctxt "PluginsPage|"
 msgid "Updating installed add-ons..."
-msgstr ""
+msgstr "Okulongoosa eby'okwongerako ebiteekeddwawo..."
 
 msgctxt "PluginsPage|"
 msgid "There are no installed add-ons."
-msgstr ""
+msgstr "Tewali bikozesebwa biteekeddwamu."
 
 msgctxt "PluginsPage|"
 msgid "Install add-on from file"
-msgstr ""
+msgstr "Teeka add-on okuva mu fayiro"
 
 msgctxt "PluginsPage|"
 msgid "Learn more about %1 add-ons"
-msgstr ""
+msgstr "Manya ebisingawo ku %1 add-ons"
 
 msgctxt "PluginsPage|"
 msgid "Install"
-msgstr ""
+msgstr "Teekamu"
 
 msgctxt "PluginsPage|"
 msgid "Cancel"
@@ -3748,35 +3750,35 @@ msgstr "Sazaamu"
 
 msgctxt "PluginsPage|"
 msgid "%1 add-ons files"
-msgstr ""
+msgstr "%1 fayiro z'eby'okwongerako"
 
 msgctxt "PluginsPage|"
 msgid "Failed to install add-on"
-msgstr ""
+msgstr "Eremereddwa okuteeka add-on"
 
 msgctxt "PluginsPage|"
 msgid "Warning!"
-msgstr ""
+msgstr "Okulabula!"
 
 msgctxt "PluginsPage|"
 msgid "Add-on requests dangerous permissions:"
-msgstr ""
+msgstr "Add-on esaba olukusa olw'akabi:"
 
 msgctxt "PluginsPage|"
 msgid "Add-on requests dangerous permission:"
-msgstr ""
+msgstr "Add-on esaba olukusa olw'akabi:"
 
 msgctxt "PluginsPage|"
 msgid "Please install add-ons from trusted sources only."
-msgstr ""
+msgstr "Nsaba oteekemu eby'okwongerako okuva mu nsonda ezesigika zokka."
 
 msgctxt "PluginsPage|"
 msgid "Would you like to continue the installation?"
-msgstr ""
+msgstr "Wandyagadde okugenda mu maaso n'okussaako?"
 
 msgctxt "PluginsPage|"
 msgid "The following required components are missing:"
-msgstr ""
+msgstr "Ebitundu bino wammanga ebyetaagisa tebiriimu:"
 
 msgctxt "PluginsPage|"
 msgid "%1 is required."
@@ -3784,65 +3786,65 @@ msgstr "%1 yetagisibwa."
 
 msgctxt "PluginsPage|"
 msgid "Would you like to install them?"
-msgstr ""
+msgstr "Wandyagadde okuziteeka mu nkola?"
 
 msgctxt "PluginsPage|"
 msgid "Would you like to install it?"
-msgstr ""
+msgstr "Wandyagadde okugiteeka mu nkola?"
 
 msgctxt "PluginsPage|"
 msgid "No updates found"
-msgstr ""
+msgstr "Tewali bipya bizuuliddwa"
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Failed to update add-on"
-msgstr ""
+msgstr "Eremereddwa okulongoosa add-on"
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Warning!"
-msgstr ""
+msgstr "Okulabula!"
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "New version of %1 add-on requests dangerous permissions:"
-msgstr ""
+msgstr "Enkyusa empya eya %1 add-on esaba olukusa olw'akabi:"
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "New version of %1 add-on requests dangerous permission:"
-msgstr ""
+msgstr "Enkyusa empya eya %1 add-on esaba olukusa olw'akabi:"
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Please install add-ons from trusted sources only."
-msgstr ""
+msgstr "Nsaba oteekemu eby'okwongerako okuva mu nsonda ezesigika zokka."
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Would you like to continue the installation?"
-msgstr ""
+msgstr "Wandyagadde okugenda mu maaso n'okussaako?"
 
 msgctxt "PluginsUpdateUiManager|"
 msgid ""
 "New version of %1 add-on requires additional components:\n"
 "%2"
-msgstr ""
+msgstr "Enkyusa empya eya %1 add-on yeetaaga ebitundu ebirala: %2"
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "New version of %1 add-on requires %2."
-msgstr ""
+msgstr "Enkyusa empya eya %1 add-on yeetaaga %2."
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Would you like to install them?"
-msgstr ""
+msgstr "Wandyagadde okuziteeka mu nkola?"
 
 msgctxt "PluginsUpdateUiManager|"
 msgid "Would you like to install it?"
-msgstr ""
+msgstr "Wandyagadde okugiteeka mu nkola?"
 
 msgctxt "PluginsViewItem|"
-msgid "Allow Automatic Updates"
-msgstr ""
+msgid "Allow automatic updates"
+msgstr "Kiriza okulongoosa mu ngeri ey'otoma"
 
 msgctxt "PluginsViewItem|"
-msgid "Check for Updates"
-msgstr ""
+msgid "Check for updates"
+msgstr "Kebera oba waliwo ebipya"
 
 msgctxt "PluginsViewItem|"
 msgid "Remove"
@@ -3858,11 +3860,11 @@ msgstr "Enkyuusa: %1"
 
 msgctxt "PluginsViewItem|"
 msgid "OK to remove?"
-msgstr ""
+msgstr "OK okuggyawo?"
 
 msgctxt "PreferredFileTypeCombobox|"
 msgid "Audio"
-msgstr ""
+msgstr "Ebyokuwulira"
 
 msgctxt "PreferredFileTypeCombobox|"
 msgid "Video"
@@ -3870,29 +3872,29 @@ msgstr "Vidiyo"
 
 msgctxt "PreferredVideoQualityCombobox|"
 msgid "Lowest"
-msgstr ""
+msgstr "Ekisinga wansi"
 
 msgctxt "PreferredVideoQualityCombobox|"
 msgid "Highest"
-msgstr ""
+msgstr "Ekisinga waggulu"
 
 msgctxt "PrivacyDialog|"
 msgid "User agreement"
-msgstr ""
+msgstr "Endagaano y'omukozesa"
 
 msgctxt "PrivacyDialog|"
 msgid ""
 "A bug report will be sent to the server and used to improve %1 performance. We do "
 "not collect your personal data and do not share data with third parties."
-msgstr ""
+msgstr "Lipoota y'obuzibu ejja kusindikibwa ku seva era ekozesebwa okulongoosa omulimu gwa %1. Tetukung’aanya bikwata ku muntu wo era tetugabana data n'enjuyi ez'okusatu."
 
 msgctxt "PrivacyDialog|"
 msgid "I agree (do not show it again)"
-msgstr ""
+msgstr "Nzikiriziganya (toddamu kukiraga)"
 
 msgctxt "PrivacyDialog|"
 msgid "Send report"
-msgstr ""
+msgstr "Weereza lipoota"
 
 msgctxt "PrivacyDialog|"
 msgid "Cancel"
@@ -3907,19 +3909,19 @@ msgctxt ""
 "or to 'RTL' in right-to-left languages (such as Hebrew and Arabic) to get proper UI "
 "layout."
 msgid "QT_LAYOUT_DIRECTION"
-msgstr ""
+msgstr "LTR"
 
 msgctxt "QObject|"
 msgid "Unexpected error"
-msgstr ""
+msgstr "Ensobi etasuubirwa"
 
 msgctxt "QObject|"
 msgid "Service connection terminated."
-msgstr ""
+msgstr "Enkolagana y'empeereza ekomye."
 
 msgctxt "QObject|"
 msgid "App backend's server listen failed."
-msgstr ""
+msgstr "App backend's server okuwuliriza kulemereddwa."
 
 msgctxt "QObject|"
 msgid "Error"
@@ -3927,19 +3929,19 @@ msgstr "Ekisobyo"
 
 msgctxt "QObject|"
 msgid "Connection failure"
-msgstr ""
+msgstr "Okulemererwa kw’okuyungibwa"
 
 msgctxt "QObject|"
 msgid "App frontend's server listen failed."
-msgstr ""
+msgstr "App frontend's server okuwuliriza kulemereddwa."
 
 msgctxt "QObject|"
 msgid "QML load failure."
-msgstr ""
+msgstr "Okutikka QML kulemereddwa."
 
 msgctxt "QObject|"
 msgid "Failed to initialize app state manager."
-msgstr ""
+msgstr "Eremereddwa okutandikawo app state manager."
 
 msgctxt "QObject|"
 msgid ""
@@ -3955,15 +3957,15 @@ msgstr "Yingiza URL"
 
 msgctxt "QObject|"
 msgid "Drag-and-drop URL"
-msgstr ""
+msgstr "URL ey’okusika n’okusuula"
 
 msgctxt "QObject|"
 msgid "Sorry this device is not supported by %1."
-msgstr ""
+msgstr "Bambi ekyuma kino tekiwagirwa %1."
 
 msgctxt "QObject|"
 msgid "%1 has failed to initialize. Please reinstall."
-msgstr ""
+msgstr "%1 eremereddwa okutandika. Nsaba oddemu okuteeka."
 
 msgctxt "QObject|"
 msgid "Reason: %1"
@@ -3971,33 +3973,31 @@ msgstr "Ensoonga: %1"
 
 msgctxt "QObject|"
 msgid "Contact Support"
-msgstr ""
+msgstr "Tuukirira Obuwagizi"
 
 msgctxt "QObject|"
 msgid "Exit"
-msgstr ""
+msgstr "Fuluma"
 
 msgctxt "QObject|"
 msgid "Show main window"
-msgstr ""
+msgstr "Laga eddirisa eddene"
 
 msgctxt "QObject|"
 msgid "About %1"
-msgstr ""
+msgstr "Ebikwata ku %1"
 
 msgctxt "QObject|"
 msgid "Quit"
-msgstr ""
+msgstr "Fuluma"
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "Preferences..."
-msgstr ""
-"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+msgstr "Ensengeka..."
 
 msgctxt "QObject|"
 msgid "Check for updates..."
-msgstr ""
+msgstr "Kebera omanye ebipya..."
 
 msgctxt "QObject|"
 msgid "%1 B"
@@ -4093,47 +4093,47 @@ msgstr "Dawuniloodi egatidwako"
 
 msgctxt "QObject|"
 msgid "Unknown error"
-msgstr ""
+msgstr "Wazzewo ensobi etamanyiddwa"
 
 msgctxt "QObject|"
 msgid "File read error"
-msgstr ""
+msgstr "Ensobi mu kusoma fayiro"
 
 msgctxt "QObject|"
 msgid "Failed to read from file"
-msgstr ""
+msgstr "Eremereddwa okusoma okuva mu fayiro"
 
 msgctxt "QObject|"
 msgid "File write error"
-msgstr ""
+msgstr "Ensobi mu kuwandiika fayiro"
 
 msgctxt "QObject|"
 msgid "Failed to write to file"
-msgstr ""
+msgstr "Eremereddwa okuwandiika mu fayiro"
 
 msgctxt "QObject|"
 msgid "File open error"
-msgstr ""
+msgstr "Ensobi mu kuggulawo fayiro"
 
 msgctxt "QObject|"
 msgid "Failed to open file"
-msgstr ""
+msgstr "Eremereddwa okuggulawo fayiro"
 
 msgctxt "QObject|"
 msgid "Access denied"
-msgstr ""
+msgstr "Okuyingira kugaaniddwa"
 
 msgctxt "QObject|"
 msgid "Access to file is denied"
-msgstr ""
+msgstr "Okuyingira mu fayiro kugaaniddwa"
 
 msgctxt "QObject|"
 msgid "File error"
-msgstr ""
+msgstr "Ensobi mu fayiro"
 
 msgctxt "QObject|"
 msgid "Unknown file I/O error"
-msgstr ""
+msgstr "Ensobi ya I/O ya fayiro etamanyiddwa"
 
 msgctxt "QObject|"
 msgid "HTTP Error %1"
@@ -4141,331 +4141,331 @@ msgstr "Ekisobu kya HTTP %1"
 
 msgctxt "QObject|"
 msgid "Bad Request"
-msgstr ""
+msgstr "Okusaba Okubi"
 
 msgctxt "QObject|"
 msgid "Unauthorized"
-msgstr ""
+msgstr "Ebitakkirizibwa"
 
 msgctxt "QObject|"
 msgid "Payment Required"
-msgstr ""
+msgstr "Okusasula Kyetaagisa"
 
 msgctxt "QObject|"
 msgid "Forbidden"
-msgstr ""
+msgstr "Kigaaniddwa"
 
 msgctxt "QObject|"
 msgid "Not Found"
-msgstr ""
+msgstr "Tekizuuliddwa"
 
 msgctxt "QObject|"
 msgid "Method Not Allowed"
-msgstr ""
+msgstr "Enkola Tekkirizibwa"
 
 msgctxt "QObject|"
 msgid "Not Acceptable"
-msgstr ""
+msgstr "Tekikkirizibwa"
 
 msgctxt "QObject|"
 msgid "Proxy Authentication Required"
-msgstr ""
+msgstr "Okukakasa Proxy Kyetaagisa"
 
 msgctxt "QObject|"
 msgid "Request Timeout"
-msgstr ""
+msgstr "Okusaba Timeout"
 
 msgctxt "QObject|"
 msgid "Conflict"
-msgstr ""
+msgstr "Katabanguko"
 
 msgctxt "QObject|"
 msgid "Gone"
-msgstr ""
+msgstr "Tekikyaliwo"
 
 msgctxt "QObject|"
 msgid "Length Required"
-msgstr ""
+msgstr "Obuwanvu Bwetaagisa"
 
 msgctxt "QObject|"
 msgid "Precondition Failed"
-msgstr ""
+msgstr "Akakwakkulizo akasookerwako kalemereddwa"
 
 msgctxt "QObject|"
 msgid "Request Entity Too Large"
-msgstr ""
+msgstr "Saba Entity Kinene Nnyo"
 
 msgctxt "QObject|"
 msgid "Request-URI Too Long"
-msgstr ""
+msgstr "Okusaba-URI Ewanvu nnyo"
 
 msgctxt "QObject|"
 msgid "Unsupported Media Type"
-msgstr ""
+msgstr "Ekika ky'Emikutu Ekitawagirwa"
 
 msgctxt "QObject|"
 msgid "Requested Range Not Satisfiable"
-msgstr ""
+msgstr "Range Esabiddwa Tematira"
 
 msgctxt "QObject|"
 msgid "Expectation Failed"
-msgstr ""
+msgstr "Okusuubira Kulemereddwa"
 
 msgctxt "QObject|"
 msgid "I'm a teapot"
-msgstr ""
+msgstr "Nze ndi kiyungu kya caayi"
 
 msgctxt "QObject|"
 msgid "Authentication Timeout"
-msgstr ""
+msgstr "Ekiseera ky'okukakasa kiweddeko"
 
 msgctxt "QObject|"
 msgid "Method Failure / Enhance Your Calm"
-msgstr ""
+msgstr "Enkola Okulemererwa / Yongera Obukkakkamu Bwo"
 
 msgctxt "QObject|"
 msgid "Unprocessable Entity"
-msgstr ""
+msgstr "Tekisobola kulongoosebwa"
 
 msgctxt "QObject|"
 msgid "Locked"
-msgstr ""
+msgstr "Kisibiddwa"
 
 msgctxt "QObject|"
 msgid "Failed Dependency / Method Failure"
-msgstr ""
+msgstr "Okulemererwa Okwesigamira / Enkola Okulemererwa"
 
 msgctxt "QObject|"
 msgid "Unordered Collection"
-msgstr ""
+msgstr "Okukunganya Okutalagirwa"
 
 msgctxt "QObject|"
 msgid "Upgrade Required"
-msgstr ""
+msgstr "Okulongoosa Kyetaagisa"
 
 msgctxt "QObject|"
 msgid "Precondition Required"
-msgstr ""
+msgstr "Akakwakkulizo akasookerwako Yeetaagibwa"
 
 msgctxt "QObject|"
 msgid "Too Many Requests"
-msgstr ""
+msgstr "Okusaba Kungi Nnyo"
 
 msgctxt "QObject|"
 msgid "Request Header Fields Too Large"
-msgstr ""
+msgstr "Ennimiro z'omutwe gw'okusaba zinene nnyo"
 
 msgctxt "QObject|"
 msgid "Login Timeout"
-msgstr ""
+msgstr "Okuyingira Ekiseera Ekiwedde"
 
 msgctxt "QObject|"
 msgid "No Response"
-msgstr ""
+msgstr "Tewali Kuddamu"
 
 msgctxt "QObject|"
 msgid "Retry With"
-msgstr ""
+msgstr "Ddamu Gezaako Ne"
 
 msgctxt "QObject|"
 msgid "Blocked by Windows Parental Controls"
-msgstr ""
+msgstr "Ezibiddwa Windows Parental Controls"
 
 msgctxt "QObject|"
 msgid "Unavailable For Legal Reasons"
-msgstr ""
+msgstr "Tekiriwo Olw'ensonga z'amateeka"
 
 msgctxt "QObject|"
 msgid "Request Header Too Large"
-msgstr ""
+msgstr "Omutwe gw'okusaba Munene Nnyo"
 
 msgctxt "QObject|"
 msgid "Cert Error"
-msgstr ""
+msgstr "Ensobi mu Cert"
 
 msgctxt "QObject|"
 msgid "No Cert"
-msgstr ""
+msgstr "Tewali Cert"
 
 msgctxt "QObject|"
 msgid "HTTP to HTTPS"
-msgstr ""
+msgstr "HTTP okutuuka ku HTTPS"
 
 msgctxt "QObject|"
 msgid "Token expired/invalid"
-msgstr ""
+msgstr "Token eggwaako/tekyakola"
 
 msgctxt "QObject|"
 msgid "Client Closed Request"
-msgstr ""
+msgstr "Klayenti yaggadde okusaba"
 
 msgctxt "QObject|"
 msgid "Internal Server Error"
-msgstr ""
+msgstr "Ensobi mu Seva ey'omunda"
 
 msgctxt "QObject|"
 msgid "Not Implemented"
-msgstr ""
+msgstr "Tekiteekebwa mu nkola"
 
 msgctxt "QObject|"
 msgid "Bad Gateway"
-msgstr ""
+msgstr "Gateway embi"
 
 msgctxt "QObject|"
 msgid "Service Unavailable"
-msgstr ""
+msgstr "Empeereza Tekiriwo"
 
 msgctxt "QObject|"
 msgid "Gateway Timeout"
-msgstr ""
+msgstr "Ekiseera kya Gateway Ekiggwaako"
 
 msgctxt "QObject|"
 msgid "HTTP Version Not Supported"
-msgstr ""
+msgstr "Enkyusa ya HTTP Tewagirwa"
 
 msgctxt "QObject|"
 msgid "Variant Also Negotiates"
-msgstr ""
+msgstr "Variant Era Eteesa"
 
 msgctxt "QObject|"
 msgid "Insufficient Storage"
-msgstr ""
+msgstr "Okutereka Okutamala"
 
 msgctxt "QObject|"
 msgid "Loop Detected"
-msgstr ""
+msgstr "Loop Ezuuliddwa"
 
 msgctxt "QObject|"
 msgid "Bandwidth Limit Exceeded"
-msgstr ""
+msgstr "Ekkomo ku Bandwidth Lisukkiridde"
 
 msgctxt "QObject|"
 msgid "Not Extended"
-msgstr ""
+msgstr "Tekigaziyiziddwa"
 
 msgctxt "QObject|"
 msgid "Network Authentication Required"
-msgstr ""
+msgstr "Okukakasa Omukutu Kyetaagisa"
 
 msgctxt "QObject|"
 msgid "Network read timeout error"
-msgstr ""
+msgstr "Ensobi mu kiseera ky'okusoma ku mutimbagano"
 
 msgctxt "QObject|"
 msgid "Network connect timeout error"
-msgstr ""
+msgstr "Ensobi mu kiseera ky'okuyunga omukutu"
 
 msgctxt "QObject|"
 msgid "Unsupported"
-msgstr ""
+msgstr "Tekiwagirwa"
 
 msgctxt "QObject|"
 msgid "Invalid parameter"
-msgstr ""
+msgstr "Parameter etali ntuufu"
 
 msgctxt "QObject|"
 msgid "Unsupported format"
-msgstr ""
+msgstr "Fomati etawagirwa"
 
 msgctxt "QObject|"
 msgid "Not found"
-msgstr ""
+msgstr "Tekizuuliddwa"
 
 msgctxt "QObject|"
 msgid "Incompatible version"
-msgstr ""
+msgstr "Enkyusa etakwatagana"
 
 msgctxt "QObject|"
 msgid "Security check failed"
-msgstr ""
+msgstr "Okukebera ebyokwerinda kulemereddwa"
 
 msgctxt "QObject|"
 msgid "Already exists"
-msgstr ""
+msgstr "Ebaddewo dda"
 
 msgctxt "QObject|"
 msgid "Host not found"
-msgstr ""
+msgstr "Host tezuuliddwa"
 
 msgctxt "QObject|"
 msgid "Operation canceled"
-msgstr ""
+msgstr "Omulimu gusaziddwamu"
 
 msgctxt "QObject|"
 msgid "Connection closed"
-msgstr ""
+msgstr "Okuyungibwa kuggaddwa"
 
 msgctxt "QObject|"
 msgid "Timed out"
-msgstr ""
+msgstr "Ekiseera kiweddeko"
 
 msgctxt "QObject|"
 msgid "SSL handshake failed"
-msgstr ""
+msgstr "Okukwatagana mu ngalo kwa SSL kulemereddwa"
 
 msgctxt "QObject|"
 msgid "Connection refused"
-msgstr ""
+msgstr "Okuyungibwa kugaaniddwa"
 
 msgctxt "QObject|"
 msgid "Network error"
-msgstr ""
+msgstr "Ensobi ku mutimbagano"
 
 msgctxt "QObject|"
 msgid "Operation not permitted"
-msgstr ""
+msgstr "Okukola tekukkirizibwa"
 
 msgctxt "QObject|"
 msgid "No resume support"
-msgstr ""
+msgstr "Tewali buwagizi bwa resume"
 
 msgctxt "QObject|"
 msgid "Resource changed"
-msgstr ""
+msgstr "Ekikozesebwa kikyusiddwa"
 
 msgctxt "QObject|"
 msgid "Resource changed on server"
-msgstr ""
+msgstr "Ekikozesebwa kikyusiddwa ku seva"
 
 msgctxt "QObject|"
 msgid "Fast resume failure"
-msgstr ""
+msgstr "Okuddamu amangu kulemereddwa"
 
 msgctxt "QObject|"
 msgid "Can't process page"
-msgstr ""
+msgstr "Tesobola kukola ku lupapula"
 
 msgctxt "QObject|"
 msgid "Error processing page content"
-msgstr ""
+msgstr "Ensobi mu kukola ku birimu ku lupapula"
 
 msgctxt "QObject|"
 msgid "Unwanted behavior"
-msgstr ""
+msgstr "Enneeyisa etayagala"
 
 msgctxt "QObject|"
 msgid "Unwanted behavior detected"
-msgstr ""
+msgstr "Enneeyisa etayagala ezuuliddwa"
 
 msgctxt "QObject|"
 msgid "Unknown host key"
-msgstr ""
+msgstr "Ekisumuluzo kya host ekitamanyiddwa"
 
 msgctxt "QObject|"
 msgid "Public key of the host is unknown"
-msgstr ""
+msgstr "Ekisumuluzo ky'olukale ekya host tekimanyiddwa"
 
 msgctxt "QObject|"
 msgid "Unsupported URL"
-msgstr ""
+msgstr "URL etawagirwa"
 
 msgctxt "QObject|"
 msgid "Untitled"
-msgstr ""
+msgstr "Tewali mutwe"
 
 msgctxt "QObject|"
 msgid "Failed to remove current version"
-msgstr ""
+msgstr "Eremereddwa okuggyawo enkyusa eriwo kati"
 
 msgctxt "QObject|"
 msgid "hdiutil error %1"
@@ -4473,11 +4473,11 @@ msgstr "ekisobu kya hdiutil %1"
 
 msgctxt "QObject|"
 msgid "Mount point does not exist"
-msgstr ""
+msgstr "Mount point tewali"
 
 msgctxt "QObject|"
 msgid "Signature check failure."
-msgstr ""
+msgstr "Okukakasa omukono kulemereddwa."
 
 msgctxt "QObject|"
 msgid "Download with %1"
@@ -4503,26 +4503,25 @@ msgctxt "QObject|"
 msgid "Music"
 msgstr "Oluyimba"
 
-#, fuzzy
 msgctxt "QObject|"
 msgid "There is not enough disk space."
-msgstr "Tewali kifo kimala ku disik"
+msgstr "Tewali kifo kya disiki kimala."
 
 msgctxt "QObject|"
 msgid ""
 "The list of downloads is damaged.\n"
 "%1 has failed to restore it from backup.\n"
 "Please close all your web browsers and try again."
-msgstr ""
+msgstr "Olukalala lw’ebintu ebiwanuliddwa lwonoonese. %1 eremereddwa okugizzaawo okuva mu backup. Nsaba oggale web browser zo zonna era ogezeeko nate."
 
 msgctxt "QObject|"
 msgid "Fatal error: failed to load the database."
-msgstr ""
+msgstr "Ensobi etta: eremereddwa okutikka database."
 
 msgctxt "QObject|"
 msgid ""
 "Would you like to erase it (this will clear your downloads list and all %1 data)?"
-msgstr ""
+msgstr "Wandyagadde okugisangulawo (kino kijja kusangulawo olukalala lwo olw'ebintu by'owanula ne data yonna eya %1)?"
 
 msgctxt "QObject|"
 msgid "Failed."
@@ -4530,55 +4529,55 @@ msgstr "Kigaanye."
 
 msgctxt "QObject|"
 msgid "Missing %path% parameter."
-msgstr ""
+msgstr "Ebula %path% parameter."
 
 msgctxt "QObject|"
 msgid "Update URL"
-msgstr ""
+msgstr "Okulongoosa URL"
 
 msgctxt "QObject|"
 msgid "Documents"
-msgstr ""
+msgstr "Ebiwandiiko"
 
 msgctxt "QObject|"
 msgid "Pictures"
-msgstr ""
+msgstr "Ebifaananyi"
 
 msgctxt "QObject|"
 msgid "Videos"
-msgstr ""
+msgstr "Vidiyo"
 
 msgctxt "QObject|"
 msgid "Miscellaneous"
-msgstr ""
+msgstr "Ebintu eby'enjawulo"
 
 msgctxt "QObject|"
 msgid "upload paused"
-msgstr ""
+msgstr "Okuteeka ku mukutu kuyimiriziddwa"
 
 msgctxt "QObject|"
 msgid "PAUSE ALL"
-msgstr ""
+msgstr "YIMIRIRAKO BYONNA"
 
 msgctxt "QObject|"
 msgid "Downloading..."
-msgstr ""
+msgstr "Okuwanula..."
 
 msgctxt "QObject|"
 msgid "DISABLE SNAIL MODE"
-msgstr ""
+msgstr "LEKESA ENKOLA EMPOLA"
 
 msgctxt "QObject|"
 msgid "SNAIL MODE"
-msgstr ""
+msgstr "ENKOLA EMPOLA"
 
 msgctxt "QObject|"
 msgid "YouTube downloads are not available"
-msgstr ""
+msgstr "Ebiwanula ku YouTube tebiriiwo"
 
 msgctxt "QObject|"
 msgid "Files were modified"
-msgstr ""
+msgstr "Fayiro zakyusibwa"
 
 msgctxt "QObject|"
 msgid "%1 of unknown at %2"
@@ -4590,79 +4589,79 @@ msgstr "%1 of %2 at %3"
 
 msgctxt "QObject|"
 msgid "%1 %2 or higher"
-msgstr ""
+msgstr "%1 %2 oba okusingawo"
 
 msgctxt "QObject|"
 msgid "Launch Python code"
-msgstr ""
+msgstr "Tandika koodi ya Python"
 
 msgctxt "QObject|"
 msgid "Allows to execute arbitrary code."
-msgstr ""
+msgstr "Kikkiriza okutambuza koodi yonna."
 
 msgctxt "QObject|"
 msgid "Installing..."
-msgstr ""
+msgstr "Okuteeka..."
 
 msgctxt "QObject|"
 msgid "Uninstalling..."
-msgstr ""
+msgstr "Okuggyawo..."
 
 msgctxt "QObject|"
 msgid "Missing components"
-msgstr ""
+msgstr "Ebitundu ebibulamu"
 
 msgctxt "QObject|"
 msgid "%1 are required"
-msgstr ""
+msgstr "%1 zeetaagibwa"
 
 msgctxt "QObject|"
 msgid "%1 is required"
-msgstr ""
+msgstr "%1 yeetaagibwa"
 
 msgctxt "QObject|"
 msgid "Failed to load"
-msgstr ""
+msgstr "Eremereddwa okutikka"
 
 msgctxt "QObject|"
 msgid "Playlist"
-msgstr ""
+msgstr "Olukalala lw'okuyimba"
 
 msgctxt "QObject|"
 msgid "Open folder"
-msgstr ""
+msgstr "Ggulawo etterekero"
 
 msgctxt "QtFfmpegAvMerger|"
 msgid "%1 returned non-zero (%2) exit status"
-msgstr ""
+msgstr "%1 yazzaayo embeera y'okufuluma etali ya ziro (%2)."
 
 msgctxt "QuaGzipFile|"
 msgid "QIODevice::Append is not supported for GZIP"
-msgstr ""
+msgstr "QIODevice::Append tewagirwa ku GZIP"
 
 msgctxt "QuaGzipFile|"
 msgid "Opening gzip for both reading and writing is not supported"
-msgstr ""
+msgstr "Okuggulawo gzip ku byombi okusoma n'okuwandiika tekiwagirwa"
 
 msgctxt "QuaGzipFile|"
 msgid "You can open a gzip either for reading or for writing. Which is it?"
-msgstr ""
+msgstr "Osobola okuggulawo gzip oba okusoma oba okuwandiika. Kiki?"
 
 msgctxt "QuaGzipFile|"
 msgid "Could not gzopen() file"
-msgstr ""
+msgstr "Teyasobodde fayiro ya gzopen()."
 
 msgctxt "QuaZIODevice|"
 msgid "QIODevice::Append is not supported for QuaZIODevice"
-msgstr ""
+msgstr "QIODevice::Append tewagirwa ku QuaZIODevice"
 
 msgctxt "QuaZIODevice|"
 msgid "QIODevice::ReadWrite is not supported for QuaZIODevice"
-msgstr ""
+msgstr "QIODevice::ReadWrite tewagirwa ku QuaZIODevice"
 
 msgctxt "QuaZipFile|"
 msgid "ZIP/UNZIP API error %1"
-msgstr ""
+msgstr "Ensobi ya ZIP/UNZIP API %1"
 
 msgctxt "QuitConfirmationDialog|"
 msgid "Are you sure you want to quit?"
@@ -4678,7 +4677,7 @@ msgstr "Sazaamu"
 
 msgctxt "RemoteControlSettings|"
 msgid "Remote Access"
-msgstr ""
+msgstr "Okuyingira okuva ewala"
 
 msgctxt "RemoteControlSettings|"
 msgid "(beta)"
@@ -4686,7 +4685,7 @@ msgstr "(kugezesa)"
 
 msgctxt "RemoteControlSettings|"
 msgid "Allow remote access to %1 running on this device"
-msgstr ""
+msgstr "Kiriza okuyingira okuva ewala ku %1 ekola ku kyuma kino"
 
 msgctxt "RemoteControlSettings|"
 msgid "Password"
@@ -4698,23 +4697,23 @@ msgstr "Status"
 
 msgctxt "RemoteControlSettings|"
 msgid "Don't use network proxy"
-msgstr ""
+msgstr "Tokozesa proxy ya network"
 
 msgctxt "RemoteControlSettings|"
 msgid "Remote control settings"
-msgstr ""
+msgstr "Enteekateeka z’okufuga okuva ewala"
 
 msgctxt "RemoteResourceChangedDialog|"
 msgid "Remote resource changed"
-msgstr ""
+msgstr "Eky’obugagga eky’ewala kyakyusiddwa"
 
 msgctxt "RemoteResourceChangedDialog|"
 msgid "Always re-download"
-msgstr ""
+msgstr "Bulijjo ddamu okuwanula"
 
 msgctxt "RemoteResourceChangedDialog|"
 msgid "Re-download"
-msgstr ""
+msgstr "Ddamu okuwanula"
 
 msgctxt "RemoteResourceChangedDialog|"
 msgid "Cancel"
@@ -4722,7 +4721,7 @@ msgstr "Sazaamu"
 
 msgctxt "RenameDownloadFileDialog|"
 msgid "Rename file"
-msgstr ""
+msgstr "Kyuusa erinnya lya fayiro"
 
 msgctxt "RenameDownloadFileDialog|"
 msgid "Enter new name"
@@ -4730,7 +4729,7 @@ msgstr "Yingiza elinya epya"
 
 msgctxt "RenameDownloadFileDialog|"
 msgid "A file with that name already exists."
-msgstr ""
+msgstr "Fayiro eriko erinnya eryo eriwo dda."
 
 msgctxt "RenameDownloadFileDialog|"
 msgid "Cancel"
@@ -4742,7 +4741,7 @@ msgstr "KALE"
 
 msgctxt "RenameDownloadFilePage|"
 msgid "Rename file"
-msgstr ""
+msgstr "Kyuusa erinnya lya fayiro"
 
 msgctxt "RenameDownloadFilePage|"
 msgid "OK"
@@ -4750,11 +4749,11 @@ msgstr "KALE"
 
 msgctxt "RenameDownloadFilePage|"
 msgid "Enter new name"
-msgstr ""
+msgstr "Yingiza elinya epya"
 
 msgctxt "RenameDownloadFilePage|"
 msgid "A file with that name already exists."
-msgstr ""
+msgstr "Fayiro eriko erinnya eryo eriwo dda."
 
 msgctxt "ReportSentDialog|"
 msgid "Report problem"
@@ -4774,7 +4773,7 @@ msgstr "KALE"
 
 msgctxt "RestartRequiredLabel|"
 msgid "<a href='#'>Restart is required</a>"
-msgstr ""
+msgstr "<a href='#'>Okuddamu okutandika kyetaagisa</a>"
 
 msgctxt "SaveTo|"
 msgid "Save to"
@@ -4830,23 +4829,23 @@ msgstr "Okutuusa:"
 
 msgctxt "SchedulerButton|"
 msgid "Scheduler"
-msgstr ""
+msgstr "Enteekateeka"
 
 msgctxt "SchedulerCheckbox|"
 msgid "Scheduler"
-msgstr ""
+msgstr "Enteekateeka"
 
 msgctxt "SchedulerDialog|"
 msgid "Scheduler"
-msgstr ""
+msgstr "Enteekateeka"
 
 msgctxt "SchedulerDialog|"
 msgid "Start and pause downloads at specified time"
-msgstr ""
+msgstr "Tandika era oyimirize okuwanula mu kiseera ekiragiddwa"
 
 msgctxt "SchedulerDialog|"
 msgid "Enable Scheduler"
-msgstr ""
+msgstr "Ssobozesa Enteekateeka"
 
 msgctxt "SchedulerDialog|"
 msgid "Cancel"
@@ -4854,15 +4853,15 @@ msgstr "Sazaamu"
 
 msgctxt "SchedulerDialog|"
 msgid "Apply"
-msgstr ""
+msgstr "Teekesa"
 
 msgctxt "SchedulerDialog|"
 msgid "All the day"
-msgstr ""
+msgstr "Olunaku lwonna"
 
 msgctxt "SchedulerDialog|"
 msgid "Everyday"
-msgstr ""
+msgstr "Buli lunaku"
 
 msgctxt "SchedulerDialog|"
 msgid "Close"
@@ -4870,47 +4869,47 @@ msgstr "Galawo"
 
 msgctxt "SchedulerDialog|"
 msgid "Sun"
-msgstr ""
+msgstr "Ssande"
 
 msgctxt "SchedulerDialog|"
 msgid "Mon"
-msgstr ""
+msgstr "Bbalaza"
 
 msgctxt "SchedulerDialog|"
 msgid "Tue"
-msgstr ""
+msgstr "Lwakubiri"
 
 msgctxt "SchedulerDialog|"
 msgid "Wed"
-msgstr ""
+msgstr "Lwakusatu"
 
 msgctxt "SchedulerDialog|"
 msgid "Thu"
-msgstr ""
+msgstr "Lwakuna"
 
 msgctxt "SchedulerDialog|"
 msgid "Fri"
-msgstr ""
+msgstr "Lwakutaano"
 
 msgctxt "SchedulerDialog|"
 msgid "Sat"
-msgstr ""
+msgstr "Lwamukaaga"
 
 msgctxt "SchedulerTools|"
 msgid "Set days of the week to enable Scheduler"
-msgstr ""
+msgstr "Teekawo ennaku za wiiki okusobozesa Enteekateeka"
 
 msgctxt "SearchField|"
 msgid "Search"
-msgstr ""
+msgstr "Noonya"
 
 msgctxt "SearchToolbar|"
 msgid "Search"
-msgstr ""
+msgstr "Noonya"
 
 msgctxt "SelectModeTopBar|"
 msgid "Selected: %1"
-msgstr ""
+msgstr "Ekirondeddwa: %1"
 
 msgctxt "SelectSortFieldDialog|"
 msgid "Sort"
@@ -4918,38 +4917,35 @@ msgstr "Loonda"
 
 msgctxt "SelectSortFieldDialog|"
 msgid "By date"
-msgstr ""
+msgstr "Okusinziira ku lunaku"
 
-#, fuzzy
 msgctxt "SelectSortFieldDialog|"
 msgid "By name"
-msgstr "Erinnya ly’akafolda akaddako lirimu obubonero obutakkirizibwa"
+msgstr "Mu linnya"
 
 msgctxt "SelectSortFieldDialog|"
 msgid "By size"
-msgstr ""
+msgstr "Okusinziira ku bunene"
 
 msgctxt "SelectSortFieldDialog|"
 msgid "Ascending"
-msgstr ""
+msgstr "Okulinnya"
 
 msgctxt "SelectSortFieldDialog|"
 msgid "Descending"
-msgstr ""
+msgstr "Okukka"
 
 msgctxt "SettingsPage|"
 msgid "Invalid settings"
-msgstr ""
+msgstr "Ensengeka ezitali ntuufu"
 
 msgctxt "SettingsPage|"
 msgid ". Close anyway?"
-msgstr ""
+msgstr ". Ggalawo wadde kiri kityo?"
 
-#, fuzzy
 msgctxt "SettingsPage|"
 msgid "Preferences"
-msgstr ""
-"Byombi %1 ne QR code biri mu lupapula lwa Preferences lwa %2 lwo'genda kwegata."
+msgstr "Ensengeka"
 
 msgctxt "SettingsPage|"
 msgid "General"
@@ -4961,11 +4957,11 @@ msgstr "Okuyungibwa ku brawuza"
 
 msgctxt "SettingsPage|"
 msgid "Network"
-msgstr ""
+msgstr "Omukutu"
 
 msgctxt "SettingsPage|"
 msgid "Traffic Limits"
-msgstr ""
+msgstr "Ekkomo ku nkozesa y'omukutu"
 
 msgctxt "SettingsPage|"
 msgid "Antivirus"
@@ -4973,7 +4969,7 @@ msgstr "Antivirus"
 
 msgctxt "SettingsPage|"
 msgid "Remote Access"
-msgstr ""
+msgstr "Okuyingira okuva ewala"
 
 msgctxt "SettingsPage|"
 msgid "Advanced"
@@ -4981,31 +4977,31 @@ msgstr "Ebisukulumu"
 
 msgctxt "SettingsPage|"
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Okugonjoola ebizibu"
 
 msgctxt "SettingsPage|"
 msgid "Settings"
-msgstr ""
+msgstr "Ensengeka"
 
 msgctxt "SettingsPage|"
 msgid "Downloads settings"
-msgstr ""
+msgstr "Enteekateeka z’okuwanula"
 
 msgctxt "SettingsPage|"
 msgid "Network settings"
-msgstr ""
+msgstr "Enteekateeka z’omukutu"
 
 msgctxt "SettingsPage|"
 msgid "Traffic limits"
-msgstr ""
+msgstr "Ekkomo ku nkozesa y'omukutu"
 
 msgctxt "SettingsPage|"
 msgid "Sounds settings"
-msgstr ""
+msgstr "Enteekateeka z’amaloboozi"
 
 msgctxt "SettingsPage|"
 msgid "Remote control settings"
-msgstr ""
+msgstr "Enteekateeka z’okufuga okuva ewala"
 
 msgctxt "SettingsPage|"
 msgid "Advanced settings"
@@ -5013,7 +5009,7 @@ msgstr "Seteengi ez'enjawulo"
 
 msgctxt "SettingsPage|"
 msgid "Reset settings"
-msgstr ""
+msgstr "Ddamu okuteekawo ensengeka"
 
 msgctxt "SettingsPage|"
 msgid "Default settings"
@@ -5029,19 +5025,19 @@ msgstr "Sazaamu"
 
 msgctxt "ShutdownBanner|"
 msgid "Computer will be put to sleep after all downloads are completed."
-msgstr ""
+msgstr "Kompyuta ejja kuteekebwa mu tulo oluvannyuma lw’okuwanula kwonna okuggwa."
 
 msgctxt "ShutdownBanner|"
 msgid "Computer will be hibernate after all downloads are completed."
-msgstr ""
+msgstr "Kompyuta ejja kuteekebwa mu hibernation ng'ebiwanulwa byonna biwedde."
 
 msgctxt "ShutdownBanner|"
 msgid "Computer will be shutdown after all downloads are completed."
-msgstr ""
+msgstr "Kompyuta ejja kuggalwa oluvannyuma lw’okuwanula kwonna."
 
 msgctxt "ShutdownDialog|"
 msgid "Confirm"
-msgstr ""
+msgstr "Kakasa"
 
 msgctxt "ShutdownDialog|"
 msgid "Cancel"
@@ -5053,19 +5049,19 @@ msgstr "KALE (%1)"
 
 msgctxt "ShutdownDialog|"
 msgid "Attention! Your computer will be put to Sleep mode."
-msgstr ""
+msgstr "Weegendereze! Kompyuta yo ejja kuteekebwa mu mbeera y'okwebaka."
 
 msgctxt "ShutdownDialog|"
 msgid "Attention! Your computer will be hibernated."
-msgstr ""
+msgstr "Weegendereze! Kompyuta yo ejja kuteekebwa mu hibernation."
 
 msgctxt "ShutdownDialog|"
 msgid "Attention! Your computer will be shut down."
-msgstr ""
+msgstr "Weegendereze! Kompyuta yo ejja kuggalwa."
 
 msgctxt "SoundsSettings|"
 msgid "Sounds settings"
-msgstr ""
+msgstr "Enteekateeka z’amaloboozi"
 
 msgctxt "SoundsSettings|"
 msgid "Use sounds"
@@ -5188,15 +5184,15 @@ msgstr "Sazaamu"
 
 msgctxt "StopDownloadDialog|"
 msgid "This download can't be resumed after pausing"
-msgstr ""
+msgstr "Okuwanula kuno tekusobola kuddamu oluvannyuma lw'okuyimirira"
 
 msgctxt "StopDownloadDialog|"
 msgid "The download(s) below can't be resumed after pausing"
-msgstr ""
+msgstr "Okuwanula (okuwanula) wansi tekuyinza kuddamu oluvannyuma lw'okuyimirira"
 
 msgctxt "SubmitBugReportDialog|"
 msgid "Submit a bug report"
-msgstr ""
+msgstr "Waayo lipoota y'obuzibu"
 
 msgctxt "SubmitBugReportDialog|"
 msgid "Title"
@@ -5216,11 +5212,11 @@ msgstr "Email"
 
 msgctxt "SubmitBugReportDialog|"
 msgid "Attach %1 log files (recommended)"
-msgstr ""
+msgstr "Gattako fayiro z'ebiwandiiko %1 (ezisembeddwa) ."
 
 msgctxt "SubmitBugReportDialog|"
 msgid "Required fields"
-msgstr ""
+msgstr "Ebitundu ebyetaagisa"
 
 msgctxt "SubmitBugReportDialog|"
 msgid "Close"
@@ -5272,11 +5268,11 @@ msgstr "Ekizikiza"
 
 msgctxt "Toast|"
 msgid "Please grant camera permission to use the QR scanner"
-msgstr ""
+msgstr "Nsaba owe kkamera olukusa okukozesa sikaani ya QR"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Traffic Limits"
-msgstr ""
+msgstr "Ekkomo ku nkozesa y'omukutu"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Low"
@@ -5300,60 +5296,59 @@ msgstr "Sipiidi ya apuloodi"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Maximum number of connections"
-msgstr ""
+msgstr "Omuwendo ogusinga obunene ogw’okuyungibwa"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Maximum number of connections per server"
-msgstr ""
+msgstr "Omuwendo ogusinga obunene ogw'okuyungibwa buli seva"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Maximum number of simultaneous downloads"
-msgstr ""
+msgstr "Omuwendo ogusinga obunene ogw’okuwanula omulundi gumu"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Maximum number of additional querying info downloads:"
-msgstr ""
+msgstr "Omuwendo ogusinga obunene ogw'okuwanula info endala ez'okubuuza:"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Enable additional downloads to optimize speed"
-msgstr ""
+msgstr "Ssobozesa okuwanula ebirala okusobola okulongoosa sipiidi"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Invalid traffic limits settings"
-msgstr ""
+msgstr "Ensengeka z'ekkomo ku ntambula ezitali ntuufu"
 
 msgctxt "TrafficLimitsSettings|"
 msgid "Traffic limits"
-msgstr ""
+msgstr "Ekkomo ku nkozesa y'omukutu"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Troubleshooting"
-msgstr ""
+msgstr "Okugonjoola ebizibu"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Archive logs..."
-msgstr ""
+msgstr "Pakira ebiwandiiko..."
 
 msgctxt "TroubleshootingSettings|"
 msgid "Zip files"
-msgstr ""
+msgstr "Fayiro za zip"
 
-#, fuzzy
 msgctxt "TroubleshootingSettings|"
 msgid "Failed"
-msgstr "Okusangula kwa fayiro endawuloodinge kugaanye"
+msgstr "Kiremye"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Archive service data..."
-msgstr ""
+msgstr "Pakira data y'empeereza..."
 
 msgctxt "TroubleshootingSettings|"
 msgid "Enable enhanced logging"
-msgstr ""
+msgstr "Ssobozesa okuwandiika okulongooseddwa"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Enable LT alerts logging"
-msgstr ""
+msgstr "Ssobozesa okuwandiika okulabula kwa LT"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Restart is required"
@@ -5361,7 +5356,7 @@ msgstr "Oku risitatinga kwetagisa"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Do crash app"
-msgstr ""
+msgstr "Leetera app okugwa"
 
 msgctxt "TroubleshootingSettings|"
 msgid "Hide"
@@ -5373,11 +5368,11 @@ msgstr "Tekuli komo"
 
 msgctxt "TumComboBox|"
 msgid "KB/s"
-msgstr ""
+msgstr "KB/s"
 
 msgctxt "TumComboBox|"
 msgid "unlimited"
-msgstr ""
+msgstr "tewali kkomo"
 
 msgctxt "TumComboBox|"
 msgid "Download: %1, Upload: %2"
@@ -5401,11 +5396,11 @@ msgstr "Tekuli komo"
 
 msgctxt "TumMaxURatioComboBox|"
 msgid "Custom..."
-msgstr ""
+msgstr "Enteekateeka ey'enjawulo..."
 
 msgctxt "TumMaxURatioComboBox|"
 msgid "Please enter numbers only"
-msgstr ""
+msgstr "Nsaba oyingize ennamba zokka"
 
 msgctxt "TumModeBlock|"
 msgid "Download speed"
@@ -5417,23 +5412,23 @@ msgstr "Tekuli komo"
 
 msgctxt "TumModeBlock|"
 msgid "Max. number of simultaneous downloads"
-msgstr ""
+msgstr "Max. omuwendo gw’ebintu ebiwanuliddwa mu kiseera kye kimu"
 
 msgctxt "TumModeBlock|"
 msgid "Snail mode"
-msgstr ""
+msgstr "Enkola empola"
 
 msgctxt "TumModeBlock|"
 msgid "Frees bandwidth without stopping downloads."
-msgstr ""
+msgstr "Esumulula bandwidth nga teyimiriza kuwanula."
 
 msgctxt "TumModeDialog|"
 msgid "Change traffic limits"
-msgstr ""
+msgstr "Kyusa ekkomo ku nkozesa y'omukutu"
 
 msgctxt "TumSettingTextField|"
 msgid "Can't be greater than %1"
-msgstr ""
+msgstr "Tekisobola kuba kinene ku %1"
 
 msgctxt "TuneAndAddDownloadDialog|"
 msgid "New download"
